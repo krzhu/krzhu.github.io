@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "WEI YE'S SITE"
+title                    : "KEREN ZHU'S SITE"
 title_separator          : "-"
-name                     : &name "Wei Ye"
-description              : &description "PhD Candidate at The University of Texas at Austin"
-url                      : https://ywwwer.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Keren Zhu"
+description              : &description "PhD Student at The University of Texas at Austin"
+url                      : https://krzhu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ywwwer.github.io"
+repository               : "krzhu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wei Ye"
-  avatar           : "profile-crop.jpg"
-  bio              : "PhD Candidate at The University of Texas at Austin"
+  name             : "Keren Zhu"
+  avatar           : "KerenZhu.jpg"
+  bio              : "PhD Student at The University of Texas at Austin"
   location         : "Austin, Texas"
   employer         :
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=wy5I3fwAAAAJ"
-  email            : "weiye@utexas.edu"
+  googlescholar    : #"https://scholar.google.com/citations?user=wy5I3fwAAAAJ"
+  email            : "keren.zhu@utexas.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ywwwer"
+  github           : "krzhu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "wye"
+  linkedin         : #"wye"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
