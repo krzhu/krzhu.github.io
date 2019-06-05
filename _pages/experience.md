@@ -11,32 +11,18 @@ author_profile: true
 * **University of Texas at Austin, USA**
   * Research Assistant 
   * ECE department, University of Texas at Austin
-  * August 2015 - Present, Austin, TX
+  * Jan 2019 - Present, Austin, TX
 
-* **Toshiba Memory Group, Ofuna, Japan**
-  * Research Intern
-  * MLG team
-  * June 2019 - Aug 2019, Ofuna, Japan
 
-* **Cadence Design Systems, Inc., USA**
-  * Software Engineering Intern
-  * Voltus Team
-  * Manager: Albert Zeng
+* **Apple., USA**
+  * Intern
+  * SoC PD
+  * Manager: Amjad Qadan
   * May 2018 - August 2018, Austin, TX
-
-* **Hisilicon, China**
-  * Research Intern
-  * Manager: Canhui Zhan 
-  * June 2017 - August 2017, Shenzhen, China 
-
-* **Synopsys Inc., USA**
-  * Technical Intern
-  * CTS Team
-  * Manager: Dwight Hill 
-  * May 2016 - August 2016, Sunnyvale, CA
 
 
 # Teaching Experience
 
-* Teaching Assistant, Fall 2015 and Spring 2016
-  * *EE316 Digital Logic Design*, University of Texas at Austin
+* Teaching Assistant, Spring 2015 and Fall 2018
+  * *EE230 Circuit Analysis*, University of Wisconsin-Madison
+  * *EE382M VLSI CAD and Optimization*, University of Texas at Austin
