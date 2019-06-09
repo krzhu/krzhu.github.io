@@ -13,4 +13,4 @@ redirect_from:
 I am currently a Ph.D. student at the Department of Electrical and Computer Engineering, [University of Texas at Austin](https://www.utexas.edu/), working with Prof. [David Z. Pan](http://www.ece.utexas.edu/~dpan/). I recieved B.S. in electrical engineering with highest distinction from
 [University of Wisconsin-Madison](https://guide.wisc.edu/courses/e_c_e/), working with Prof. [Xinyu Zhang](http://xyzhang.ucsd.edu/).
 
-My current research interests include physical design automation for analog and mixed signal circuits and the application of machine learning in VLSI CAD problems.
+My current research interests include VLSI CAD.
