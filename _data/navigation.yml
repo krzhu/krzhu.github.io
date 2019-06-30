@@ -12,8 +12,9 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title 'Misc.'
-    utl: /misc/
+  - title: "Misc."
+    url: /misc/
+    
     
   - title: "UTDA"
     url: http://www.cerc.utexas.edu/utda/
