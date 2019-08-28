@@ -15,12 +15,10 @@ Conference Papers
 -------
 
 C3. [S3DET: Detecting System Symmetry Constraints for Analog Circuits with Graph Similarity](http://doi.acm.org/) 
-   * <a href="/publications/papers/A_ASPDAC2020_liu" style="color:#3793ae">preprint</a>
    * Mingjie Liu, Wuxi Li, **Keren Zhu**, Biying Xu, Yibo Lin, Linxiao Shen, Xiyuan Tang, Nan Sun and David Z. Pan
    * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC),  Beijing, China, January 13-16, 2020.
 
 C2. [MAGICAL: Toward Fully Automated Analog IC Layout Leveraging Human and Machine Intelligence (invited)](http://doi.acm.org/) 
-   * <a href="/publications/papers/A_ICCAD2019_xu" style="color:#3793ae">preprint</a>
    * Biying Xu, **Keren Zhu**, Mingjie Liu, Yibo Lin, Shaolan Li, Xiyuan Tang, Nan Sun, and David Z. Pan
    * IEEE International Conference on Computer-Aided Design (ICCAD),  Westminster, CO, USA, November 4-7, 2019.
    
