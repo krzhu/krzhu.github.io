@@ -15,9 +15,10 @@ Conference Papers
 -------
 
 C4. [Towards Decrypting the Art of Analog Layout: Placement Quality Prediction via Transfer Learning](http://doi.acm.org/) 
-   * Accepted \*indicates equal contributions
+   * Accepted 
    * Mingjie Liu \*, **Keren Zhu** \*, Jiaqi Gu, Linxiao Shen, Xiyuan Tang, Nan Sun and David Z. Pan
    * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC),  Beijing, China, January 13-16, 2020.
+   * \*indicates equal contributions
 
 C3. [S3DET: Detecting System Symmetry Constraints for Analog Circuits with Graph Similarity](http://doi.acm.org/) 
    * Accepted
