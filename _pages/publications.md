@@ -27,10 +27,11 @@ C3. [S3DET: Detecting System Symmetry Constraints for Analog Circuits with Graph
 
 C2. [MAGICAL: Toward Fully Automated Analog IC Layout Leveraging Human and Machine Intelligence](http://doi.acm.org/) 
    * Invited 
+   * <a href="/publications/papers/A_ICCAD2019_Xu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/A_ICCAD2019_Xu.slides.pptx" style="color:#3793ae">slides</a>
    * Biying Xu, **Keren Zhu**, Mingjie Liu, Yibo Lin, Shaolan Li, Xiyuan Tang, Nan Sun, and David Z. Pan
    * IEEE International Conference on Computer-Aided Design (ICCAD),  Westminster, CO, USA, November 4-7, 2019.
    
 C1. [GeniusRoute: A New Routing Paradigm Using Generative Neural Network Guidance for Analog Circuits](http://doi.acm.org/) 
-   * <a href="/publications/papers/AR_ICCAD2019_zhu" style="color:#3793ae">preprint</a> 
+   * <a href="/publications/papers/AR_ICCAD2019_zhu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/AR_ICCAD2019_Zhu.slides_v4.pptx" style="color:#3793ae">slides</a>
    * **Keren Zhu**, Mingjie Liu, Yibo Lin, Biying Xu, Shaolan Li, Xiyuan Tang, Nan Sun and David Z. Pan
    * IEEE International Conference on Computer-Aided Design (ICCAD),  Westminster, CO, USA, November 4-7, 2019.
