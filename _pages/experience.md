@@ -13,10 +13,15 @@ author_profile: true
   * ECE department, University of Texas at Austin
   * Jan 2019 - Present, Austin, TX
 
+* **Cerebras, USA**
+  * Intern
+  * Stack. Place and Route
+  * Manager: Tom Arns
+  * May 2020 - Present, Remote
 
 * **Apple., USA**
   * Intern
-  * SoC PD
+  * SoC Physical Design
   * Manager: Amjad Qadan
   * May 2018 - August 2018, Austin, TX
 
