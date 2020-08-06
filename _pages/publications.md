@@ -38,7 +38,6 @@ C4. [Towards Decrypting the Art of Analog Layout: Placement Quality Prediction v
    * \*indicates equal contributions
 
 C3. [S3DET: Detecting System Symmetry Constraints for Analog Circuits with Graph Similarity](https://ieeexplore.ieee.org/document/9045109) 
-   * Accepted
    * Mingjie Liu, Wuxi Li, **Keren Zhu**, Biying Xu, Yibo Lin, Linxiao Shen, Xiyuan Tang, Nan Sun and David Z. Pan
    * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC),  Beijing, China, January 13-16, 2020.
 
