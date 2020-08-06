@@ -26,9 +26,12 @@ Education
 
 Work experience
 ------
-* University of Texas at Austin (Jan 2019 - Present) 
+* University of Texas at Austin (Jan 2019 - Present)
+  * Graduate Research Assistant
   * University of Texas at Austin, Austin, TX
-
+* Cerebras, USA
+  * Intern: Stack. Place and Route
+  * May 2020 - Present, Remote
 * Apple (May 2018 - Aug 2018) 
   * Physical Design Intern, Austin, TX
 
@@ -39,11 +42,8 @@ Skills
 * Programming languages
   * C/C++ 
   * Python 
-  * Verilog 
 * EDA tools
-  * Cadence Virtuoso 
-  * Synopsys Design Compiler
-  * Synopsys IC Compiler
+  * Cadence Virtuoso
   
 
 Awards and Honors
