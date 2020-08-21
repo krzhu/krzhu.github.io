@@ -10,7 +10,15 @@ author_profile: true
 You can also find my articles on <a href="{{author.googlescholar}}">my Google Scholar profile</a>.
 {: .notice--info}
             
-            
+Journal Papers
+-------
+
+J1. [MAGICAL: An Open-Source Fully Automated Analog IC Layout System from Netlist to GDSII](http://doi.acm.org/) 
+   * Accepted | Invited
+   * Hao Chen\*, Mingjie Liu \*, Biying Xu\*, **Keren Zhu** \*, Xiyuan Tang, Shaolan Li, Yibo Lin, Nan Sun and David Z. Pan
+   * IEEE Design & Test, 2020.
+   * \*indicates equal contributions
+
 Conference Papers
 -------
 C8. [Toward Silicon-Proven Detailed Routing for Analog and Mixed-Signal Circuits](http://doi.acm.org/) 
