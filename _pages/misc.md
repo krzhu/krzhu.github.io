@@ -13,3 +13,10 @@ My daily life:
 小胖子:
 
 ![cat1](../images/cat1.jpg)
+
+---
+Life:
+![life](../images/phd053007s.gif)
+
+---
+Who lives, who dies, who tells your story?
