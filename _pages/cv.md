@@ -30,10 +30,10 @@ Work experience
   * Graduate Research Assistant
   * University of Texas at Austin, Austin, TX
 * Cerebras, USA
-  * Intern: Stack. Place and Route
+  * Intern: Software: Stack: Place and Route
   * May 2020 - Present, Remote
 * Apple (May 2018 - Aug 2018) 
-  * Physical Design Intern, Austin, TX
+  * Intern: Physical Design: SOC, Austin, TX
 
 
 
