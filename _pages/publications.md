@@ -28,11 +28,12 @@ C8. [Toward Silicon-Proven Detailed Routing for Analog and Mixed-Signal Circuits
 
 C7. [Effective Analog/Mixed-Signal Circuit Placement Considering System Signal Flow](http://doi.acm.org/)  
    * Accepted
+   *  <a href="/publications/papers/AP_ICCAD20_ZHU.pdf" style="color:#3793ae">preprint</a>
    * **Keren Zhu**, Hao Chen, Mingjie Liu, Xiyuan Tang, Nan Sun and David Z. Pan
    * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), November 02-05, 2020
    
 C6. [An Efficient Training Framework for Reversible Neural Architectures](http://doi.acm.org/) 
-   * * <a href="/publications/papers/ML_ECCV20_JIANG.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/ML_ECCV20_JIANG.pptx"  style="color:#3793ae">slides</a>
+   *  <a href="/publications/papers/ML_ECCV20_JIANG.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/ML_ECCV20_JIANG.pptx"  style="color:#3793ae">slides</a>
    * Zixuan Jiang, **Keren Zhu**, Mingjie Liu, Jiaqi Gu and David Z. Pan
    * European Conference on Computer Vision (ECCV), Glasgow, United Kingdom, August 23-27, 2020
 
