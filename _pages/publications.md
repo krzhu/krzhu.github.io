@@ -29,7 +29,7 @@ C8. [Toward Silicon-Proven Detailed Routing for Analog and Mixed-Signal Circuits
 
 C7. [Effective Analog/Mixed-Signal Circuit Placement Considering System Signal Flow](http://doi.acm.org/)  
    * Accepted
-   *  <a href="/_publications/papers/AP_ICCAD20_ZHU.pdf" style="color:#3793ae">preprint</a>
+   *  <a href="/_publications/papers/AP_ICCAD20_ZHU.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/krzhu/IdeaPlaceEx" style="color:#3793ae">source codes</a>
    * **Keren Zhu**, Hao Chen, Mingjie Liu, Xiyuan Tang, Nan Sun and David Z. Pan
    * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), November 02-05, 2020
    
