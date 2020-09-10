@@ -43,7 +43,7 @@ C5. [Closing the Design Loop: Bayesian Optimization Assisted Hierarchical Analog
    * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, July 19-23, 2020.
    
 C4. [Towards Decrypting the Art of Analog Layout: Placement Quality Prediction via Transfer Learning](https://ieeexplore.ieee.org/document/9116330) 
-   *  <a href="/_publications/papers/A_DATE20_LIU.pdf" style="color:#3793ae">preprint</a> \| <a href="/_publications/papers/A_DATE20_LIU_slides.pptx"  style="color:#3793ae">slides</a>
+   *  <a href="/_publications/papers/A_DATE20_LIU.pdf" style="color:#3793ae">preprint</a> \| <a href="/_publications/papers/A_DATE20_LIU_slides.pptx"  style="color:#3793ae">slides</a> \| <a href="https://github.com/magical-eda/UT-AnLay" style="color:#3793ae">source codes</a>
    * Mingjie Liu \*, **Keren Zhu** \*, Jiaqi Gu, Linxiao Shen, Xiyuan Tang, Nan Sun and David Z. Pan
    * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Grenoble, France, Mar. 09-13, 2020.
    * \*indicates equal contributions
