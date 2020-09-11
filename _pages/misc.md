@@ -16,7 +16,14 @@ My daily life:
 
 ---
 Life:
+
 ![life](../images/phd053007s.gif)
+
+---
+
+Never look back:
+
+![ps](../images/research_statement.gif)
 
 ---
 Who lives, who dies, who tells your story?
