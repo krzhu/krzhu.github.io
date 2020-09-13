@@ -13,6 +13,8 @@ My daily life:
 小胖子:
 
 ![cat1](../images/cat1.jpg)
+![cat12](../images/cat2.JPG)
+
 
 ---
 Life:
