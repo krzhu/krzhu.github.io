@@ -29,3 +29,5 @@ Never look back:
 
 ---
 Who lives, who dies, who tells your story?
+
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=100&t=n&d=fwG1IVoPbzEwZdIC_DYPJjeAUhyTjh3YZC-0S2q7Im0"></script>
