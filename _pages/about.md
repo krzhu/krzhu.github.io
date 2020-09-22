@@ -14,3 +14,15 @@ I am currently a Ph.D. student at the Department of Electrical and Computer Engi
 [University of Wisconsin-Madison](https://guide.wisc.edu/courses/e_c_e/).
 
 My research focuses on VLSI CAD.
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-178663221-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-178663221-1');
+</script>
+
