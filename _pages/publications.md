@@ -64,6 +64,7 @@ C1. [GeniusRoute: A New Routing Paradigm Using Generative Neural Network Guidanc
    * <a href="/publications/papers/AR_ICCAD2019_zhu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/AR_ICCAD2019_Zhu.slides_v4.pptx" style="color:#3793ae">slides</a>
    * **Keren Zhu**, Mingjie Liu, Yibo Lin, Biying Xu, Shaolan Li, Xiyuan Tang, Nan Sun and David Z. Pan
    * IEEE International Conference on Computer-Aided Design (ICCAD),  Westminster, CO, USA, November 4-7, 2019.
+   * Best Paper Candidate Nominated from Track
    
    
    
