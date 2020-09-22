@@ -31,3 +31,16 @@ author_profile: true
 * Teaching Assistant, Spring 2015 and Fall 2018
   * *EE230 Circuit Analysis*, University of Wisconsin-Madison
   * *EE382M VLSI CAD and Optimization*, University of Texas at Austin
+
+
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-178663221-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-178663221-1');
+</script>
