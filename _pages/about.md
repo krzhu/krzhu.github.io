@@ -16,6 +16,9 @@ I am currently a Ph.D. student at the Department of Electrical and Computer Engi
 My research focuses on VLSI CAD.
 
 
+<iframe src="https://calendar.google.com/calendar/embed?src=keren.zhu%40utexas.edu&ctz=America%2FChicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-178663221-1"></script>
 <script>
