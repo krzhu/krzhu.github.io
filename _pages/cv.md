@@ -22,7 +22,7 @@ Education
 ------
 * Ph.D. The University of Texas at Austin, TX,  2022 (expected)
   * ECE
-* B.S. University of Wisconsin-Madison, WI  2016
+* B.S. University of Wisconsin-Madison, WI, 2016
   * EE
   * Graduated with the highest distinction
 
