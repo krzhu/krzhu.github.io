@@ -13,6 +13,13 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 Journal Papers
 -------
 
+
+J2. [Challenges and Opportunities Toward Fully Automated Analog Layout Design](http://doi.acm.org/) 
+   * Accepted \| Invited
+   * Hao Chen\*, Mingjie Liu \*, Xiyuan Tang\*, **Keren Zhu** \*, Nan Sun and David Z. Pan
+   * Journal of Semiconductors, 2020.
+   * \* In alphabetic order
+
 J1. [MAGICAL: An Open-Source Fully Automated Analog IC Layout System from Netlist to GDSII](http://doi.acm.org/) 
    * Accepted \| Invited
    * Hao Chen\*, Mingjie Liu \*, Biying Xu\*, **Keren Zhu** \*, Xiyuan Tang, Shaolan Li, Yibo Lin, Nan Sun and David Z. Pan
@@ -29,9 +36,10 @@ C8. [Toward Silicon-Proven Detailed Routing for Analog and Mixed-Signal Circuits
 
 C7. [Effective Analog/Mixed-Signal Circuit Placement Considering System Signal Flow](http://doi.acm.org/)  
    * Accepted
-   *  <a href="/publications/papers/AP_ICCAD20_ZHU.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/krzhu/IdeaPlaceEx" style="color:#3793ae">source codes</a> \| Best Paper Candidate
+   *  <a href="/publications/papers/AP_ICCAD20_ZHU.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/krzhu/IdeaPlaceEx" style="color:#3793ae">source codes</a> 
    * **Keren Zhu**, Hao Chen, Mingjie Liu, Xiyuan Tang, Nan Sun and David Z. Pan
    * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), November 02-05, 2020
+   * Best Paper Candidate Nominated from Track
    
 C6. [An Efficient Training Framework for Reversible Neural Architectures](http://doi.acm.org/) 
    *  <a href="/publications/papers/ML_ECCV20_JIANG.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/ML_ECCV20_JIANG.pptx"  style="color:#3793ae">slides</a>
