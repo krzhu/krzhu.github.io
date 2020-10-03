@@ -17,7 +17,7 @@ author_profile: true
   * Intern
   * Stack. Place and Route
   * Manager: Tom Arns
-  * May 2020 - Present, Remote
+  * May 2020 - October 2020, Remote
 
 * **Apple., USA**
   * Intern
