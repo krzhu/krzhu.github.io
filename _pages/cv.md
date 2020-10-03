@@ -20,8 +20,8 @@ University of Texas at Austin,  Austin, TX 78712
 
 Education
 ------
-* Ph.D. |\ ECE |\ The University of Texas at Austin, TX, \| 2022 (expected)
-* B.S. graduated with the highest distinction \| EE |\ University of Wisconsin-Madison, WI \| 2016 - 
+* Ph.D. \| ECE \| The University of Texas at Austin, TX, \| 2022 (expected)
+* B.S. graduated with the highest distinction \| EE \| University of Wisconsin-Madison, WI \| 2016 - 
 
 
 Work experience
