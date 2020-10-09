@@ -28,6 +28,12 @@ J1. [MAGICAL: An Open-Source Fully Automated Analog IC Layout System from Netlis
 
 Conference Papers
 -------
+
+C9. [Exploring Logic Optimizations with Reinforcement Learning and Graph Convolutional Network](http://doi.acm.org/) 
+   * Accepted
+   * **Keren Zhu**, Mingjie Liu, Hao Chen, Zheng Zhao and David Z. Pan
+   * 2nd ACM/IEEE Workshop on Machine Learning for CAD (MLCAD), November 16-20, 2020
+
 C8. [Toward Silicon-Proven Detailed Routing for Analog and Mixed-Signal Circuits](http://doi.acm.org/) 
    * Accepted
    *  <a href="/publications/papers/AR_ICCAD20_CHEN.pdf" style="color:#3793ae">preprint</a>
