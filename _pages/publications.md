@@ -31,6 +31,7 @@ Conference Papers
 
 C9. [Exploring Logic Optimizations with Reinforcement Learning and Graph Convolutional Network](http://doi.acm.org/) 
    * Accepted
+   *  <a href="/publications/papers/LS_MLCAD2020_ZHU.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/krzhu/abcRL" style="color:#3793ae">source codes</a>
    * **Keren Zhu**, Mingjie Liu, Hao Chen, Zheng Zhao and David Z. Pan
    * 2nd ACM/IEEE Workshop on Machine Learning for CAD (MLCAD), November 16-20, 2020
 
