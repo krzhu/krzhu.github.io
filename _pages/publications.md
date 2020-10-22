@@ -33,7 +33,7 @@ C9. [Exploring Logic Optimizations with Reinforcement Learning and Graph Convolu
    * Accepted
    *  <a href="/publications/papers/LS_MLCAD2020_ZHU.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/krzhu/abcRL" style="color:#3793ae">source codes</a>
    * **Keren Zhu**, Mingjie Liu, Hao Chen, Zheng Zhao and David Z. Pan
-   * 2nd ACM/IEEE Workshop on Machine Learning for CAD (MLCAD), November 16-20, 2020
+   * 2nd ACM/IEEE Workshop on Machine Learning for CAD (MLCAD),Virtual Event, Iceland, November 16-20, 2020
 
 C8. [Toward Silicon-Proven Detailed Routing for Analog and Mixed-Signal Circuits](http://doi.acm.org/) 
    * Accepted
@@ -53,7 +53,7 @@ C6. [An Efficient Training Framework for Reversible Neural Architectures](http:/
    * Zixuan Jiang, **Keren Zhu**, Mingjie Liu, Jiaqi Gu and David Z. Pan
    * European Conference on Computer Vision (ECCV), Glasgow, United Kingdom, August 23-27, 2020
 
-C5. [Closing the Design Loop: Bayesian Optimization Assisted Hierarchical Analog Layout Synthesis](http://doi.acm.org/) 
+C5. [Closing the Design Loop: Bayesian Optimization Assisted Hierarchical Analog Layout Synthesis](https://ieeexplore.ieee.org/document/9218621) 
    * Mingjie Liu, **Keren Zhu**, Xiyuan Tang, Biying Xu, Wei Shi, Nan Sun and David Z. Pan
    * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, July 19-23, 2020.
    
@@ -73,12 +73,12 @@ C2. [MAGICAL: Toward Fully Automated Analog IC Layout Leveraging Human and Machi
    * Invited 
    * <a href="/publications/papers/A_ICCAD2019_Xu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/A_ICCAD2019_Xu.slides.pptx" style="color:#3793ae">slides</a>
    * Biying Xu, **Keren Zhu**, Mingjie Liu, Yibo Lin, Shaolan Li, Xiyuan Tang, Nan Sun, and David Z. Pan
-   * IEEE International Conference on Computer-Aided Design (ICCAD),  Westminster, CO, USA, November 4-7, 2019.
+   * IEEE/ACM International Conference on Computer-Aided Design (ICCAD),  Westminster, CO, USA, November 4-7, 2019.
    
 C1. [GeniusRoute: A New Routing Paradigm Using Generative Neural Network Guidance for Analog Circuits](https://ieeexplore.ieee.org/document/8942164) 
    * <a href="/publications/papers/AR_ICCAD2019_zhu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/AR_ICCAD2019_Zhu.slides_v4.pptx" style="color:#3793ae">slides</a>
    * **Keren Zhu**, Mingjie Liu, Yibo Lin, Biying Xu, Shaolan Li, Xiyuan Tang, Nan Sun and David Z. Pan
-   * IEEE International Conference on Computer-Aided Design (ICCAD),  Westminster, CO, USA, November 4-7, 2019.
+   * IEEE/ACM International Conference on Computer-Aided Design (ICCAD),  Westminster, CO, USA, November 4-7, 2019.
    * Best Paper Candidate Nominated from Track
    
    
