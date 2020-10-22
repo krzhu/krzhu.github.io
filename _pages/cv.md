@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF](/files/resume.pdf){: .btn}
+[PDF](/files/CV.pdf){: .btn}
 
 ## Keren Zhu
 {: .text-center}
