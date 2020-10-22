@@ -20,8 +20,6 @@ My research focuses on VLSI CAD.
 
 
 
-<script data-ad-client="ca-pub-7147113076360642" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-178663221-1"></script>
