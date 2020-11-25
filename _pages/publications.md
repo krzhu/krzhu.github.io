@@ -19,6 +19,7 @@ J2. [Challenges and Opportunities Toward Fully Automated Analog Layout Design](h
    * Hao Chen\*, Mingjie Liu \*, Xiyuan Tang\*, **Keren Zhu** \*, Nan Sun and David Z. Pan
    * Journal of Semiconductors, 2020.
    * \* In alphabetic order
+   * Featured on the cover
 
 J1. [MAGICAL: An Open-Source Fully Automated Analog IC Layout System from Netlist to GDSII](http://doi.acm.org/) 
    * Accepted \| Invited
