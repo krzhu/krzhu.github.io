@@ -14,8 +14,8 @@ Journal Papers
 -------
 
 
-J2. [Challenges and Opportunities Toward Fully Automated Analog Layout Design](http://doi.acm.org/) 
-   * Accepted \| Invited
+J2. [Challenges and Opportunities Toward Fully Automated Analog Layout Design](http://www.jos.ac.cn/article/doi/10.1088/1674-4926/41/11/111407) 
+   * Invited
    * Hao Chen\*, Mingjie Liu \*, Xiyuan Tang\*, **Keren Zhu** \*, Nan Sun and David Z. Pan
    * Journal of Semiconductors, 2020.
    * Featured on the cover
@@ -31,26 +31,23 @@ J1. [MAGICAL: An Open-Source Fully Automated Analog IC Layout System from Netlis
 Conference Papers
 -------
 
-C9. [Exploring Logic Optimizations with Reinforcement Learning and Graph Convolutional Network](http://doi.acm.org/) 
-   * Accepted
+C9. [Exploring Logic Optimizations with Reinforcement Learning and Graph Convolutional Network](https://dl.acm.org/doi/abs/10.1145/3380446.3430622) 
    *  <a href="/publications/papers/LS_MLCAD2020_ZHU.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/krzhu/abcRL" style="color:#3793ae">source codes</a> \|  <a href="/publications/papers/LS_MLCAD2020_ZHU_slides.pptx" style="color:#3793ae">slides</a>
    * **Keren Zhu**, Mingjie Liu, Hao Chen, Zheng Zhao and David Z. Pan
    * 2nd ACM/IEEE Workshop on Machine Learning for CAD (MLCAD),Virtual Event, Iceland, November 16-20, 2020
 
-C8. [Toward Silicon-Proven Detailed Routing for Analog and Mixed-Signal Circuits](http://doi.acm.org/) 
-   * Accepted
-   *  <a href="/publications/papers/AR_ICCAD20_CHEN.pdf" style="color:#3793ae">preprint</a>
+C8. [Toward Silicon-Proven Detailed Routing for Analog and Mixed-Signal Circuits](https://ieeexplore.ieee.org/document/9256548) 
+   *  <a href="/publications/papers/AR_ICCAD20_CHEN.pdf" style="color:#3793ae">preprint</a> \|  <a href="/publications/papers/AR_ICCAD20_CHEN_slides.pdf" style="color:#3793ae">slides</a>
    * Hao Chen, **Keren Zhu**, Mingjie Liu, Xiyuan Tang, Nan Sun and David Z. Pan
    * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), November 02-05, 2020
 
-C7. [Effective Analog/Mixed-Signal Circuit Placement Considering System Signal Flow](http://doi.acm.org/)  
-   * Accepted
-   *  <a href="/publications/papers/AP_ICCAD20_ZHU.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/krzhu/IdeaPlaceEx" style="color:#3793ae">source codes</a> 
+C7. [Effective Analog/Mixed-Signal Circuit Placement Considering System Signal Flow](https://ieeexplore.ieee.org/document/9256717)  
+   *  <a href="/publications/papers/AP_ICCAD20_ZHU.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/krzhu/IdeaPlaceEx" style="color:#3793ae">source codes</a>  \|  <a href="/publications/papers/AP_ICCAD20_ZHU_slides.pptx" style="color:#3793ae">slides</a>
    * **Keren Zhu**, Hao Chen, Mingjie Liu, Xiyuan Tang, Nan Sun and David Z. Pan
    * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), November 02-05, 2020
    * Best Paper Candidate Nominated from Track
    
-C6. [An Efficient Training Framework for Reversible Neural Architectures](http://doi.acm.org/) 
+C6. [An Efficient Training Framework for Reversible Neural Architectures](https://link.springer.com/chapter/10.1007%2F978-3-030-58583-9_17/) 
    *  <a href="/publications/papers/ML_ECCV20_JIANG.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/ML_ECCV20_JIANG.pptx"  style="color:#3793ae">slides</a>
    * Zixuan Jiang, **Keren Zhu**, Mingjie Liu, Jiaqi Gu and David Z. Pan
    * European Conference on Computer Vision (ECCV), Glasgow, United Kingdom, August 23-27, 2020
