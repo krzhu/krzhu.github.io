@@ -9,51 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF](/files/CV.pdf){: .btn}
-
-## Keren Zhu
-{: .text-center}
-Ph.D. Student,  Department of Electrical and Computer Engineering
-{: .text-center}
-University of Texas at Austin,  Austin, TX 78712
-{: .text-center}
-
-Education
-------
-* Ph.D. The University of Texas at Austin, TX,  2022 (expected)
-  * ECE
-* B.S. University of Wisconsin-Madison, WI, 2016
-  * EE
-  * Graduated with the highest distinction
-
-
-Work experience
-------
-* University of Texas at Austin (Jan 2019 - Present)
-  * Graduate Research Assistant
-  * University of Texas at Austin, Austin, TX
-* Cerebras, USA
-  * Intern: Software: Stack: Place and Route
-  * May 2020 - Present, Remote
-* Apple (May 2018 - Aug 2018) 
-  * Intern: Physical Design: SOC, Austin, TX
-
-
-
-Skills
-------
-* Programming languages
-  * C/C++ 
-  * Python 
-* EDA tools
-  * Cadence Virtuoso
-  
-
-Awards and Honors
-------
-* Hilldale Undergraduate/Faculty Research Fellowship, 2015
-* Hugo Jr. and Pennie Longemann Scholarship, 2014
-* Vincent Rideout Scholarshipp, 2013
 
 
 
