@@ -32,9 +32,12 @@ Work experience
 * University of Texas at Austin (Jan 2019 - Present)
   * Graduate Research Assistant
   * University of Texas at Austin, Austin, TX
+ * Nvidia, USA
+  * Intern: ASIC and VLSI Research Group: Design Automation Research
+  * May 2021 - August 2021, Austin, TX
 * Cerebras, USA
   * Intern: Software: Stack: Place and Route
-  * May 2020 - Present, Remote
+  * May 2020 - October 2020, Remote
 * Apple (May 2018 - Aug 2018) 
   * Intern: Physical Design: SOC, Austin, TX
 
