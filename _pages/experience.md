@@ -13,6 +13,12 @@ author_profile: true
   * ECE department, University of Texas at Austin
   * Jan 2019 - Present, Austin, TX
 
+* **Nvidia, USA**
+  * Intern
+  * ASIC and VLSI Research Group: Design Automation Research
+  * Manager: Mark H. Ren
+  * May 2021 - August 2021, Austin, TX
+
 * **Cerebras, USA**
   * Intern
   * Stack. Place and Route
