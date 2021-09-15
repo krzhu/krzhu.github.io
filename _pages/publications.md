@@ -31,26 +31,56 @@ J1. [MAGICAL: An Open-Source Fully Automated Analog IC Layout System from Netlis
 Conference Papers
 -------
 
+C15. [Generative-Adversarial-Network-Guided  Well-Aware  Placement  for  Analog  Circuits](https://google.com) 
+   * <a href="https://github.com/magical-eda/OpenSAR" style="color:#3793ae">source codes</a>
+   *  Keren Zhu, Hao, Chen, Mingjie Liu, Xiyuan Tang, Wei Shi, Nan Sun, and David Z. Pan
+   * IEEE/ACM  Asia  and  SouthPacific Design Automation Conference (ASPDAC), Virtual Conference, January 17-20, 2022.
+   * Accepted
+
+C14. [OpenSAR: An OpenSource Automated End-to-end SARADC Compiler](https://google.com) 
+   * <a href="https://github.com/magical-eda/OpenSAR" style="color:#3793ae">source codes</a>
+   *  Mingjie Liu, Xiyuan Tang,Keren Zhu, Hao Chen, Nan Sun, and David Z. Pan
+   * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Virtual Conference, November 1-5, 2021.
+   * Accepted
+
+C13. [Universal SymmetryConstraint Extraction for Analog and Mixed-Signal Circuits with Graph Neural Networks](https://google.com) 
+   *  Hao Chen,Keren Zhu, Mingjie Liu, Xiyuan Tang, Nan Sun, and David Z. Pan
+   * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, December 5-9, 2021.
+
+C12. [Optimizer Fusion: Efficient Training with Better Locality and Parallelism](https://arxiv.org/abs/2104.00237) 
+   * Zixuan Jiang, Jiaqi Gu, Mingjie Liu, Keren Zhu and David Z. Pan
+   * International  Conference  on  Learning  Representations  (ICLR)Workshop, Hardware Aware Efficient Training (HAET), May 07, 2021.
+
+C11. [An In-Memory-Computing Charge-Domain Ternary CNN Classifier](https://ieeexplore.ieee.org/document/9431398) 
+   * Xiangxing Yang, Keren Zhu, Xiyuan Tang, Meizhi Wang, Mingtao Zhan, Nanshu Lu, Jaydeep P. Kulkarni, David Z. Pan, Yongpan Liu and Nan Sun
+   * 2021 IEEE Custom Integrated Circuits Conference (CICC), Virtual Event, April 25-30, 2021.
+   * **Best Student Paper Award Nomination**
+
+C10. [MAGICAL 1.0: An Open-Source Fully-Automated AMS Layout Synthesis Framework Verified With a 40-nm 1GS/s Δ∑ ADC](https://ieeexplore.ieee.org/document/9431521) 
+   * Hao Chen\*, Mingjie Liu\*, Xiyuan Tang\*, Keren Zhu\*, Abhishek Mukherjee, Nan Sun and David Z. Pan
+   * 2021 IEEE Custom Integrated Circuits Conference (CICC), Virtual Event, April 25-30, 2021.
+   * \*indicates equal contributions
+
 C9. [Exploring Logic Optimizations with Reinforcement Learning and Graph Convolutional Network](https://dl.acm.org/doi/abs/10.1145/3380446.3430622) 
    *  <a href="/publications/papers/LS_MLCAD2020_ZHU.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/krzhu/abcRL" style="color:#3793ae">source codes</a> \|  <a href="/publications/papers/LS_MLCAD2020_ZHU_slides.pptx" style="color:#3793ae">slides</a>
    * **Keren Zhu**, Mingjie Liu, Hao Chen, Zheng Zhao and David Z. Pan
-   * 2nd ACM/IEEE Workshop on Machine Learning for CAD (MLCAD),Virtual Event, Iceland, November 16-20, 2020
+   * 2nd ACM/IEEE Workshop on Machine Learning for CAD (MLCAD),Virtual Event, Iceland, November 16-20, 2020.
 
 C8. [Toward Silicon-Proven Detailed Routing for Analog and Mixed-Signal Circuits](https://ieeexplore.ieee.org/document/9256548) 
    *  <a href="/publications/papers/AR_ICCAD20_CHEN.pdf" style="color:#3793ae">preprint</a> \|  <a href="/publications/papers/AR_ICCAD20_CHEN_slides.pdf" style="color:#3793ae">slides</a>
    * Hao Chen, **Keren Zhu**, Mingjie Liu, Xiyuan Tang, Nan Sun and David Z. Pan
-   * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), November 02-05, 2020
+   * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), November 02-05, 2020.
 
 C7. [Effective Analog/Mixed-Signal Circuit Placement Considering System Signal Flow](https://ieeexplore.ieee.org/document/9256717)  
    *  <a href="/publications/papers/AP_ICCAD20_ZHU.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/krzhu/IdeaPlaceEx" style="color:#3793ae">source codes</a>  \|  <a href="/publications/papers/AP_ICCAD20_ZHU_slides.pptx" style="color:#3793ae">slides</a>
    * **Keren Zhu**, Hao Chen, Mingjie Liu, Xiyuan Tang, Nan Sun and David Z. Pan
-   * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), November 02-05, 2020
+   * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), November 02-05, 2020.
    * Best Paper Candidate Nominated from Track
    
 C6. [An Efficient Training Framework for Reversible Neural Architectures](https://link.springer.com/chapter/10.1007%2F978-3-030-58583-9_17/) 
    *  <a href="/publications/papers/ML_ECCV20_JIANG.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/ML_ECCV20_JIANG.pptx"  style="color:#3793ae">slides</a>
    * Zixuan Jiang, **Keren Zhu**, Mingjie Liu, Jiaqi Gu and David Z. Pan
-   * European Conference on Computer Vision (ECCV), Glasgow, United Kingdom, August 23-27, 2020
+   * European Conference on Computer Vision (ECCV), Glasgow, United Kingdom, August 23-27, 2020.
 
 C5. [Closing the Design Loop: Bayesian Optimization Assisted Hierarchical Analog Layout Synthesis](https://ieeexplore.ieee.org/document/9218621) 
    * Mingjie Liu, **Keren Zhu**, Xiyuan Tang, Biying Xu, Wei Shi, Nan Sun and David Z. Pan
