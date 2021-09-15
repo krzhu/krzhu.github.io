@@ -56,7 +56,7 @@ C11. [An In-Memory-Computing Charge-Domain Ternary CNN Classifier](https://ieeex
    * **Best Student Paper Award Nomination**
 
 C10. [MAGICAL 1.0: An Open-Source Fully-Automated AMS Layout Synthesis Framework Verified With a 40-nm 1GS/s Δ∑ ADC](https://ieeexplore.ieee.org/document/9431521)
-   *  <a href="/publications/papers/AC_CICC2021_MAGICAL.pptx" style="color:#3793ae">slides</a> \| <a href="https://www.youtube.com/watch?v=dLxTc6DcLOk" style="color:#3793ae">video</a
+   *  <a href="/publications/papers/AC_CICC2021_MAGICAL.pptx" style="color:#3793ae">slides</a> \| <a href="https://www.youtube.com/watch?v=dLxTc6DcLOk" style="color:#3793ae">video</a>
    * Hao Chen\*, Mingjie Liu\*, Xiyuan Tang\*, Keren Zhu\*, Abhishek Mukherjee, Nan Sun and David Z. Pan
    * 2021 IEEE Custom Integrated Circuits Conference (CICC), Virtual Event, April 25-30, 2021.
    * \*indicates equal contributions
