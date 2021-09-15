@@ -32,7 +32,6 @@ Conference Papers
 -------
 
 C15. [Generative-Adversarial-Network-Guided  Well-Aware  Placement  for  Analog  Circuits](https://google.com) 
-   * <a href="https://github.com/magical-eda/OpenSAR" style="color:#3793ae">source codes</a>
    *  Keren Zhu, Hao, Chen, Mingjie Liu, Xiyuan Tang, Wei Shi, Nan Sun, and David Z. Pan
    * IEEE/ACM  Asia  and  SouthPacific Design Automation Conference (ASPDAC), Virtual Conference, January 17-20, 2022.
    * Accepted
