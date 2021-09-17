@@ -32,32 +32,33 @@ Conference Papers
 -------
 
 C15. [Generative-Adversarial-Network-Guided  Well-Aware  Placement  for  Analog  Circuits](https://google.com) 
-   * Keren Zhu, Hao, Chen, Mingjie Liu, Xiyuan Tang, Wei Shi, Nan Sun, and David Z. Pan
+   * **Keren Zhu**, Hao, Chen, Mingjie Liu, Xiyuan Tang, Wei Shi, Nan Sun, and David Z. Pan
    * IEEE/ACM  Asia  and  SouthPacific Design Automation Conference (ASPDAC), Virtual Conference, January 17-20, 2022.
    * Accepted
 
 C14. [OpenSAR: An OpenSource Automated End-to-end SARADC Compiler](https://google.com) 
    * <a href="https://github.com/magical-eda/OpenSAR" style="color:#3793ae">source codes</a>
-   * Mingjie Liu, Xiyuan Tang,Keren Zhu, Hao Chen, Nan Sun, and David Z. Pan
+   * Mingjie Liu, Xiyuan Tang, **Keren Zhu**, Hao Chen, Nan Sun, and David Z. Pan
    * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Virtual Conference, November 1-5, 2021.
    * Accepted
 
 C13. [Universal Symmetry Constraint Extraction for Analog and Mixed-Signal Circuits with Graph Neural Networks](https://google.com) 
-   * Hao Chen, Keren Zhu, Mingjie Liu, Xiyuan Tang, Nan Sun, and David Z. Pan
+   * Hao Chen, **Keren Zhu**, Mingjie Liu, Xiyuan Tang, Nan Sun, and David Z. Pan
    * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, December 5-9, 2021.
 
 C12. [Optimizer Fusion: Efficient Training with Better Locality and Parallelism](https://arxiv.org/abs/2104.00237) 
-   * Zixuan Jiang, Jiaqi Gu, Mingjie Liu, Keren Zhu and David Z. Pan
+   * Zixuan Jiang, Jiaqi Gu, Mingjie Liu, **Keren Zhu** and David Z. Pan
    * International  Conference  on  Learning  Representations  (ICLR)Workshop, Hardware Aware Efficient Training (HAET), May 07, 2021.
 
 C11. [An In-Memory-Computing Charge-Domain Ternary CNN Classifier](https://ieeexplore.ieee.org/document/9431398) 
-   * Xiangxing Yang, Keren Zhu, Xiyuan Tang, Meizhi Wang, Mingtao Zhan, Nanshu Lu, Jaydeep P. Kulkarni, David Z. Pan, Yongpan Liu and Nan Sun
+   * <a href="/publications/papers/A_CICC2021_Yang_slides.pdf" style="color:#3793ae">slides</a>
+   * Xiangxing Yang, **Keren Zhu**, Xiyuan Tang, Meizhi Wang, Mingtao Zhan, Nanshu Lu, Jaydeep P. Kulkarni, David Z. Pan, Yongpan Liu and Nan Sun
    * 2021 IEEE Custom Integrated Circuits Conference (CICC), Virtual Event, April 25-30, 2021.
    * **Best Student Paper Award Nomination**
 
 C10. [MAGICAL 1.0: An Open-Source Fully-Automated AMS Layout Synthesis Framework Verified With a 40-nm 1GS/s Δ∑ ADC](https://ieeexplore.ieee.org/document/9431521)
    *  <a href="/publications/papers/AC_CICC2021_MAGICAL.pptx" style="color:#3793ae">slides</a> \| <a href="https://www.youtube.com/watch?v=dLxTc6DcLOk" style="color:#3793ae">video</a>
-   * Hao Chen\*, Mingjie Liu\*, Xiyuan Tang\*, Keren Zhu\*, Abhishek Mukherjee, Nan Sun and David Z. Pan
+   * Hao Chen\*, Mingjie Liu\*, Xiyuan Tang\*, **Keren Zhu**\*, Abhishek Mukherjee, Nan Sun and David Z. Pan
    * 2021 IEEE Custom Integrated Circuits Conference (CICC), Virtual Event, April 25-30, 2021.
    * \*indicates equal contributions
 
