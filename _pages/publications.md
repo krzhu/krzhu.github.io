@@ -30,9 +30,20 @@ J1. [MAGICAL: An Open-Source Fully Automated Analog IC Layout System from Netlis
 
 Conference Papers
 -------
+C17. [Automating Analog Constraint Extraction: From Heuristics to Learning](https://google.com) 
+   *  **Keren Zhu**, Hao Chen, Mingjie Liu, and David Z. Pan
+   * IEEE/ACM  Asia  and  SouthPacific Design Automation Conference (ASPDAC), Virtual Conference, January 17-20, 2022.
+   * Invited
+
+C16. [Reinforcement Learning for Electronic Design Automation: Case Studies and Perspectives](https://google.com) 
+   * Ahmet F. Budak\*, Zixuan Jiang\*, **Keren Zhu**, Azalia Mirhoseini, Anna Goldie, and David Z. Pan
+   * IEEE/ACM  Asia  and  SouthPacific Design Automation Conference (ASPDAC), Virtual Conference, January 17-20, 2022.
+   * Invited
+   * \*indicates equal contributions
+
 
 C15. [Generative-Adversarial-Network-Guided  Well-Aware  Placement  for  Analog  Circuits](https://google.com) 
-   * **Keren Zhu**, Hao, Chen, Mingjie Liu, Xiyuan Tang, Wei Shi, Nan Sun, and David Z. Pan
+   * **Keren Zhu**, Hao Chen, Mingjie Liu, Xiyuan Tang, Wei Shi, Nan Sun, and David Z. Pan
    * IEEE/ACM  Asia  and  SouthPacific Design Automation Conference (ASPDAC), Virtual Conference, January 17-20, 2022.
    * Accepted
 
