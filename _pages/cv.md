@@ -32,9 +32,9 @@ Work experience
 * University of Texas at Austin (Jan 2019 - Present)
   * Graduate Research Assistant
   * University of Texas at Austin, Austin, TX
- * Nvidia, USA
+* Nvidia, USA
   * Intern: ASIC and VLSI Research Group: Design Automation Research
-  * May 2021 - August 2021, Austin, TX
+  * May 2021 - May 2022, Austin, TX
 * Cerebras, USA
   * Intern: Software: Stack: Place and Route
   * May 2020 - October 2020, Remote
@@ -54,6 +54,9 @@ Skills
 
 Awards and Honors
 ------
+*  Harry Philip Whitworth Endowed Graduate Fellowship Fund, 2021
+* Best Student Paper Award Nomination, CICC, 2021
+* Best Paper Award Nomination, ASP-DAC, 2020
 * Hilldale Undergraduate/Faculty Research Fellowship, 2015
 * Hugo Jr. and Pennie Longemann Scholarship, 2014
 * Vincent Rideout Scholarshipp, 2013
