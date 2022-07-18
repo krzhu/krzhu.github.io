@@ -20,8 +20,9 @@ University of Texas at Austin,  Austin, TX 78712
 
 Education
 ------
-* Ph.D. The University of Texas at Austin, TX,  2022 (expected)
+* Ph.D. The University of Texas at Austin, TX,  2022
   * ECE
+  * Disseration: *Fully-Automated Layout Synthesis for Analog and Mixed-Signal Integrated Circuits*
 * B.S. University of Wisconsin-Madison, WI, 2016
   * EE
   * Graduated with the highest distinction
@@ -29,7 +30,10 @@ Education
 
 Work experience
 ------
-* University of Texas at Austin (Jan 2019 - Present)
+* University of Texas at Austin (July 2022 - Present)
+  * Postdoctoral Fellow 
+  * University of Texas at Austin, Austin, TX
+* University of Texas at Austin (Jan 2019 - June 2022)
   * Graduate Research Assistant
   * University of Texas at Austin, Austin, TX
 * Nvidia, USA
