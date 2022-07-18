@@ -13,6 +13,10 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 Journal Papers
 -------
 
+J3. [Tutorial and Perspectives on MAGICAL: A Silicon-Proven Open-Source Analog IC Layout System](https://ieeexplore.ieee.org/document/9769692) 
+   * Invited
+   * **Keren Zhu**, Hao Chen, Mingjie Liu and David Z. Pan
+   * IEEE Transactions on Circuits and Systems–II: Express Briefs (TCAS-II), 2022.
 
 J2. [Challenges and Opportunities Toward Fully Automated Analog Layout Design](http://www.jos.ac.cn/article/doi/10.1088/1674-4926/41/11/111407) 
    * Invited
@@ -22,38 +26,47 @@ J2. [Challenges and Opportunities Toward Fully Automated Analog Layout Design](h
    * \* In alphabetic order
 
 
-J1. [MAGICAL: An Open-Source Fully Automated Analog IC Layout System from Netlist to GDSII](http://doi.acm.org/) 
-   * Accepted \| Invited
+J1. [MAGICAL: An Open-Source Fully Automated Analog IC Layout System from Netlist to GDSII](https://ieeexplore.ieee.org/document/9195880) 
+   * Invited
    * Hao Chen\*, Mingjie Liu \*, Biying Xu\*, **Keren Zhu** \*, Xiyuan Tang, Shaolan Li, Yibo Lin, Nan Sun and David Z. Pan
    * IEEE Design & Test, 2020.
    * \*indicates equal contributions
 
 Conference Papers
 -------
-C17. [Automating Analog Constraint Extraction: From Heuristics to Learning](https://google.com) 
+
+C19. [TAG: Learning Circuit Spatial Embedding From Layouts](https://ieeexplore.ieee.org/) 
+   * **Keren Zhu**, Hao Chen, Walker Turner, George Kokai, Po-Hsuan Wei, David Z. Pan, and Haoxing Ren
+   * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Diego, Oct. 30–Nov. 3, 2022.
+   * Accepted
+
+C18. [Fuse and Mix: MACAM-Enabled Analog Activation for Energy-Efficient Neural Acceleration](https://ieeexplore.ieee.org/) 
+   * Hanqing Zhu, **Keren Zhu**, Jiaqi Gu, Harrison Jin, Ray Chen, Jean Anne Incorvia, and David Z. Pan
+   * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Diego, Oct. 30–Nov. 3, 2022.
+   * Accepted
+   
+C17. [Automating Analog Constraint Extraction: From Heuristics to Learning](https://ieeexplore.ieee.org/document/9712488) 
    *  **Keren Zhu**, Hao Chen, Mingjie Liu, and David Z. Pan
    * IEEE/ACM  Asia  and  SouthPacific Design Automation Conference (ASPDAC), Virtual Conference, January 17-20, 2022.
    * Invited
 
-C16. [Reinforcement Learning for Electronic Design Automation: Case Studies and Perspectives](https://google.com) 
+C16. [Reinforcement Learning for Electronic Design Automation: Case Studies and Perspectives](https://ieeexplore.ieee.org/document/9712578) 
    * Ahmet F. Budak\*, Zixuan Jiang\*, **Keren Zhu**, Azalia Mirhoseini, Anna Goldie, and David Z. Pan
    * IEEE/ACM  Asia  and  SouthPacific Design Automation Conference (ASPDAC), Virtual Conference, January 17-20, 2022.
    * Invited
    * \*indicates equal contributions
 
 
-C15. [Generative-Adversarial-Network-Guided  Well-Aware  Placement  for  Analog  Circuits](https://google.com) 
+C15. [Generative-Adversarial-Network-Guided  Well-Aware  Placement  for  Analog  Circuits](https://ieeexplore.ieee.org/document/9712592) 
    * **Keren Zhu**, Hao Chen, Mingjie Liu, Xiyuan Tang, Wei Shi, Nan Sun, and David Z. Pan
    * IEEE/ACM  Asia  and  SouthPacific Design Automation Conference (ASPDAC), Virtual Conference, January 17-20, 2022.
-   * Accepted
 
-C14. [OpenSAR: An OpenSource Automated End-to-end SARADC Compiler](https://google.com) 
+C14. [OpenSAR: An OpenSource Automated End-to-end SARADC Compiler](https://ieeexplore.ieee.org/document/9643494) 
    * <a href="https://github.com/magical-eda/OpenSAR" style="color:#3793ae">source codes</a>
    * Mingjie Liu, Xiyuan Tang, **Keren Zhu**, Hao Chen, Nan Sun, and David Z. Pan
    * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Virtual Conference, November 1-5, 2021.
-   * Accepted
 
-C13. [Universal Symmetry Constraint Extraction for Analog and Mixed-Signal Circuits with Graph Neural Networks](https://google.com) 
+C13. [Universal Symmetry Constraint Extraction for Analog and Mixed-Signal Circuits with Graph Neural Networks](https://ieeexplore.ieee.org/document/9586211) 
    * Hao Chen, **Keren Zhu**, Mingjie Liu, Xiyuan Tang, Nan Sun, and David Z. Pan
    * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, December 5-9, 2021.
 
