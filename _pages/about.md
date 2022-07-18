@@ -10,10 +10,10 @@ redirect_from:
 
 
 
-I am currently a Ph.D. student at the Department of Electrical and Computer Engineering, [The University of Texas at Austin](https://www.utexas.edu/), working with Prof. [David Z. Pan](http://www.ece.utexas.edu/~dpan/). I recieved my B.S. in electrical engineering with highest distinction from
+I am currently a postdoctral research fellow at the Department of Electrical and Computer Engineering, [The University of Texas at Austin](https://www.utexas.edu/), working with Prof. [David Z. Pan](http://www.ece.utexas.edu/~dpan/). I obtained my Ph.D. at UT Austin ECE. I recieved my B.S. in electrical engineering with highest distinction from
 [University of Wisconsin-Madison](https://guide.wisc.edu/courses/e_c_e/).
 
-My research focuses on VLSI CAD.
+My research interest include custom circuit layout automation, machine learning for EDA and CAD for emerging technologies.
 
 
 <iframe src="https://calendar.google.com/calendar/embed?src=keren.zhu%40utexas.edu&ctz=America%2FChicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
