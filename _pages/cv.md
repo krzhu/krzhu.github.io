@@ -13,7 +13,7 @@ redirect_from:
 
 ## Keren Zhu
 {: .text-center}
-Ph.D. Student,  Department of Electrical and Computer Engineering
+Postdoctoral Researcher,  Department of Electrical and Computer Engineering
 {: .text-center}
 University of Texas at Austin,  Austin, TX 78712
 {: .text-center}
