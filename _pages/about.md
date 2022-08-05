@@ -16,7 +16,6 @@ I am currently a postdoctral research fellow at the Department of Electrical and
 My research interest include custom circuit layout automation, machine learning for EDA and CAD for emerging technologies.
 
 
-<iframe src="https://calendar.google.com/calendar/embed?src=keren.zhu%40utexas.edu&ctz=America%2FChicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 
 
