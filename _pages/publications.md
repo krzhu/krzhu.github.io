@@ -9,7 +9,17 @@ author_profile: true
 
 You can also find my articles on <a href="https://scholar.google.com/citations?user=WlvGP3kAAAAJ">my Google Scholar profile</a>.
 {: .notice--info}
-            
+
+
+Books/Book Chpaters
+-------
+
+B1. [CAD for Analog/Mixed-Signal Integrated Circuits](https://www.amazon.com/Advances-Semiconductor-Technologies-Selected-Conventional/dp/1119869587) 
+   * Mohamed B. Alawieh, Ahmet F. Budak, Hao Chen, Mingjie Liu, David Z. Pan, Wei Shi, Xiyuan Tang, Shuhan Zhang and Keren Zhu
+   * Advances in Semiconductor Technologies: Selected Topics Beyond Conventional CMOS, Wiley-IEEE Press., 2022
+   * Authors in alphabetic order
+
+
 Journal Papers
 -------
 
