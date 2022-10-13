@@ -14,6 +14,16 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 Books/Book Chpaters
 -------
 
+B2b. [Machine Learning for Analog Layout](https://www.barnesandnoble.com/w/machine-learning-applications-in-electronic-design-automation-haoxing-ren/1141727406) 
+   * Steven M. Burns, Hao Chen, Tonmoy Dhar, Ramesh Harjani, Jiang Hu, Nibedita Karmokar, Kishor Kunal, Yaguang Li, Yishuang Lin, Mingjie Liu, Meghna Madhusudan, Parijat Mukherjee, David Z. Pan, Jitesh Poojary, S. Ramprasath, Sachin S. Sapatnekar, Arvind K. Sharma, Wenbin Xu, Soner Yaldiz, and **Keren Zhu**,,
+   * Machine Learning Applications in Electronic Design Automation, Springer, 2022
+   * Authors in alphabetic order
+
+B2a. [Machine Learning for Analog Circuit Sizing](https://www.barnesandnoble.com/w/machine-learning-applications-in-electronic-design-automation-haoxing-ren/1141727406) 
+   * Ahmet F. Budak\*, Shuhan Zhang\*, Mingjie Liu, Wei Shi, **Keren Zhu**, and David Z. Pan,
+   * Machine Learning Applications in Electronic Design Automation, Springer, 2022
+   * \* Equal contribution
+
 B1. [CAD for Analog/Mixed-Signal Integrated Circuits](https://www.amazon.com/Advances-Semiconductor-Technologies-Selected-Conventional/dp/1119869587) 
    * Mohamed B. Alawieh, Ahmet F. Budak, Hao Chen, Mingjie Liu, David Z. Pan, Wei Shi, Xiyuan Tang, Shuhan Zhang and Keren Zhu
    * Advances in Semiconductor Technologies: Selected Topics Beyond Conventional CMOS, Wiley-IEEE Press., 2022
@@ -45,15 +55,20 @@ J1. [MAGICAL: An Open-Source Fully Automated Analog IC Layout System from Netlis
 Conference Papers
 -------
 
-C19. [TAG: Learning Circuit Spatial Embedding From Layouts](https://ieeexplore.ieee.org/) 
+C20. [TAG: Learning Circuit Spatial Embedding From Layouts](https://ieeexplore.ieee.org/) 
    * **Keren Zhu**, Hao Chen, Walker Turner, George Kokai, Po-Hsuan Wei, David Z. Pan, and Haoxing Ren
    * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Diego, Oct. 30–Nov. 3, 2022.
    * Accepted
 
-C18. [Fuse and Mix: MACAM-Enabled Analog Activation for Energy-Efficient Neural Acceleration](https://ieeexplore.ieee.org/) 
+C19. [Fuse and Mix: MACAM-Enabled Analog Activation for Energy-Efficient Neural Acceleration](https://ieeexplore.ieee.org/) 
    * Hanqing Zhu, **Keren Zhu**, Jiaqi Gu, Harrison Jin, Ray Chen, Jean Anne Incorvia, and David Z. Pan
    * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Diego, Oct. 30–Nov. 3, 2022.
    * Accepted
+   
+C18. [AutoCRAFT: Layout Automation for Custom Circuits in Advanced FinFET Technologies](https://dl.acm.org/doi/10.1145/3505170.3511044) 
+   *  **Keren Zhu**, Hao Chen, Mingjie Liu, and David Z. Pan
+   * ACM International Symposium on Physical Design (ISPD), Virtual Conference, March 27-30, 2022.
+   * Invited   
    
 C17. [Automating Analog Constraint Extraction: From Heuristics to Learning](https://ieeexplore.ieee.org/document/9712488) 
    *  **Keren Zhu**, Hao Chen, Mingjie Liu, and David Z. Pan
