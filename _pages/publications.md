@@ -66,7 +66,7 @@ C19. [Fuse and Mix: MACAM-Enabled Analog Activation for Energy-Efficient Neural 
    * Accepted
    
 C18. [AutoCRAFT: Layout Automation for Custom Circuits in Advanced FinFET Technologies](https://dl.acm.org/doi/10.1145/3505170.3511044) 
-   *  **Keren Zhu**, Hao Chen, Mingjie Liu, and David Z. Pan
+   *   Hao Chen, Walker J. Turner, Sanquan Song, **Keren Zhu**, George F. Kokai, Brian Zimmer, C. Thomas, Gray, Brucek Khailany, David Z. Pan, and Haoxing Ren
    * ACM International Symposium on Physical Design (ISPD), Virtual Conference, March 27-30, 2022.
    * Invited   
    
