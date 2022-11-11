@@ -55,15 +55,18 @@ J1. [MAGICAL: An Open-Source Fully Automated Analog IC Layout System from Netlis
 Conference Papers
 -------
 
+C21. [Reinforcement Learning Guided Detailed Routing for FinFET Custom Circuits](https://ieeexplore.ieee.org/) 
+   * Hao Chen, Kai-Chieh Hsu, Walker J. Turner,  Po-Hsuan Wei, **Keren Zhu**, David Z. Pan and Haoxing Ren
+   * ACM International Symposium on Physical Design (ISPD), Virtual Conference, March 26-29, 2023.
+   * Accepted
+
 C20. [TAG: Learning Circuit Spatial Embedding From Layouts](https://ieeexplore.ieee.org/) 
    * **Keren Zhu**, Hao Chen, Walker Turner, George Kokai, Po-Hsuan Wei, David Z. Pan, and Haoxing Ren
    * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Diego, Oct. 30–Nov. 3, 2022.
-   * Accepted
 
 C19. [Fuse and Mix: MACAM-Enabled Analog Activation for Energy-Efficient Neural Acceleration](https://ieeexplore.ieee.org/) 
    * Hanqing Zhu, **Keren Zhu**, Jiaqi Gu, Harrison Jin, Ray Chen, Jean Anne Incorvia, and David Z. Pan
    * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Diego, Oct. 30–Nov. 3, 2022.
-   * Accepted
    
 C18. [AutoCRAFT: Layout Automation for Custom Circuits in Advanced FinFET Technologies](https://dl.acm.org/doi/10.1145/3505170.3511044) 
    *   Hao Chen, Walker J. Turner, Sanquan Song, **Keren Zhu**, George F. Kokai, Brian Zimmer, C. Thomas, Gray, Brucek Khailany, David Z. Pan, and Haoxing Ren
