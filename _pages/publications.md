@@ -55,7 +55,7 @@ J1. [MAGICAL: An Open-Source Fully Automated Analog IC Layout System from Netlis
 Conference Papers
 -------
 
-C21. [SOP: Machine Learning-Assisted Inverse Stack-Up Optimization for Advanced Package Design](https://ieeexplore.ieee.org/) 
+C22. [SOP: Machine Learning-Assisted Inverse Stack-Up Optimization for Advanced Package Design](https://ieeexplore.ieee.org/) 
    * Hyunsu Chae, Bhyrav Mutnury, **Keren Zhu**, Doug Wallace, Doug Winterburg, Daniel DeAraujo, Jay Reddy, Adam Klivans and David Z. Pan
    * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Antwerp, Belgium, April 17- 19, 2023.
    * Accepted
