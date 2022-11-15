@@ -55,6 +55,11 @@ J1. [MAGICAL: An Open-Source Fully Automated Analog IC Layout System from Netlis
 Conference Papers
 -------
 
+C21. [SOP: Machine Learning-Assisted Inverse Stack-Up Optimization for Advanced Package Design](https://ieeexplore.ieee.org/) 
+   * Hyunsu Chae, Bhyrav Mutnury, **Keren Zhu**, Doug Wallace, Doug Winterburg, Daniel DeAraujo, Jay Reddy, Adam Klivans and David Z. Pan
+   * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Antwerp, Belgium, April 17- 19, 2023.
+   * Accepted
+   
 C21. [Reinforcement Learning Guided Detailed Routing for FinFET Custom Circuits](https://ieeexplore.ieee.org/) 
    * Hao Chen, Kai-Chieh Hsu, Walker J. Turner,  Po-Hsuan Wei, **Keren Zhu**, David Z. Pan and Haoxing Ren
    * ACM International Symposium on Physical Design (ISPD), Virtual Conference, March 26-29, 2023.
