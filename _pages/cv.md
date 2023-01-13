@@ -45,7 +45,23 @@ Work experience
 * Apple (May 2018 - Aug 2018) 
   * Intern: Physical Design: SOC, Austin, TX
 
-
+Service
+------
+* TPC Member
+  * Design Automation conference (DAC), 2023.
+  * International VLSI Design & Embedded Systems conference (VLSID), 2023.
+* Working Group Member
+  * NSF AI Institute TILOS Ethics and Early Career Development, 2022-2023.
+* Local Arrangement Co-Chair
+  * IEEE CASS Seasonal School: AI/ML for IC Design and EDA, 2022.
+* Reviewer
+  * IEEE Transaction on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
+  * ACM Transactions on Design Automation of Electronic Systems (TODAES)
+  * IEEE Transaction on Artificial Intelligence (TAI)
+  * ACM/IEEE Design Automation Conference (DAC)
+  * IEEE/ACM International Conference on Computer-Aided Design (ICCAD)
+  * Neural Information Processing Systems (NeurIPS)
+  * IEEE International Symposium on Low Power Electronics and Design (ISLPED)
 
 Skills
 ------
