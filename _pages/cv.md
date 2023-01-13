@@ -79,7 +79,7 @@ Awards and Honors
 * Best Paper Award Nomination, ASP-DAC, 2020
 * Hilldale Undergraduate/Faculty Research Fellowship, 2015
 * Hugo Jr. and Pennie Longemann Scholarship, 2014
-* Vincent Rideout Scholarshipp, 2013
+* Vincent Rideout Scholarship, 2013
 
 
 
