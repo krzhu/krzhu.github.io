@@ -42,7 +42,7 @@ J7. [Domain Wall-Magnetic Tunnel Junction Analog Content Addressable Memory Usin
 J6. [n In-Memory-Computing Charge-Domain Ternary CNN Classifier](https://ieeexplore.ieee.org/) 
    * Xiangxing Yang, **Keren Zhu**, Xiyuan Tang, Meizhi Wang, Mingtao Zhan, Nanshu Lu, Jaydeep P. Kulkarni, David Z. Pan, Yongpan Liu and Nan Sun
    * IEEE Journal of Solid State Circuits (JSSC), 2023.
-   * Under Minor Revision
+   * Accepted
 
 J5. [Hierarchical Analog and Mixed-Signal Circuit Placement Considering System Signal Flow](https://ieeexplore.ieee.org/document/9991821) 
    * **Keren Zhu**, Hao Chen, Mingjie Liu, and David Z. Pan
