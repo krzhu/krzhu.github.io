@@ -15,6 +15,8 @@ I am currently a postdoctoral research fellow at the Department of Electrical an
 
 My research interest include custom circuit layout automation, machine learning for EDA and CAD for emerging technologies.
 
+### Resources
+
 To better know my research, some recommendations to start:
 
 MAGICAL Software:  <a href="/publications/papers/A_TCASII22_Zhu.pdf" style="color:#3793ae">TCAS-II Tutorial and Perspectives on MAGICAL: A
