@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Keren Zhu"
-  avatar           : "pic.jpg"
+  avatar           : "KerenZhu.jpg"
   bio              : "Postdoctoral fellow at The University of Texas at Austin"
   location         : "Austin, Texas"
   employer         :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : #"wye"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : 
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-2698-141X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
