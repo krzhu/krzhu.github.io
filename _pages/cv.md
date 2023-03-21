@@ -30,12 +30,15 @@ Education
 
 Work experience
 ------
-* University of Texas at Austin (July 2022 - Present)
+* The Chinese University of Hong Kong
+  * Research Assistant Professor
+  * March 2023 - Present, Hong Kong SAR
+* University of Texas at Austin
   * Postdoctoral Fellow 
-  * University of Texas at Austin, Austin, TX
-* University of Texas at Austin (Jan 2019 - June 2022)
+  * July 2022 - February 2023, Austin, TX
+* University of Texas at Austin
   * Graduate Research Assistant
-  * University of Texas at Austin, Austin, TX
+  * Jan 2019 - June 2022, Austin, TX
 * Nvidia, USA
   * Intern: ASIC and VLSI Research Group: Design Automation Research
   * May 2021 - May 2022, Austin, TX
