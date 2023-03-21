@@ -13,7 +13,7 @@ redirect_from:
 
 ## Keren Zhu
 {: .text-center}
-Research Assistant Professor,  Department of Computer Science and Engineering
+Research Assistant Professor, Department of Computer Science and Engineering
 {: .text-center}
 The Chinese University of Hong Kong, Hong Kong SAR
 {: .text-center}
