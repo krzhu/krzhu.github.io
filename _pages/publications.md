@@ -15,7 +15,7 @@ Books/Book Chpaters
 -------
 
 B2b. [Machine Learning for Analog Layout](https://www.barnesandnoble.com/w/machine-learning-applications-in-electronic-design-automation-haoxing-ren/1141727406) 
-   * Steven M. Burns, Hao Chen, Tonmoy Dhar, Ramesh Harjani, Jiang Hu, Nibedita Karmokar, Kishor Kunal, Yaguang Li, Yishuang Lin, Mingjie Liu, Meghna Madhusudan, Parijat Mukherjee, David Z. Pan, Jitesh Poojary, S. Ramprasath, Sachin S. Sapatnekar, Arvind K. Sharma, Wenbin Xu, Soner Yaldiz, and **Keren Zhu**,,
+   * Steven M. Burns, Hao Chen, Tonmoy Dhar, Ramesh Harjani, Jiang Hu, Nibedita Karmokar, Kishor Kunal, Yaguang Li, Yishuang Lin, Mingjie Liu, Meghna Madhusudan, Parijat Mukherjee, David Z. Pan, Jitesh Poojary, S. Ramprasath, Sachin S. Sapatnekar, Arvind K. Sharma, Wenbin Xu, Soner Yaldiz, and **Keren Zhu**,
    * Machine Learning Applications in Electronic Design Automation, Springer, 2022
    * Authors in alphabetic order
 
