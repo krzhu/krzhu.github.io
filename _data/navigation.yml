@@ -6,9 +6,6 @@ main:
   - title: "PUBLICATIONS"
     url: /publications/
 
-  - title: "EXPERIENCE"
-    url: /experience/    
-    
   - title: "CV"
     url: /cv/
     
@@ -16,5 +13,5 @@ main:
     url: /random/
     
     
-  - title: "UTDA"
-    url: http://www.cerc.utexas.edu/utda/
+  - title: "CUHK CSE"
+    url: https://www.cse.cuhk.edu.hk/
