@@ -13,9 +13,9 @@ redirect_from:
 
 ## Keren Zhu
 {: .text-center}
-Postdoctoral Researcher,  Department of Electrical and Computer Engineering
+Research Assistant Professor,  Department of Computer Science and Engineering
 {: .text-center}
-University of Texas at Austin,  Austin, TX 78712
+The Chinese University of Hong Kong, Hong Kong SAR
 {: .text-center}
 
 Education
