@@ -7,11 +7,20 @@ author_profile: true
 
 {% include base_path %}
 
+* **The Chinese University of Hong Kong, Hong Kong SAR**
+  * Research Assistant Professor
+  *  Department of Computer Science and Engineering, The Chinese University of Hong Kong
+  * March 2023 - Present, Austin, TX
+
+* **University of Texas at Austin, USA**
+  * Postdoctoral Fellow
+  * ECE department, University of Texas at Austin
+  * July 2022 - February 2023, Austin, TX
 
 * **University of Texas at Austin, USA**
   * Research Assistant 
   * ECE department, University of Texas at Austin
-  * Jan 2019 - Present, Austin, TX
+  * Jan 2019 - June 2022, Austin, TX
 
 * **Nvidia, USA**
   * Intern
