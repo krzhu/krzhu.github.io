@@ -39,7 +39,7 @@ J7. [Domain Wall-Magnetic Tunnel Junction Analog Content Addressable Memory Usin
    * IEEE Transactions on Nanotechnology, 2023.
    * Under Review
 
-J6. [n In-Memory-Computing Charge-Domain Ternary CNN Classifier](https://ieeexplore.ieee.org/) 
+J6. [An In-Memory-Computing Charge-Domain Ternary CNN Classifier](https://ieeexplore.ieee.org/) 
    * Xiangxing Yang, **Keren Zhu**, Xiyuan Tang, Meizhi Wang, Mingtao Zhan, Nanshu Lu, Jaydeep P. Kulkarni, David Z. Pan, Yongpan Liu and Nan Sun
    * IEEE Journal of Solid State Circuits (JSSC), 2023.
    * Accepted
