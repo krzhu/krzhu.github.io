@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "KEREN ZHU'S SITE"
 title_separator          : "-"
-name                     : &name "Keren Zhu"
+name                     : &name "Keren Zhu (朱可人)"
 description              : &description "Research Assistant Professor, The Chinese University of Hong Kong"
 url                      :  "https://krz.engineer" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  "" # the subpath of your site, e.g. "/blog"
