@@ -75,15 +75,19 @@ J1. [MAGICAL: An Open-Source Fully Automated Analog IC Layout System from Netlis
 Conference Papers
 -------
 
-C22. [ISOP: Machine Learning-Assisted Inverse Stack-Up Optimization for Advanced Package Design](https://ieeexplore.ieee.org/) 
+C23. [ISOP: Machine Learning-Assisted Inverse Stack-Up Optimization for Advanced Package Design](https://ieeexplore.ieee.org/) 
    * Hyunsu Chae, Bhyrav Mutnury, **Keren Zhu**, Doug Wallace, Doug Winterburg, Daniel DeAraujo, Jay Reddy, Adam Klivans and David Z. Pan
    * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Antwerp, Belgium, April 17- 19, 2023.
    * Accepted
    
-C21. [Reinforcement Learning Guided Detailed Routing for FinFET Custom Circuits](https://ieeexplore.ieee.org/) 
+C22. [Joint Optimization of Sizing and Layout for AMS Designs: Challenges and Opportunities](https://dl.acm.org/doi/abs/10.1145/3569052.3578929)
+   * Ahmet F Budak, **Keren Zhu**, Hao Chen, Souradip Poddar, Linran Zhao, Yaoyao Jia and David Z Pan
+   * ACM International Symposium on Physical Design (ISPD), Virtual Conference, March 26-29, 2023.
+   * Invited
+   
+C21. [Reinforcement Learning Guided Detailed Routing for FinFET Custom Circuits](https://dl.acm.org/doi/abs/10.1145/3569052.3571874)
    * Hao Chen, Kai-Chieh Hsu, Walker J. Turner,  Po-Hsuan Wei, **Keren Zhu**, David Z. Pan and Haoxing Ren
    * ACM International Symposium on Physical Design (ISPD), Virtual Conference, March 26-29, 2023.
-   * Accepted
 
 C20. [TAG: Learning Circuit Spatial Embedding From Layouts](https://dl.acm.org/doi/abs/10.1145/3508352.3549384) 
    * **Keren Zhu**, Hao Chen, Walker Turner, George Kokai, Po-Hsuan Wei, David Z. Pan, and Haoxing Ren
