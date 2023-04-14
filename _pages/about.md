@@ -15,7 +15,9 @@ I am currently a research assistant professor with the Department of Computer Sc
 
 My research interest include custom circuit layout automation, machine learning for EDA and CAD for emerging technologies.
 
+<!---
 ## I am looking for recruiting PhD/MPhil students at CUHK for Fall 2023. Research assistance positions are also available. Send me an email (kerenzhu AT cse.cuhk.edu.hk) if interested.
+-->
 
 ### Resources
 
