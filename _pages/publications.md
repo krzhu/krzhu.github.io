@@ -86,7 +86,7 @@ C24. [Practical Layout-Aware Analog/Mixed-Signal Design Automation with Bayesian
    * Accepted
    
 
-C23. [ISOP: Machine Learning-Assisted Inverse Stack-Up Optimization for Advanced Package Design](https://ieeexplore.ieee.org/](https://ieeexplore.ieee.org/document/10137055) 
+C23. [ISOP: Machine Learning-Assisted Inverse Stack-Up Optimization for Advanced Package Design](https://ieeexplore.ieee.org/document/10137055) 
    * Hyunsu Chae, Bhyrav Mutnury, **Keren Zhu**, Doug Wallace, Doug Winterburg, Daniel DeAraujo, Jay Reddy, Adam Klivans and David Z. Pan
    * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Antwerp, Belgium, April 17- 19, 2023.
 
