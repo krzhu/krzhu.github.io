@@ -75,10 +75,21 @@ J1. [MAGICAL: An Open-Source Fully Automated Analog IC Layout System from Netlis
 Conference Papers
 -------
 
-C23. [ISOP: Machine Learning-Assisted Inverse Stack-Up Optimization for Advanced Package Design](https://ieeexplore.ieee.org/) 
+C25. [AlphaSyn: Logic Synthesis Optimization with Efficient Monte Carlo Tree Search](https://ieeexplore.ieee.org/) 
+   * Zehua Pei, Fangzhou Liu, Zhuolun He, Guojin Chen, Haisheng Zheng, **Keren Zhu** and Bei Yu,
+   * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Francisco, CA, October 29 - November 2, 2023.
+   * Accepted
+
+C24. [Practical Layout-Aware Analog/Mixed-Signal Design Automation with Bayesian Neural Networks](https://ieeexplore.ieee.org/) 
+   * Ahmet F. Budak, **Keren Zhu** and David Z. Pan
+   * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Francisco, CA, October 29 - November 2, 2023.
+   * Accepted
+   
+
+C23. [ISOP: Machine Learning-Assisted Inverse Stack-Up Optimization for Advanced Package Design](https://ieeexplore.ieee.org/](https://ieeexplore.ieee.org/document/10137055) 
    * Hyunsu Chae, Bhyrav Mutnury, **Keren Zhu**, Doug Wallace, Doug Winterburg, Daniel DeAraujo, Jay Reddy, Adam Klivans and David Z. Pan
    * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Antwerp, Belgium, April 17- 19, 2023.
-   * Accepted
+
    
 C22. [Joint Optimization of Sizing and Layout for AMS Designs: Challenges and Opportunities](https://dl.acm.org/doi/abs/10.1145/3569052.3578929)
    * Ahmet F Budak, **Keren Zhu**, Hao Chen, Souradip Poddar, Linran Zhao, Yaoyao Jia and David Z Pan
