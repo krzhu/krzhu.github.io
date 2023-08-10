@@ -32,17 +32,23 @@ B1. [CAD for Analog/Mixed-Signal Integrated Circuits](https://www.amazon.com/Adv
 
 Journal Papers
 -------
-
+<!---
 J7. [Domain Wall-Magnetic Tunnel Junction Analog Content Addressable Memory Using Current and Projected Data](https://ieeexplore.ieee.org/) 
    * <a href="https://arxiv.org/abs/2301.04598" style="color:#3793ae">Arxiv</a>
    * Harrison Jin, Hanqing Zhu, **Keren Zhu**, Thomas Leonard, Jaesuk Kwon, Mahshid Alamdar, Kwangseok Kim, Jungsik Park, Naoki Hase, David Z. Pan, Jean Anne C. Incorvia
    * IEEE Transactions on Nanotechnology, 2023.
    * Under Review
+   -->
 
-J6. [An In-Memory-Computing Charge-Domain Ternary CNN Classifier](https://ieeexplore.ieee.org/) 
+J7. [ISOP+: Machine Learning-Assisted Inverse Stack-Up Optimization for Advanced Package Design](https://ieeexplore.ieee.org/) 
+   * Hyunsu Chae,  **Keren Zhu**, Bhyrav Mutnury, Doug Wallace, Doug Winterburg, Daniel DeAraujo, Jay Reddy, Adam Klivans and David Z. Pan
+   * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.
+   * (Accepted)
+
+J6. [An In-Memory-Computing Charge-Domain Ternary CNN Classifier](https://ieeexplore.ieee.org/document/10034979) 
    * Xiangxing Yang, **Keren Zhu**, Xiyuan Tang, Meizhi Wang, Mingtao Zhan, Nanshu Lu, Jaydeep P. Kulkarni, David Z. Pan, Yongpan Liu and Nan Sun
    * IEEE Journal of Solid State Circuits (JSSC), 2023.
-   * Accepted
+
 
 J5. [Hierarchical Analog and Mixed-Signal Circuit Placement Considering System Signal Flow](https://ieeexplore.ieee.org/document/9991821) 
    * **Keren Zhu**, Hao Chen, Mingjie Liu, and David Z. Pan
