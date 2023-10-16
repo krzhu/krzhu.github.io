@@ -81,6 +81,11 @@ J1. [MAGICAL: An Open-Source Fully Automated Analog IC Layout System from Netlis
 Conference Papers
 -------
 
+C26. [ISOP-Yield: Yield-Aware Stack-Up Optimization for Advanced Package using Machine Learning](https://ieeexplore.ieee.org/) 
+   * Hyunsu Chae, **Keren Zhu**, Bhyrav Mutnury, Zixuan Jiang, Daniel de Araujo, Adam Klivans, David Z. Pan,
+   * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Incheon, S. Korea, Jan 22-25, 2024.
+   * Accepted
+
 C25. [AlphaSyn: Logic Synthesis Optimization with Efficient Monte Carlo Tree Search](https://ieeexplore.ieee.org/) 
    * Zehua Pei, Fangzhou Liu, Zhuolun He, Guojin Chen, Haisheng Zheng, **Keren Zhu** and Bei Yu,
    * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Francisco, CA, October 29 - November 2, 2023.
