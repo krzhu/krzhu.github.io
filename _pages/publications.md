@@ -81,8 +81,29 @@ J1. [MAGICAL: An Open-Source Fully Automated Analog IC Layout System from Netlis
 Conference Papers
 -------
 
+C30. [A Data-Driven Analog Circuit Synthesizer with Automatic Topology Selection and Sizing](https://ieeexplore.ieee.org/) 
+   *  Souradip Poddar, Ahmet Budak, Linran Zhao, Chen-Hao Hsu, Supriyo Maji, **Keren Zhu**, Yaoyao Jia, and David Z. Pan,
+   * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Valencia, Spain, March 25 - 27, 2024.
+   * Accepted
+
+C29. [Multi-Electrostatics Based Placement for Non-Integer Multiple-Height Cells](https://ieeexplore.ieee.org/) 
+   * Yu Zhang, Yuan Pu, Fangzhou Liu, Peiyu Liao, Kaiyuan Chao, **Keren Zhu**, Yibo Lin, and Bei Yu,
+   * ACM International Symposium on Physical Design (ISPD) , Taipei, March 12 - 15, 2024.
+   * Accepted
+
+
+C28. [Performance-Driven Analog Layout Automation: Current Status and Future Directions](https://ieeexplore.ieee.org/) 
+   * Peng Xu, Jintao Li, Tsung-Yi Ho, Bei Yu, and **Keren Zhu**,
+   * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Incheon, S. Korea, Jan 22-25, 2024.
+   * Invited
+
+C27. [A Study on Exploring and Exploiting the High-dimensional Design Space for Analog Circuit Design Automation](https://ieeexplore.ieee.org/) 
+   * Ruiyu Lyu, Yuan Meng, Zhaori Bi, **Keren Zhu**, Fan Yang, Changhao Yan, Dian Zhou, and Xuan Zeng,
+   * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Incheon, S. Korea, Jan 22-25, 2024.
+   * Invited
+
 C26. [ISOP-Yield: Yield-Aware Stack-Up Optimization for Advanced Package using Machine Learning](https://ieeexplore.ieee.org/) 
-   * Hyunsu Chae, **Keren Zhu**, Bhyrav Mutnury, Zixuan Jiang, Daniel de Araujo, Adam Klivans, David Z. Pan,
+   * Hyunsu Chae, **Keren Zhu**, Bhyrav Mutnury, Zixuan Jiang, Daniel de Araujo, Adam Klivans, and David Z. Pan,
    * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Incheon, S. Korea, Jan 22-25, 2024.
    * Accepted
 
