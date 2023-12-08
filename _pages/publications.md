@@ -33,7 +33,7 @@ B1. [CAD for Analog/Mixed-Signal Integrated Circuits](https://www.amazon.com/Adv
 Journal Papers
 -------
 
-J7. [Domain Wall-Magnetic Tunnel Junction Analog Content Addressable Memory Using Current and Projected Data](https://ieeexplore.ieee.org/) 
+J8. [Domain Wall-Magnetic Tunnel Junction Analog Content Addressable Memory Using Current and Projected Data](https://ieeexplore.ieee.org/) 
    * <a href="https://arxiv.org/abs/2301.04598" style="color:#3793ae">Arxiv</a>
    * Harrison Jin, Hanqing Zhu, **Keren Zhu**, Thomas Leonard, Jaesuk Kwon, Mahshid Alamdar, Kwangseok Kim, Jungsik Park, Naoki Hase, David Z. Pan, Jean Anne C. Incorvia
    * IEEE Transactions on Nanotechnology, 2024.
