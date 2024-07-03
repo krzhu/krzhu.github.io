@@ -80,10 +80,31 @@ J1. [MAGICAL: An Open-Source Fully Automated Analog IC Layout System from Netlis
 Conference Papers
 -------
 
+C36. [Physically Aware Synthesis Revisited: Guiding Technology Mapping with Primitive Logic Gate Placement](https://ieeexplore.ieee.org/document/) 
+   *    Hongyang Pan, Cunqing Lan, Yiting Liu, Zhiang Wang, Li Shang, Xuan Zeng, Fan Yang and **Keren Zhu**
+   *   IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, NY, USA, Oct. 27–31, 2024.
+   *   (Accepted)
 
-C31. [A Data-Driven Analog Circuit Synthesizer with Automatic Topology Selection and Sizing](https://ieeexplore.ieee.org/) 
-   *  Souradip Poddar, Ahmet Budak, Linran Zhao, Chen-Hao Hsu, Supriyo Maji, **Keren Zhu**, Yaoyao Jia, and David Z. Pan,
-   * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Valencia, Spain, March 25 - 27, 2024.
+C34. [Revisiting Sensitivity-based Analog Sizing with Derivative-aware Bayesian Optimization and Error-Suppressed Adjoint Analysis](https://ieeexplore.ieee.org/document/) 
+   *    Ruiyu Lyu, Aidong Zhao, Yuan Meng, Zhaori Bi, **Keren Zhu**, Changhao Yan, Fan Yang, Dian Zhou and Xuan Zeng
+   *   IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, NY, USA, Oct. 27–31, 2024.
+   *   (Accepted)
+
+
+C33. [Performance-driven Analog Routing via Heterogeneous 3DGNN and Potential Relaxation](https://ieeexplore.ieee.org/document/) 
+   *   Peng Xu, Guojin Chen, **Keren Zhu**, Tinghuan Chen, Tsung-Yi Ho, and Bei Yu
+   *   IEEE/ACM Design Automation Conference (DAC) , San Francisco, USA, Jun. 23–27, 2024.
+
+
+
+C32. [Universal Process Migration Solution of MAGICAL for Analog IC Layout Automation](https://ieeexplore.ieee.org/document/) 
+   *  Cunqing Lan, Xinyao Wang, Zijian Jiang, Hongyang Pan, **Keren Zhu**, Zhaori Bi, Changhao Yan and Xuan Zeng
+   *   International Symposium of EDA (ISEDA),  Xi'an, China, May 10–13, 2024.
+
+
+C31. [Universal Process Migration Solution of MAGICAL for Analog IC Layout Automation](https://ieeexplore.ieee.org/document/10531849) 
+   *  Yufeng Wei, Yifan Xu, **Keren Zhu** and Ye Lu
+   *  2024 Conference of Science and Technology for Integrated Circuits (CSTIC)
 
 
 C30. [A Data-Driven Analog Circuit Synthesizer with Automatic Topology Selection and Sizing](https://ieeexplore.ieee.org/document/10546840) 
