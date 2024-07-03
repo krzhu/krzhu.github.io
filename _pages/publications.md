@@ -80,41 +80,47 @@ J1. [MAGICAL: An Open-Source Fully Automated Analog IC Layout System from Netlis
 Conference Papers
 -------
 
-C30. [A Data-Driven Analog Circuit Synthesizer with Automatic Topology Selection and Sizing](https://ieeexplore.ieee.org/) 
+
+C31. [A Data-Driven Analog Circuit Synthesizer with Automatic Topology Selection and Sizing](https://ieeexplore.ieee.org/) 
    *  Souradip Poddar, Ahmet Budak, Linran Zhao, Chen-Hao Hsu, Supriyo Maji, **Keren Zhu**, Yaoyao Jia, and David Z. Pan,
    * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Valencia, Spain, March 25 - 27, 2024.
-   * Accepted
 
-C29. [Multi-Electrostatics Based Placement for Non-Integer Multiple-Height Cells](https://ieeexplore.ieee.org/) 
+
+C30. [A Data-Driven Analog Circuit Synthesizer with Automatic Topology Selection and Sizing](https://ieeexplore.ieee.org/document/10546840) 
+   *  Souradip Poddar, Ahmet Budak, Linran Zhao, Chen-Hao Hsu, Supriyo Maji, **Keren Zhu**, Yaoyao Jia, and David Z. Pan,
+   * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Valencia, Spain, March 25 - 27, 2024.
+
+
+C29. [Multi-Electrostatics Based Placement for Non-Integer Multiple-Height Cells](https://dl.acm.org/doi/10.1145/3626184.3633320) 
    * Yu Zhang, Yuan Pu, Fangzhou Liu, Peiyu Liao, Kaiyuan Chao, **Keren Zhu**, Yibo Lin, and Bei Yu,
    * ACM International Symposium on Physical Design (ISPD) , Taipei, March 12 - 15, 2024.
-   * Accepted
 
 
-C28. [Performance-Driven Analog Layout Automation: Current Status and Future Directions](https://ieeexplore.ieee.org/) 
+
+C28. [Performance-Driven Analog Layout Automation: Current Status and Future Directions](https://dl.acm.org/doi/10.1109/ASP-DAC58780.2024.10473859) 
    * Peng Xu, Jintao Li, Tsung-Yi Ho, Bei Yu, and **Keren Zhu**,
    * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Incheon, S. Korea, Jan 22-25, 2024.
    * Invited
 
-C27. [A Study on Exploring and Exploiting the High-dimensional Design Space for Analog Circuit Design Automation](https://ieeexplore.ieee.org/) 
+C27. [A Study on Exploring and Exploiting the High-dimensional Design Space for Analog Circuit Design Automation](https://ieeexplore.ieee.org/document/10473920) 
    * Ruiyu Lyu, Yuan Meng, Zhaori Bi, **Keren Zhu**, Fan Yang, Changhao Yan, Dian Zhou, and Xuan Zeng,
    * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Incheon, S. Korea, Jan 22-25, 2024.
    * Invited
 
-C26. [ISOP-Yield: Yield-Aware Stack-Up Optimization for Advanced Package using Machine Learning](https://ieeexplore.ieee.org/) 
+C26. [ISOP-Yield: Yield-Aware Stack-Up Optimization for Advanced Package using Machine Learning](https://ieeexplore.ieee.org/document/10473886) 
    * Hyunsu Chae, **Keren Zhu**, Bhyrav Mutnury, Zixuan Jiang, Daniel de Araujo, Adam Klivans, and David Z. Pan,
    * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Incheon, S. Korea, Jan 22-25, 2024.
    * Accepted
 
-C25. [AlphaSyn: Logic Synthesis Optimization with Efficient Monte Carlo Tree Search](https://ieeexplore.ieee.org/) 
+C25. [AlphaSyn: Logic Synthesis Optimization with Efficient Monte Carlo Tree Search](https://ieeexplore.ieee.org/document/10323856) 
    * Zehua Pei, Fangzhou Liu, Zhuolun He, Guojin Chen, Haisheng Zheng, **Keren Zhu** and Bei Yu,
    * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Francisco, CA, October 29 - November 2, 2023.
    * Accepted
 
-C24. [Practical Layout-Aware Analog/Mixed-Signal Design Automation with Bayesian Neural Networks](https://ieeexplore.ieee.org/) 
+C24. [Practical Layout-Aware Analog/Mixed-Signal Design Automation with Bayesian Neural Networks](https://ieeexplore.ieee.org/abstract/document/10323923) 
    * Ahmet F. Budak, **Keren Zhu** and David Z. Pan
    * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Francisco, CA, October 29 - November 2, 2023.
-   * Accepted
+
    
 
 C23. [ISOP: Machine Learning-Assisted Inverse Stack-Up Optimization for Advanced Package Design](https://ieeexplore.ieee.org/document/10137055) 
