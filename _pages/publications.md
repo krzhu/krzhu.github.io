@@ -82,7 +82,7 @@ Conference Papers
 
 C37. [AnalogGym: An Open and Practical Testing Suite for Analog Circuit Synthesis](https://ieeexplore.ieee.org/document/) 
    *  <a href="https://github.com/magical-eda/UT-AnLay](https://github.com/CODA-Team/AnalogGym" style="color:#3793ae">Release</a>
-   *    Jintao Li, Haochang Zhi, Ruiyu Lyu, Wangzhen Li, Zhaori Bi<sup>\*</sup>, Keren Zhu<sup>\*</sup>, Yanhan Zhen， Weiwei Shan, Changhao Yan, Fan Yang, Yun Li<sup>\*</sup>, and Xuan Zeng<sup>\*</sup>
+   *    Jintao Li, Haochang Zhi, Ruiyu Lyu, Wangzhen Li, Zhaori Bi<sup>\*</sup>, **Keren Zhu**<sup>\*</sup>, Yanhan Zhen， Weiwei Shan, Changhao Yan, Fan Yang, Yun Li<sup>\*</sup>, and Xuan Zeng<sup>\*</sup>
    *   IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, NY, USA, Oct. 27–31, 2024.
    *   \* corresponding authors
    *   (Invited)
