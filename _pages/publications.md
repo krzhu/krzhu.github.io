@@ -88,6 +88,7 @@ C37. [AnalogGym: An Open and Practical Testing Suite for Analog Circuit Synthesi
    *   (Invited)
 
 C36. [Physically Aware Synthesis Revisited: Guiding Technology Mapping with Primitive Logic Gate Placement](https://ieeexplore.ieee.org/document/) 
+   *  <a href="https://arxiv.org/abs/2408.07886" style="color:#3793ae">preprint</a>
    *    Hongyang Pan, Cunqing Lan, Yiting Liu, Zhiang Wang, Li Shang, Xuan Zeng, Fan Yang and **Keren Zhu**
    *   IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, NY, USA, Oct. 27–31, 2024.
    *   (Accepted)
@@ -109,7 +110,7 @@ C33. [Performance-driven Analog Routing via Heterogeneous 3DGNN and Potential Re
 
 
 
-C32. [Universal Process Migration Solution of MAGICAL for Analog IC Layout Automation](https://ieeexplore.ieee.org/document/) 
+C32. [On Accelerating Domain-Specific MC-TS with Knowledge Retention and Efficient Parallelization for Logic Optimization](https://ieeexplore.ieee.org/abstract/document/10617624) 
    *  Cunqing Lan, Xinyao Wang, Zijian Jiang, Hongyang Pan, **Keren Zhu**, Zhaori Bi, Changhao Yan and Xuan Zeng
    *   International Symposium of EDA (ISEDA),  Xi'an, China, May 10–13, 2024.
 
