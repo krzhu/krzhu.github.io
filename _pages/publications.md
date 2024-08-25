@@ -80,15 +80,27 @@ J1. [MAGICAL: An Open-Source Fully Automated Analog IC Layout System from Netlis
 Conference Papers
 -------
 
+C37. [AnalogGym: An Open and Practical Testing Suite for Analog Circuit Synthesis](https://ieeexplore.ieee.org/document/) 
+   *  <a href="https://github.com/magical-eda/UT-AnLay](https://github.com/CODA-Team/AnalogGym" style="color:#3793ae">Release</a>
+   *    Jintao Li, Haochang Zhi, Ruiyu Lyu, Wangzhen Li, Zhaori Bi<sup>\*</sup>, Keren Zhu<sup>\*</sup>, Yanhan Zhen， Weiwei Shan, Changhao Yan, Fan Yang, Yun Li<sup>\*</sup>, and Xuan Zeng<sup>\*</sup>
+   *   IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, NY, USA, Oct. 27–31, 2024.
+   *   \* corresponding authors
+   *   (Invited)
+
 C36. [Physically Aware Synthesis Revisited: Guiding Technology Mapping with Primitive Logic Gate Placement](https://ieeexplore.ieee.org/document/) 
    *    Hongyang Pan, Cunqing Lan, Yiting Liu, Zhiang Wang, Li Shang, Xuan Zeng, Fan Yang and **Keren Zhu**
    *   IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, NY, USA, Oct. 27–31, 2024.
    *   (Accepted)
 
-C34. [Revisiting Sensitivity-based Analog Sizing with Derivative-aware Bayesian Optimization and Error-Suppressed Adjoint Analysis](https://ieeexplore.ieee.org/document/) 
+C35. [Revisiting Sensitivity-based Analog Sizing with Derivative-aware Bayesian Optimization and Error-Suppressed Adjoint Analysis](https://ieeexplore.ieee.org/document/) 
    *    Ruiyu Lyu, Aidong Zhao, Yuan Meng, Zhaori Bi, **Keren Zhu**, Changhao Yan, Fan Yang, Dian Zhou and Xuan Zeng
    *   IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, NY, USA, Oct. 27–31, 2024.
    *   (Accepted)
+
+
+C34. [AI-Enabled Layout Automation for Analog and RF IC: Current Status and Future Directions](https://ieeexplore.ieee.org/document/) 
+   *   Chuyu Wang, Fan Yang, and **Keren Zhu**
+   *   IEEE International Symposium on Radio-Frequency Integration Technology (RFIT),  Chengdu, China, Aug. 28–30, 2024.
 
 
 C33. [Performance-driven Analog Routing via Heterogeneous 3DGNN and Potential Relaxation](https://ieeexplore.ieee.org/document/) 
