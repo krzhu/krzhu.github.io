@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: simple
 title: "Opening"
 permalink: /opening/
 ---
