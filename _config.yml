@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Keren Zhu"
-  avatar           : "KerenZhu24.jpg"
-  bio              : "Research Assistant Professor at The Chinese University of Hong Kong"
-  location         : "Hong Kong SAR, China"
+  avatar           : "KerenZhu24.png"
+  bio              : "Associate Professor at Fudan University"
+  location         : "Fudan, China"
   employer         :
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=WlvGP3kAAAAJ"
-  email            : "keren.zhu@utexas.edu"
+  email            : "krzhu@fudan.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
