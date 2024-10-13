@@ -6,6 +6,11 @@ permalink: /opening/
 
 ---
 
+This page is to be updated. If you need immediate inquery, please send to krzhu AT fudan.edu.cn **with subject title** *[CODA Apply] <your name> <PhD/MS/PostDoc/Other> <Fall/20XX> <your affliation>*. I promise I will reply to you if you send me an email with the title.
+
+
+
+
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

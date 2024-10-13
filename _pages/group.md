@@ -1,10 +1,20 @@
 ---
-layout: archive
+layout: simple
 title: "Group"
 permalink: /group/
 ---
 
 ---
+
+To be updated...
+
+Graduate Students
+======
+
+
+Alumni
+======
+
 
 
 
