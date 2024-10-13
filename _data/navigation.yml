@@ -1,18 +1,24 @@
 # main links links
 main:
-  - title: "ABOUT"
+  - title: "About"
     url: /
     
-  - title: "PUBLICATIONS"
+  - title: "Publication"
     url: /publications/
 
-  - title: "CV"
-    url: /cv/
-    
-    
-    
-  - title: "CUHK CSE"
-    url: https://www.cse.cuhk.edu.hk
+  - title: "Teaching"
+    url: /teaching/
 
-  - title: "CUHK EDA Center"
-    url: https://edacenter.cse.cuhk.edu.hk/index.html
+  - title: "Group"
+    url: /group/
+
+  - title: "Resource"
+    url: /resource/
+
+  - title: "Opening"
+    url: /opening/
+    
+    
+  - title: "Fudan SME"
+    url: https://sme.fudan.edu.cn/
+
