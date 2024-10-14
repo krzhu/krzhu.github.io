@@ -6,7 +6,6 @@ permalink: /resource/
 
 ---
 
-### Resources
 
 ## Analog CAD
 
@@ -24,7 +23,7 @@ ML for Analog Layout:  <a href="/publications/papers/A_Book22_Burns.pdf" style="
 
 ## Open Benchmarks
 
-**Analog Gym**: a open and easy to use testing suite for analog sizing problem. [Arxiv](https://github.com/CODA-Team/AnalogGym)
+**Analog Gym**: a open and easy to use testing suite for analog sizing problem. [repo](https://github.com/CODA-Team/AnalogGym)
 
 
 ## Open Tools

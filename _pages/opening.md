@@ -6,7 +6,10 @@ permalink: /opening/
 
 ---
 
-This page is to be updated. If you need immediate inquery, please send to krzhu AT fudan.edu.cn **with subject title** *[CODA Apply] <your name> <PhD/MS/PostDoc/Other> <Fall/20XX> <your affliation>*. I promise I will reply to you if you send me an email with the title.
+This page is to be updated. If you need immediate inquery, please send to krzhu AT fudan.edu.cn **with subject title** *[Fudan-Apply] <your name> <PhD/MS/PostDoc/Other> <Fall/20XX> <your affliation>*.
+For example, you can have "[Fudan-Apply] Keren Zhu PhD Fall 2025 复旦大学" as your email subject.
+I promise I will reply to you if you send me an email with this subject.
+
 
 
 
