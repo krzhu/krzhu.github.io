@@ -88,7 +88,7 @@ Conference Papers
 -------
 
 C39. [APR: Automated Photonic Integrated Circuit Detailed Routing with Curvy Waveguide and Adaptive Crossing Insertion](https://ieeexplore.ieee.org/document/) 
-   *  <a href="[https://arxiv.org/abs/2408.07886](https://arxiv.org/abs/2410.01289)" style="color:#3793ae">preprint</a>
+   *  <a href="https://arxiv.org/html/2410.01260v1" style="color:#3793ae">preprint</a>
    *   Hongjian Zhou, **Keren Zhu**, and Jiaqi Gu
    *   ACM International Symposium on Physical Design (ISPD), Austin, Mar. 16–19, 2025.
    *   (Accepted)
