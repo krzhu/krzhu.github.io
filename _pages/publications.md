@@ -87,6 +87,17 @@ J1. [MAGICAL: An Open-Source Fully Automated Analog IC Layout System from Netlis
 Conference Papers
 -------
 
+C39. [APR: Automated Photonic Integrated Circuit Detailed Routing with Curvy Waveguide and Adaptive Crossing Insertion](https://ieeexplore.ieee.org/document/) 
+   *  <a href="[https://arxiv.org/abs/2408.07886](https://arxiv.org/abs/2410.01289)" style="color:#3793ae">preprint</a>
+   *   Hongjian Zhou, **Keren Zhu**, and Jiaqi Gu
+   *   ACM International Symposium on Physical Design (ISPD), Austin, Mar. 16–19, 2025.
+   *   (Accepted)
+
+C38. [HeLO: A Heterogeneous Logic Optimization Framework by Hierarchical Clustering and Graph Learning](https://ieeexplore.ieee.org/document/) 
+   *    Yuan Pu, Fangzhou Liu, Zhuolun He, **Keren Zhu**, Rongliang Fu, Ziyi Wang, Tsung-Yi Ho, and Bei Yu
+   *   ACM International Symposium on Physical Design (ISPD), Austin, Mar. 16–19, 2025.
+   *   (Accepted)
+
 C37. [AnalogGym: An Open and Practical Testing Suite for Analog Circuit Synthesis](https://ieeexplore.ieee.org/document/) 
    *  <a href="https://github.com/CODA-Team/AnalogGym" style="color:#3793ae">Github Repo</a> \| <a href="https://arxiv.org/abs/2409.08534v1" style="color:#3793ae">preprint</a>
    *    Jintao Li, Haochang Zhi, Ruiyu Lyu, Wangzhen Li, Zhaori Bi<sup>\*</sup>, **Keren Zhu**<sup>\*</sup>, Yanhan Zhen， Weiwei Shan, Changhao Yan, Fan Yang, Yun Li<sup>\*</sup>, and Xuan Zeng<sup>\*</sup>
