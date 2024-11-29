@@ -87,6 +87,19 @@ J1. [MAGICAL: An Open-Source Fully Automated Analog IC Layout System from Netlis
 Conference Papers
 -------
 
+
+
+C41. [DAMIL-DCIM: A Digital CIM Layout Synthesis Framework with Dataflow-Aware Floorplan and MILP-Based Detailed Placement](https://ieeexplore.ieee.org/document/) 
+   *    Chuyu Wang, Ke Hu, Fan Yang, **Keren Zhu** and Xuan Zeng
+   *   IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Lyon, France, March 31 - April 2, 2025.
+   *   (Accepted)
+
+C40. [ELMap: Area-Driven LUT Mapping with k-LUT Network Exact Synthesis](https://ieeexplore.ieee.org/document/) 
+   *    Hongyang Pan, **Keren Zhu**, Fan Yang, Zhufei Chu and Xuan Zeng
+   *   IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Lyon, France, March 31 - April 2, 2025.
+   *   (Accepted)
+
+
 C39. [APR: Automated Photonic Integrated Circuit Detailed Routing with Curvy Waveguide and Adaptive Crossing Insertion](https://ieeexplore.ieee.org/document/) 
    *  <a href="https://arxiv.org/html/2410.01260v1" style="color:#3793ae">preprint</a>
    *   Hongjian Zhou, **Keren Zhu**, and Jiaqi Gu
