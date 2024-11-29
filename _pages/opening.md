@@ -44,7 +44,7 @@ I promise I will reply to you if you send me an email with this subject.
 
 具体录取标准 case by case，每个人都是独立的个体。大体上能用客观事实说服我 self-motivated。最简单的方式是要么展示自己的潜力，要么是已经证明自己的实力。
 
-** Q4: 如何申请？**
+**Q4: 如何申请？**
 
 查看复旦大学微电子学院官网。
 
