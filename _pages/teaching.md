@@ -10,6 +10,9 @@ permalink: /teaching/
 
 ### Fudan
 
+LLM for Chip Design
+* Fall 2025
+* Co-teach with Prof. Fan Yang
 
 ### CUHK
 
