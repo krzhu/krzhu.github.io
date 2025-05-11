@@ -20,14 +20,14 @@ Graduate Students
 |  [Hongyang Pan](https://panhomyoung.github.io) (With Prof. Yang Fan) |    From Spring 2024     |    Ph.D.                  |    M.S from Ningbo Uni.                |
 |  Cunqing Lan                                    |    From Fall 2023       |    M.S.-Ph.D.               |    M.S from Fudan                      |
 |  Zijian Jiang                                   |    From Fall 2023       |    M.S.-Ph.D.               |    M.S from Fudan                      |
-|  Xiaoyu Zhong (With Prof. Yang Fan)             |    From Fall 2023       |    M.Phil.                   |    B.S from Fudan                      |
+|  Xiaoyu Zhong (With Prof. Yang Fan)             |    From Fall 2023       |    M.Phil.                  |    B.S from Fudan                      |
 |  Siwen Wang (With Prof. Xuan Zeng)              |    From Fall 2023       |    M.S.                     |    B.S from Wuhan Uni.                 |
 |  Liwen Jiang                                    |    From Fall 2024       |    DEng                     |    B.S from Huaqiao Uni.               |
 |  Zhiyu Zheng                                    |    From Fall 2024       |    DEng                     |    B.S from Fudan                      |
 |  Yanfei Zhou                                    |    From Fall 2024       |    DEng                     |    B.S from Wuhan Uni.                 |
 |  Liangtao Dai (With Prof. Xuan Zeng)            |    From Fall 2024       |    Ph.D.                    |    B.S from ShanghaiTech               |
 |  Jinhong Huang (With Prof. Xuan Zeng)           |    From Fall 2024       |    Ph.D.                    |    B.S from Fuzhou Uni.                |
-|  Zecheng Xu (With Prof. Yumao Wu)               |    From Fall 2024       |    Ph.D.                    |    B.S from Fudan                      |
+|  Zecheng Xu (With Prof. Yumao Wu)               |    From Fall 2024       |    DEng                     |    B.S from Fudan                      |
 |  Xinyi Yang                                     |    To join Fall 2025    |    Ph.D.                    |    B.S from Fudan                      |
 |  Boxiang Song                                   |    To join Fall 2025    |    Ph.D.                    |    B.S from Wuhan Uni.                 |
 |  Yu Deng                                        |    To join Fall 2025    |    M.Phil.                  |    B.S from Fudan                      |
