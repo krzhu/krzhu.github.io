@@ -10,7 +10,6 @@ Here are a list of students who have closely working with me. Not neccesarily su
 Graduate Students
 ======
 
-|--------------------|--------------------------|------------|-----------------------------------------------------------------------|
 |     Name           | Period                   |    Program        | Original Affiliation                                           |
 |--------------------|--------------------------|------------|-----------------------------------------------------------------------|
 |  Yujie Yan                                      |    From Fall 2024       |    Ph.D. Candidate                 |    B.S from HUST                       |
@@ -25,7 +24,7 @@ Graduate Students
 |  Yanfei Zhou                                    |    From Fall 2024       |    Ph.D. Student                   |    B.S from Wuhan Uni.                 |
 |  Zecheng Xu      (With Prof. Yumao Wu)          |    From Fall 2024       |    Ph.D. Student                   |    B.S from Fudan                      |
 
-|--------------------|--------------------------|------------|-----------------------------------------------------------------------|
+
 
 Alumni
 ======
