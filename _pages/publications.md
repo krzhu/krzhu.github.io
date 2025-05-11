@@ -87,29 +87,62 @@ J1. [MAGICAL: An Open-Source Fully Automated Analog IC Layout System from Netlis
 Conference Papers
 -------
 
+C48. [GPU Acceleration of A High-precision Stochastic Solver for Steady-state Thermal Analysis with Robin Boundary Conditions](https://ieeexplore.ieee.org/document/) 
+   *    Wangzhen Li, Yuan Meng, Ruiyu Lyu, Changhao Yan, **Keren Zhu**, Zhaori Bi, Dian Zhou and Xuan Zeng
+   *  IEEE/ACM Design Automation Conference (DAC) , San Francisco, USA, Jun. 22–25, 2025.
+   *  (Accepted)
+
+C47. [GPU Acceleration of A High-precision Stochastic Solver for Steady-state Thermal Analysis with Robin Boundary Conditions](https://ieeexplore.ieee.org/document/) 
+   *    Jintao Li, Haochang Zhi, Jiang Xiao, **Keren Zhu**<sup>\*</sup> and Yun Li<sup>\*</sup>,
+   *  IEEE/ACM Design Automation Conference (DAC) , San Francisco, USA, Jun. 22–25, 2025.
+   *  (Accepeted)
+   * \* corresponding authors
+
+C46. [GPU Acceleration of A High-precision Stochastic Solver for Steady-state Thermal Analysis with Robin Boundary Conditions](https://ieeexplore.ieee.org/document/) 
+   *    Yonghan Luo, Yuyan Wang, Zhixuan Dong, Changhao Yan, Zhaori Bi, **Keren Zhu**, Shengguo Wang, and Xuan Zeng
+   *  International Symposium of EDA (ISEDA),  Hong Kong, China, May 9–12, 2025.
+
+C45. [Adaptive Preconditioning Guided by Divergence Analysis for Enhanced VLSI Global Placement](https://ieeexplore.ieee.org/document/) 
+   *    Liwen Jiang, Ruiyu Lyu, Fan Yang, and **Keren Zhu**
+   *  International Symposium of EDA (ISEDA),  Hong Kong, China, May 9–12, 2025.
+
+
+C44. [Multi-Armed Bandits-Based Exploring and Exploiting the High-Dimensional Design Space for Analog Circuit with Adjoint Sensitivity](https://ieeexplore.ieee.org/document/) 
+   *    Xiaoyu Zhong, Jintao Li, Zhaori Bi, Yun Li, Fan Yang, Xuan Zeng, and **Keren Zhu**
+   *  International Symposium of EDA (ISEDA),  Hong Kong, China, May 9–12, 2025.
+   *   **Best Paper Award**
+
+
+C43. [Multi-Armed Bandits-Based Exploring and Exploiting the High-Dimensional Design Space for Analog Circuit with Adjoint Sensitivity](https://ieeexplore.ieee.org/document/) 
+   *    Ruiyu Lyu, Yuan Meng, Zhaori Bi, **Keren Zhu**, Changhao Yan, Fan Yang, and Xuan Zeng
+   *   International Symposium of EDA (ISEDA),  Hong Kong, China, May 9–12, 2025.
+
+C42. [Hybrid Automation in Analog Sizing: Synergizing Designer Intuition with Multi-Objective Optimization for Gain-Boosted Amplifiers](https://ieeexplore.ieee.org/document/) 
+   *    Yue Huang, Wangzhen Li, Xiaochuan Peng, **Keren Zhu**, Fan Yang, and Xuan Zeng
+   *   International Symposium of EDA (ISEDA),  Hong Kong, China, May 9–12, 2025.
 
 
 C41. [DAMIL-DCIM: A Digital CIM Layout Synthesis Framework with Dataflow-Aware Floorplan and MILP-Based Detailed Placement](https://ieeexplore.ieee.org/document/) 
-   *    Chuyu Wang, Ke Hu, Fan Yang, **Keren Zhu** and Xuan Zeng
+   *    Chuyu Wang, Ke Hu, Fan Yang, **Keren Zhu**<sup>\*</sup>, and Xuan Zeng<sup>\*</sup>
    *   IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Lyon, France, March 31 - April 2, 2025.
-   *   (Accepted)
+   *   \* corresponding authors
 
 C40. [ELMap: Area-Driven LUT Mapping with k-LUT Network Exact Synthesis](https://ieeexplore.ieee.org/document/) 
    *    Hongyang Pan, **Keren Zhu**, Fan Yang, Zhufei Chu and Xuan Zeng
    *   IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Lyon, France, March 31 - April 2, 2025.
-   *   (Accepted)
 
 
-C39. [APR: Automated Photonic Integrated Circuit Detailed Routing with Curvy Waveguide and Adaptive Crossing Insertion](https://ieeexplore.ieee.org/document/) 
+C39. [LiDAR: Automated Curvy Waveguide Detailed Routing for Large-Scale Photonic Integrated Circuits](https://dl.acm.org/doi/abs/10.1145/3698364.3705355)
    *  <a href="https://arxiv.org/html/2410.01260v1" style="color:#3793ae">preprint</a>
    *   Hongjian Zhou, **Keren Zhu**, and Jiaqi Gu
    *   ACM International Symposium on Physical Design (ISPD), Austin, Mar. 16–19, 2025.
    *   (Accepted)
 
-C38. [HeLO: A Heterogeneous Logic Optimization Framework by Hierarchical Clustering and Graph Learning](https://ieeexplore.ieee.org/document/) 
+C38. [HeLO: A Heterogeneous Logic Optimization Framework by Hierarchical Clustering and Graph Learning](https://dl.acm.org/doi/abs/10.1145/3698364.3705354)
    *    Yuan Pu, Fangzhou Liu, Zhuolun He, **Keren Zhu**, Rongliang Fu, Ziyi Wang, Tsung-Yi Ho, and Bei Yu
    *   ACM International Symposium on Physical Design (ISPD), Austin, Mar. 16–19, 2025.
-   *   (Accepted)
+   *   **Best Paper Award Nomination**
+
 
 C37. [AnalogGym: An Open and Practical Testing Suite for Analog Circuit Synthesis](https://ieeexplore.ieee.org/document/) 
    *  <a href="https://github.com/CODA-Team/AnalogGym" style="color:#3793ae">Github Repo</a> \| <a href="https://arxiv.org/abs/2409.08534v1" style="color:#3793ae">preprint</a>
