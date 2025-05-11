@@ -17,15 +17,17 @@ Graduate Students
 |  [Hongyang Pan](https://panhomyoung.github.io) (With Prof. Yang Fan) |    From Spring 2024     |    Ph.D. Candidate                 |    M.S from Ningbo Uni.                |
 |  Cunqing Lan                                    |    From Fall 2023       |    M.S.-Ph.d.                      |    M.S from Fudan                      |
 |  Zijian Jiang                                   |    From Fall 2023       |    M.S.-Ph.d.                      |    M.S from Fudan                      |
-|  Xiaoyu Zhong    (With Prof. Yang Fan)          |    From Fall 2023       |    M.S.                            |    B.S from Fudan                      |
-|  Siwen Wang      (With Prof. Xuan Zeng)         |    From Fall 2024       |    M.S.                            |    B.S from Wuhan Uni.                 |
+|  Xiaoyu Zhong (With Prof. Yang Fan)             |    From Fall 2023       |    M.S.                            |    B.S from Fudan                      |
+|  Siwen Wang (With Prof. Xuan Zeng)              |    From Fall 2023       |    M.S.                            |    B.S from Wuhan Uni.                 |
 |  Liwen Jiang                                    |    From Fall 2024       |    Ph.D. Student                   |    B.S from Huaqiao Uni.               |
 |  Zhiyu Zheng                                    |    From Fall 2024       |    Ph.D. Student                   |    B.S from Fudan                      |
 |  Yanfei Zhou                                    |    From Fall 2024       |    Ph.D. Student                   |    B.S from Wuhan Uni.                 |
-|  Zecheng Xu      (With Prof. Yumao Wu)          |    From Fall 2024       |    Ph.D. Student                   |    B.S from Fudan                      |
+|  Liangtao Dai (With Prof. Xuan Zeng)            |    From Fall 2024       |    Ph.D. Student                   |    B.S from ShanghaiTech               |
+|  Jinhong Huang (With Prof. Xuan Zeng)           |    From Fall 2024       |    Ph.D. Student                   |    B.S from Fuzhou Uni.                |
+|  Zecheng Xu (With Prof. Yumao Wu)               |    From Fall 2024       |    Ph.D. Student                   |    B.S from Fudan                      |
 |  Xinyi Yang                                     |    To join Fall 2025    |    Ph.D. Student                   |    B.S from Fudan                      |
 |  Boxiang Song                                   |    To join Fall 2025    |    Ph.D. Student                   |    B.S from Wuhan Uni.                 |
-
+|  Zhouyang Wu (With Prof. Xuan Zeng)             |    To join Fall 2025    |    Ph.D. Student                   |    B.S from Fudan                      |
 
 Alumni
 ======
