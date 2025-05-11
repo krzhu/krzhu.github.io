@@ -14,7 +14,7 @@ Graduate Students
 |--------------------|--------------------------|------------|-----------------------------------------------------------------------|
 |  Yujie Yan                                      |    From Fall 2024       |    Ph.D. Candidate                 |    B.S from HUST                       |
 |  Chuyu Wang (With Prof. Xuan Zeng)              |    From Fall 2024       |    Ph.D. Candidate                 |    B.S from Fudan                      |
-|  Hongyang Pang (With Prof. Yang Fan)            |    From Spring 2024     |    Ph.D. Candidate                 |    M.S from Ningbo Uni.                |
+|  [Hongyang Pan](panhomyoung.github.io) (With Prof. Yang Fan) |    From Spring 2024     |    Ph.D. Candidate                 |    M.S from Ningbo Uni.                |
 |  Cunqing Lan                                    |    From Fall 2023       |    M.S.-Ph.d.                      |    M.S from Fudan                      |
 |  Zijian Jiang                                   |    From Fall 2023       |    M.S.-Ph.d.                      |    M.S from Fudan                      |
 |  Xiaoyu Zhong    (With Prof. Yang Fan)          |    From Fall 2023       |    M.S.                            |    B.S from Fudan                      |
@@ -23,7 +23,8 @@ Graduate Students
 |  Zhiyu Zheng                                    |    From Fall 2024       |    Ph.D. Student                   |    B.S from Fudan                      |
 |  Yanfei Zhou                                    |    From Fall 2024       |    Ph.D. Student                   |    B.S from Wuhan Uni.                 |
 |  Zecheng Xu      (With Prof. Yumao Wu)          |    From Fall 2024       |    Ph.D. Student                   |    B.S from Fudan                      |
-
+|  Xinyi Yang                                     |    To join Fall 2025    |    Ph.D. Student                   |    B.S from Fudan                      |
+|  Boxiang Song                                   |    To join Fall 2025    |    Ph.D. Student                   |    B.S from Wuhan Uni.                 |
 
 
 Alumni
