@@ -11,7 +11,7 @@ Graduate Students
 ======
 **Students I Have Collaborated With**
 
-*Note:1. Degree titles (M.S./M.Phil. vs. Ph.D./DEng) follow institutional conventions. All members hold equal status in our group. 2. These collaborations include both supervised and unsupervised roles*
+*Note:1. Degree titles (M.S./M.Phil. vs. Ph.D./DEng) follow institutional conventions. All members hold equal status in our group. 2. These collaborations include both supervised and unsupervised roles.*
 
 
 |     Name           | Period                   |    Program        | Original Affiliation                                           |
