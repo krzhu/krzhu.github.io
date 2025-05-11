@@ -5,10 +5,13 @@ permalink: /group/
 ---
 
 ---
-Here are a list of students who have closely working with me. Not neccesarily supervised by me.
+
 
 Graduate Students
 ======
+**Students I Have Collaborated With**
+*(Note:Degree titles (M.S./M.Phil. vs. Ph.D./DEng) follow institutional conventions. These collaborations include both supervised and unsupervised roles. All members hold equal status in our group.)*
+
 
 |     Name           | Period                   |    Program        | Original Affiliation                                           |
 |--------------------|--------------------------|------------|-----------------------------------------------------------------------|
@@ -19,9 +22,9 @@ Graduate Students
 |  Zijian Jiang                                   |    From Fall 2023       |    M.S.-Ph.D.               |    M.S from Fudan                      |
 |  Xiaoyu Zhong (With Prof. Yang Fan)             |    From Fall 2023       |    M.Phi.                   |    B.S from Fudan                      |
 |  Siwen Wang (With Prof. Xuan Zeng)              |    From Fall 2023       |    M.S.                     |    B.S from Wuhan Uni.                 |
-|  Liwen Jiang                                    |    From Fall 2024       |    Ph.D.                    |    B.S from Huaqiao Uni.               |
-|  Zhiyu Zheng                                    |    From Fall 2024       |    Ph.D.                    |    B.S from Fudan                      |
-|  Yanfei Zhou                                    |    From Fall 2024       |    Ph.D.                    |    B.S from Wuhan Uni.                 |
+|  Liwen Jiang                                    |    From Fall 2024       |    DEng                     |    B.S from Huaqiao Uni.               |
+|  Zhiyu Zheng                                    |    From Fall 2024       |    DEng                     |    B.S from Fudan                      |
+|  Yanfei Zhou                                    |    From Fall 2024       |    DEng                     |    B.S from Wuhan Uni.                 |
 |  Liangtao Dai (With Prof. Xuan Zeng)            |    From Fall 2024       |    Ph.D.                    |    B.S from ShanghaiTech               |
 |  Jinhong Huang (With Prof. Xuan Zeng)           |    From Fall 2024       |    Ph.D.                    |    B.S from Fuzhou Uni.                |
 |  Zecheng Xu (With Prof. Yumao Wu)               |    From Fall 2024       |    Ph.D.                    |    B.S from Fudan                      |
