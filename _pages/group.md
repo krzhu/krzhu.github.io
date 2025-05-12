@@ -23,7 +23,7 @@ Graduate Students
 |  Zijian Jiang                                   |    From Fall 2023       |    M.S.-Ph.D.               |    M.S from Fudan                      |
 |  Xiaoyu Zhong (With Prof. Yang Fan)             |    From Fall 2023       |    M.Phil.                  |    B.S from Fudan                      |
 |  Siwen Wang (With Prof. Xuan Zeng)              |    From Fall 2023       |    M.S.                     |    B.S from Wuhan Uni.                 |
-|  Liwen Jiang                                    |    From Fall 2024       |    DEng                     |    B.S from Huaqiao Uni.               |
+|  [Liwen Jiang](https://mp333player.com)         |    From Fall 2024       |    DEng                     |    B.S from Huaqiao Uni.               |
 |  Zhiyu Zheng                                    |    From Fall 2024       |    DEng                     |    B.S from Fudan                      |
 |  Yanfei Zhou                                    |    From Fall 2024       |    DEng                     |    B.S from Wuhan Uni.                 |
 |  Liangtao Dai (With Prof. Xuan Zeng)            |    From Fall 2024       |    Ph.D.                    |    B.S from ShanghaiTech               |
