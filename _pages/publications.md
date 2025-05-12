@@ -33,11 +33,17 @@ B1. [CAD for Analog/Mixed-Signal Integrated Circuits](https://www.amazon.com/Adv
 Journal Papers
 -------
 
-J9. [The Dawn of AI-Native EDA: Promises and Challenges of Large Circuit Models](https://ieeexplore.ieee.org/) 
+
+J10. [PARoute2: Enhanced Analog Routing via Performance-Drive Guidance Generation](https://ieeexplore.ieee.org/) 
+   * Peng Xu, Jindong Tu, Guojin Chen, **Keren Zhu**, Tinghuan Chen, Tsung-Yi Ho, and Bei Yu
+   * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.
+
+
+J9. [The Dawn of AI-Native EDA: Promises and Challenges of Large Circuit Models](https://arxiv.org/abs/2403.07257)
    * <a href="https://arxiv.org/abs/2403.07257" style="color:#3793ae">Arxiv</a>
    * Tsung-Yi Ho, Sadaf Khan, Jinwei Liu, Yi Liu, Zhengyuan Shi, Ziyi Wang, Qiang Xu, Evangeline F.Y. Young, Bei Yu, Ziyang Zheng, Binwu Zhu, **Keren Zhu**, Yiqi Che, Yun Liang, Yibo Lin, Guojie Luo, Guangyu Sun, Runsheng Wang, Xinming Wei, Chenhao Xue, Haoyi Zhang, Zuodong Zhang, Yuxiang Zhao, Sunan Zou, Lei Chen, Yu Huang, Min Li, Dimitrios Tsaras, Mingxuan Yuan, Hui-Ling Zhen, Zhufei Chu, Wenji Fang, Xingquan Li and Zhiyao Xie
    * SCIENCE CHINA Information Sciences, 2024.
-   * Accepeted
+
 
 
 J8. [Domain Wall-Magnetic Tunnel Junction Analog Content Addressable Memory Using Current and Projected Data](https://ieeexplore.ieee.org/document/10363685) 
