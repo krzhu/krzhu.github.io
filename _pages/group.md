@@ -28,6 +28,7 @@ Graduate Students
 |  Yanfei Zhou                                    |    From Fall 2024       |    DEng                     |    B.S from Wuhan Uni.                 |
 |  Liangtao Dai (With Prof. Xuan Zeng)            |    From Fall 2024       |    Ph.D.                    |    B.S from ShanghaiTech               |
 |  Jinhong Huang (With Prof. Xuan Zeng)           |    From Fall 2024       |    Ph.D.                    |    B.S from Fuzhou Uni.                |
+|  Hanwen Guo (By Prof. Changhao Yan)             |    From Fall 2024       |    Ph.D.                    |    B.S from Fudan.                     |
 |  Zecheng Xu (With Prof. Yumao Wu)               |    From Fall 2024       |    DEng                     |    B.S from Fudan                      |
 |  Xinyi Yang                                     |    To join Fall 2025    |    Ph.D.                    |    B.S from Fudan                      |
 |  Boxiang Song                                   |    To join Fall 2025    |    Ph.D.                    |    B.S from Wuhan Uni.                 |
