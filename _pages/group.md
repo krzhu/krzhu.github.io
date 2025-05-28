@@ -18,10 +18,10 @@ Graduate Students
 |--------------------|--------------------------|------------|-----------------------------------------------------------------------|
 |  Yujie Yan                                      |    From Fall 2024       |    Ph.D.                  |    B.S from HUST                       |
 |  Chuyu Wang (With Prof. Xuan Zeng)              |    From Fall 2024       |    Ph.D.                  |    B.S from Fudan                      |
-|  [Hongyang Pan](https://panhomyoung.github.io) (With Prof. Yang Fan) |    From Spring 2024     |    Ph.D.                  |    M.S from Ningbo Uni.                |
+|  [Hongyang Pan](https://panhomyoung.github.io) (With Prof. Fan Yang) |    From Spring 2024     |    Ph.D.                  |    M.S from Ningbo Uni.                |
 |  Cunqing Lan                                    |    From Fall 2023       |    M.S.-Ph.D.               |    M.S from Fudan                      |
 |  Zijian Jiang                                   |    From Fall 2023       |    M.S.-Ph.D.               |    M.S from Fudan                      |
-|  Xiaoyu Zhong (With Prof. Yang Fan)             |    From Fall 2023       |    M.Phil.                  |    B.S from Fudan                      |
+|  Xiaoyu Zhong (With Prof. Fan Yang)             |    From Fall 2023       |    M.Phil.                  |    B.S from Fudan                      |
 |  Siwen Wang (With Prof. Xuan Zeng)              |    From Fall 2023       |    M.S.                     |    B.S from Wuhan Uni.                 |
 |  [Liwen Jiang](https://mp333player.com)         |    From Fall 2024       |    DEng                     |    B.S from Huaqiao Uni.               |
 |  Zhiyu Zheng                                    |    From Fall 2024       |    DEng                     |    B.S from Fudan                      |
