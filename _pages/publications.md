@@ -93,12 +93,12 @@ J1. [MAGICAL: An Open-Source Fully Automated Analog IC Layout System from Netlis
 Conference Papers
 -------
 
-C48. [GPU Acceleration of A High-precision Stochastic Solver for Steady-state Thermal Analysis with Robin Boundary Conditions](https://ieeexplore.ieee.org/document/) 
+C48. [MARIO: A Superadditive Multi-Algorithm Interworking Optimization Framework for Analog Circuit Sizing](https://ieeexplore.ieee.org/document/) 
    *    Wangzhen Li, Yuan Meng, Ruiyu Lyu, Changhao Yan, **Keren Zhu**, Zhaori Bi, Dian Zhou and Xuan Zeng
    *  IEEE/ACM Design Automation Conference (DAC) , San Francisco, USA, Jun. 22–25, 2025.
    *  (Accepted)
 
-C47. [GPU Acceleration of A High-precision Stochastic Solver for Steady-state Thermal Analysis with Robin Boundary Conditions](https://ieeexplore.ieee.org/document/) 
+C47. [Decoupling Analog Circuit Representation from Process for Behavior-Centric Optimization](https://ieeexplore.ieee.org/document/) 
    *    Jintao Li, Haochang Zhi, Jiang Xiao, **Keren Zhu**<sup>\*</sup> and Yun Li<sup>\*</sup>,
    *  IEEE/ACM Design Automation Conference (DAC) , San Francisco, USA, Jun. 22–25, 2025.
    *  (Accepeted)
