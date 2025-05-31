@@ -26,6 +26,7 @@ Graduate Students
 |  [Liwen Jiang](https://mp333player.com)         |    From Fall 2024       |    DEng                     |    B.S from Huaqiao Uni.               |
 |  Zhiyu Zheng                                    |    From Fall 2024       |    DEng                     |    B.S from Fudan                      |
 |  Yanfei Zhou                                    |    From Fall 2024       |    DEng                     |    B.S from Wuhan Uni.                 |
+|  Xinglong Yan                                   |    From Fall 2024       |    M.S.                     |    B.S from Tongji Uni.               |
 |  Liangtao Dai (With Prof. Xuan Zeng)            |    From Fall 2024       |    Ph.D.                    |    B.S from ShanghaiTech               |
 |  Jinhong Huang (With Prof. Xuan Zeng)           |    From Fall 2024       |    Ph.D.                    |    B.S from Fuzhou Uni.                |
 |  Hanwen Guo (By Prof. Changhao Yan)             |    From Fall 2024       |    Ph.D.                    |    B.S from Fudan.                     |
