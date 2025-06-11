@@ -14,7 +14,7 @@ Graduate Students
 *Note:1. Degree titles (M.S./M.Phil. vs. Ph.D./DEng) follow institutional conventions. All members hold equal status in our group. 2. These collaborations include both supervised and unsupervised roles.*
 
 
-|     Name           | Period                   |    Program        | Original Affiliation                                           |
+|     Name           | Period                   |    Program        | Previous Affiliation                                           |
 |--------------------|--------------------------|------------|-----------------------------------------------------------------------|
 |  Yujie Yan                                      |    From Fall 2024       |    Ph.D.                  |    B.S from HUST                       |
 |  Chuyu Wang (With Prof. Xuan Zeng)              |    From Fall 2024       |    Ph.D.                  |    B.S from Fudan                      |
