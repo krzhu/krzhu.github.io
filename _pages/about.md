@@ -21,6 +21,9 @@ My research interest include custom circuit layout automation, machine learning 
 
 
 
+### Calendar
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Asia%2FShanghai&showPrint=0&mode=WEEK&title=Keren%20Zhu&src=a2VyZW56aHVAaWVlZS5vcmc&src=aDM5Y2Q4cXVraTNjOG5qMXZvdmRwdWU4bXN2czU0aGRAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23039be5&color=%23ef6c00" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 
 
