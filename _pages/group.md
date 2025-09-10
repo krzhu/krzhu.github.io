@@ -28,11 +28,13 @@ Graduate Students
 |  Hanwen Guo (By Prof. Changhao Yan)             |    From Fall 2024       |    Ph.D.                    |    B.S from Fudan.                     |
 |  Zecheng Xu (With Prof. Yumao Wu)               |    From Fall 2024       |    DEng                     |    B.S from Fudan                      |
 |  Xinglong Yan                                   |    From Fall 2024       |    M.S.                     |    B.S from Tongji                     |
-|  Xinyi Yang                                     |    To join Fall 2025    |    Ph.D.                    |    B.S from Fudan                      |
-|  Boxiang Song                                   |    To join Fall 2025    |    Ph.D.                    |    B.S from Wuhan Uni.                 |
-|  Yu Deng                                        |    To join Fall 2025    |    M.Phil.                  |    B.S from Fudan                      |
-|  Zhouyang Wu (With Prof. Xuan Zeng)             |    To join Fall 2025    |    Ph.D.                    |    B.S from Fudan                      |
-|  Shuang Li                                      |    To join Fall 2025    |    M.S.                     |    B.S from Fudan                      |
+|  Guanhua Chen (With Prof. Changhao Yan)         |    From Spring 2025     |    Ph.D.                    |    B.S from Shandong Uni.              |
+|  Xinyi Yang                                     |    From Fall 2025       |    Ph.D.                    |    B.S from Fudan                      |
+|  Boxiang Song                                   |    From Fall 2025       |    Ph.D.                    |    S from Wuhan Uni.                   |
+|  Yu Deng                                        |    From Fall 2025       |    M.Phil.                  |    B.S from Fudan                      |
+|  Zhouyang Wu (With Prof. Xuan Zeng)             |    From Fall 2025       |    Ph.D.                    |    B.S from Fudan                      |
+|  Shuang Li                                      |    From Fall 2025       |    M.S.                     |    B.S from Fudan                      |
+|  Jiahua Liu (With Prof. Xuan Zeng)              |    From Fall 2025       |    M.S.                     |    B.S from Shandong Uni.              |
 
 Alumni
 ======
