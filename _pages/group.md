@@ -30,7 +30,8 @@ Graduate Students
 |  Xinglong Yan                                   |    From Fall 2024       |    M.S.                     |    B.S from Tongji                     |
 |  Guanhua Chen (With Prof. Changhao Yan)         |    From Spring 2025     |    Ph.D.                    |    B.S from Shandong Uni.              |
 |  Xinyi Yang                                     |    From Fall 2025       |    Ph.D.                    |    B.S from Fudan                      |
-|  Boxiang Song                                   |    From Fall 2025       |    Ph.D.                    |    S from Wuhan Uni.                   |
+|  Boxiang Song                                   |    From Fall 2025       |    Ph.D.                    |    B.S from Wuhan Uni.                 |
+|  Benchao Zhu                                    |    From Fall 2025       |    Ph.D.                    |    M.S from Fudan                      |
 |  Yu Deng                                        |    From Fall 2025       |    M.Phil.                  |    B.S from Fudan                      |
 |  Zhouyang Wu (With Prof. Xuan Zeng)             |    From Fall 2025       |    Ph.D.                    |    B.S from Fudan                      |
 |  Shuang Li                                      |    From Fall 2025       |    M.S.                     |    B.S from Fudan                      |
