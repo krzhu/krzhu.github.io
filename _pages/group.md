@@ -24,16 +24,15 @@ Graduate Students
 |  Xiaoyu Zhong (With Prof. Fan Yang)             |    From Fall 2023       |    M.Phil.                  |    B.S from Fudan                      |
 |  Siwen Wang (With Prof. Xuan Zeng)              |    From Fall 2023       |    M.S.                     |    B.S from Wuhan Uni.                 |
 |  [Liwen Jiang](https://mp333player.com)         |    From Fall 2024       |    DEng                     |    B.S from Huaqiao Uni.               |
-|  Zhiyu Zheng                                    |    From Fall 2024       |    DEng                     |    B.S from Fudan                      |
-|  Yanfei Zhou                                    |    From Fall 2024       |    DEng                     |    B.S from Wuhan Uni.                 |
-|  Liangtao Dai (With Prof. Xuan Zeng)            |    From Fall 2024       |    Ph.D.                    |    B.S from ShanghaiTech               |
 |  Jinhong Huang (With Prof. Xuan Zeng)           |    From Fall 2024       |    Ph.D.                    |    B.S from Fuzhou Uni.                |
 |  Hanwen Guo (By Prof. Changhao Yan)             |    From Fall 2024       |    Ph.D.                    |    B.S from Fudan.                     |
 |  Zecheng Xu (With Prof. Yumao Wu)               |    From Fall 2024       |    DEng                     |    B.S from Fudan                      |
+|  Xinglong Yan                                   |    From Fall 2024       |    M.S.                     |    B.S from Tongji                     |
 |  Xinyi Yang                                     |    To join Fall 2025    |    Ph.D.                    |    B.S from Fudan                      |
 |  Boxiang Song                                   |    To join Fall 2025    |    Ph.D.                    |    B.S from Wuhan Uni.                 |
 |  Yu Deng                                        |    To join Fall 2025    |    M.Phil.                  |    B.S from Fudan                      |
 |  Zhouyang Wu (With Prof. Xuan Zeng)             |    To join Fall 2025    |    Ph.D.                    |    B.S from Fudan                      |
+|  Shuang Li                                      |    To join Fall 2025    |    M.S.                     |    B.S from Fudan                      |
 
 Alumni
 ======
