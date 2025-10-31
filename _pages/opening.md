@@ -16,6 +16,8 @@ I promise I will reply to you if you send me an email with this subject.
 
 邮件内请附简短自我介绍与简历（**强烈建议包含成绩排名**）。
 
+在2025年秋季的招生宣讲会上我做了个slides介绍下我对招生的想法，如果有兴趣可以参考：  <a href="/files/20251028_recruit.pdf" style="color:#3793ae">招生介绍</a>
+
 # 常见问题
 
 ### **Q1: 实验室招收什么项目学生？**
