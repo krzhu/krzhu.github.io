@@ -42,7 +42,7 @@ J14. [PigMap2: A Physical Information Guided Technology Mapping Framework](https
 J13. [DAMIL-DCIM+: Automated Dataflow-Aware Layout Synthesis for Digital CIM with Self-Assembled Bitcell Units and MILP-Based Optimization](https://ieeexplore.ieee.org/document/11154029/)
    * Chuyu Wang\∗, Xinglong Yan\∗, Zecheng Xu\∗, Ke Hu, **Keren Zhu**†, Shuo Li, Fan Yang and Xuan Zeng†
    *  IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.
-   * \† Corresponding authors
+   * † Corresponding authors
    * \* Equal contributions
 
 
