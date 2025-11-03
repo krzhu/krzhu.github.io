@@ -1,4 +1,4 @@
----
+  ---
 layout: simple
 title: "Publications"
 permalink: /publications/
@@ -33,8 +33,30 @@ B1. [CAD for Analog/Mixed-Signal Integrated Circuits](https://www.amazon.com/Adv
 Journal Papers
 -------
 
+J14. [PigMap2: A Physical Information Guided Technology Mapping Framework](https://ieeexplore.ieee.org/document/11195806/)
+   * Cunqing Lan\*, Hongyang Pan\*, Zhiang Wang\†, Xuan Zeng, Fan Yang  and **Keren Zhu**\†,
+   *  IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.
+   * \† corresponding authors
+   * \* Equal contributions
 
-J10. [PARoute2: Enhanced Analog Routing via Performance-Drive Guidance Generation](https://ieeexplore.ieee.org/) 
+J13. [DAMIL-DCIM+: Automated Dataflow-Aware Layout Synthesis for Digital CIM with Self-Assembled Bitcell Units and MILP-Based Optimization](https://ieeexplore.ieee.org/document/11154029/)
+   * Chuyu Wang\∗, Xinglong Yan\∗, Zecheng Xu\∗, Ke Hu, **Keren Zhu**\†, Shuo Li, Fan Yang and Xuan Zeng\†
+   *  IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.
+   * \† corresponding authors
+   * \* Equal contributions
+
+
+J12. [An Iterative FEM Solver for IC Electromagnetic Analysis via Hybrid Geometric-Algebraic Partitioning and Neural Network Optimization](https://ieeexplore.ieee.org/document/11142538/)
+   *  Mingtao Li, Changhao Yan, Tao Cui, Liguo Jiang, Wenliang Dai, Zhaori Bi, **Keren Zhu**, and Xuan Zeng
+   * IEEE Transactions on Microwave Theory and Techniques (TMTT), 2025
+
+
+J11. [Rethinking Logic Rewriting: Technology-Aware Subgraph Matching with Exact Synthesis](https://dl.acm.org/doi/10.1145/3749103) 
+   * Hongyang Pan, **Keren Zhu**, Fan Yang, Xuan Zeng, Sen Liu, Yong Xiao, Yun Shao, and Zhufei Chu
+   * ACM Transactions on Design Automation of Electronic Systems (TODAES), 2025
+
+
+J10. [PARoute2: Enhanced Analog Routing via Performance-Drive Guidance Generation](https://ieeexplore.ieee.org/document/10922751/) 
    * Peng Xu, Jindong Tu, Guojin Chen, **Keren Zhu**, Tinghuan Chen, Tsung-Yi Ho, and Bei Yu
    * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.
 
