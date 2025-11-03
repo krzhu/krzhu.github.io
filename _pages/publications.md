@@ -34,15 +34,15 @@ Journal Papers
 -------
 
 J14. [PigMap2: A Physical Information Guided Technology Mapping Framework](https://ieeexplore.ieee.org/document/11195806/)
-   * Cunqing Lan\*, Hongyang Pan\*, Zhiang Wang\†, Xuan Zeng, Fan Yang  and **Keren Zhu**\†,
+   * Cunqing Lan\*, Hongyang Pan\*, Zhiang Wang†, Xuan Zeng, Fan Yang  and **Keren Zhu**†,
    *  IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.
-   * \† corresponding authors
+   * † Corresponding authors
    * \* Equal contributions
 
 J13. [DAMIL-DCIM+: Automated Dataflow-Aware Layout Synthesis for Digital CIM with Self-Assembled Bitcell Units and MILP-Based Optimization](https://ieeexplore.ieee.org/document/11154029/)
-   * Chuyu Wang\∗, Xinglong Yan\∗, Zecheng Xu\∗, Ke Hu, **Keren Zhu**\†, Shuo Li, Fan Yang and Xuan Zeng\†
+   * Chuyu Wang\∗, Xinglong Yan\∗, Zecheng Xu\∗, Ke Hu, **Keren Zhu**†, Shuo Li, Fan Yang and Xuan Zeng†
    *  IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.
-   * \† corresponding authors
+   * \† Corresponding authors
    * \* Equal contributions
 
 
@@ -115,15 +115,37 @@ J1. [MAGICAL: An Open-Source Fully Automated Analog IC Layout System from Netlis
 Conference Papers
 -------
 
+C53. [PhyMap: A Physically-Aware Incremental Mapping Framework with On-the-fly Post-Layout Critical Path Tracking](https://ieeexplore.ieee.org/document/)
+   * Hongyang Pan, Cunqing Lan, Zhiang Wang, Xuan Zeng, Fan Yang, **Keren Zhu**†
+   *  IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Hong Kong, China, Jan. 19-22, 202
+   * † Corresponding authors
+
+C52. [HOLMES-HLS: Holistic Optimization and Learning-based Multi-model Exploration System for High-Level Synthesis](https://ieeexplore.ieee.org/document/)
+   * Yujie Yan\*, Guanhua Chen\*, Ruiyu Lyu, Huizhen Kuang, Kaiwen Zhou, Hao Chen, Lingli Wang, **Keren Zhu**†
+   *  International Conference on Field Programmable Technology (FPT) ,  Shanghai, China, Dec. 2-5, 2025.
+   * † Corresponding authors
+   * \* Equal contributions
+
+C51. [LCTMwalk: GPU-Accelerated Transient Thermal Simulation for Liquid-Cooled 2.5D/3D ICs via Random Walks on Circuit Networks of Modified Compact Thermal Models](https://ieeexplore.ieee.org/document/)
+   * Zhixuan Dong, Yonghan Luo, Yuan Meng, Changhao Yan, Zhaori Bi, **Keren Zhu**, Sheng-Guo Wang, Dian Zhou and Xuan Zeng
+   * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct. 26-30, 2025.
+
+C50. [Seeing Through Designs: Attention-Based Knowledge Transfer for Preference-Guided Microarchitecture Search](https://ieeexplore.ieee.org/document/)
+   * Yiyang Zhao, Xuyang Zhao, Zhaori Bi, Ming Zhu, Qiwei Zhan, **Keren Zhu**, Fan Yang, Changhao Yan, Dian Zhou and Xuan Zeng
+   * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct. 26-30, 2025.
+
+C49. [NSTherm: An Error-Bounded Network-Stochastic Fusion Thermal Simulator for Geometry-Adaptable Chiplets via Diffeomorphic Mapping and Neural- Guided Variance Reduction](https://ieeexplore.ieee.org/document/)
+   * Yuan Meng, Yuyan Wang, Zhixuan Dong, Yonghan Luo, Changhao Yan, **Keren Zhu**, Zhaori Bi, Shengguo Wang, Dian Zhou and Xuan Zeng
+   * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct. 26-30, 2025.
+
+
 C48. [MARIO: A Superadditive Multi-Algorithm Interworking Optimization Framework for Analog Circuit Sizing](https://ieeexplore.ieee.org/document/) 
    *    Wangzhen Li, Yuan Meng, Ruiyu Lyu, Changhao Yan, **Keren Zhu**, Zhaori Bi, Dian Zhou and Xuan Zeng
    *  IEEE/ACM Design Automation Conference (DAC) , San Francisco, USA, Jun. 22–25, 2025.
-   *  (Accepted)
 
 C47. [Decoupling Analog Circuit Representation from Process for Behavior-Centric Optimization](https://ieeexplore.ieee.org/document/) 
    *    Jintao Li, Haochang Zhi, Jiang Xiao, **Keren Zhu**<sup>\*</sup> and Yun Li<sup>\*</sup>,
    *  IEEE/ACM Design Automation Conference (DAC) , San Francisco, USA, Jun. 22–25, 2025.
-   *  (Accepeted)
    * \* corresponding authors
 
 C46. [GPU Acceleration of A High-precision Stochastic Solver for Steady-state Thermal Analysis with Robin Boundary Conditions](https://ieeexplore.ieee.org/document/) 
@@ -164,7 +186,6 @@ C39. [LiDAR: Automated Curvy Waveguide Detailed Routing for Large-Scale Photonic
    *  <a href="https://arxiv.org/html/2410.01260v1" style="color:#3793ae">preprint</a>
    *   Hongjian Zhou, **Keren Zhu**, and Jiaqi Gu
    *   ACM International Symposium on Physical Design (ISPD), Austin, Mar. 16–19, 2025.
-   *   (Accepted)
 
 C38. [HeLO: A Heterogeneous Logic Optimization Framework by Hierarchical Clustering and Graph Learning](https://dl.acm.org/doi/abs/10.1145/3698364.3705354)
    *    Yuan Pu, Fangzhou Liu, Zhuolun He, **Keren Zhu**, Rongliang Fu, Ziyi Wang, Tsung-Yi Ho, and Bei Yu
