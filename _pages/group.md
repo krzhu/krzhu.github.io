@@ -25,7 +25,7 @@ Graduate Students
 |  Siwen Wang (With Prof. Xuan Zeng)              |    From Fall 2023       |    M.S.                     |    B.S from Wuhan Uni.                 |
 |  [Liwen Jiang](https://mp333player.com)         |    From Fall 2024       |    DEng                     |    B.S from Huaqiao Uni.               |
 |  Jinhong Huang (With Prof. Xuan Zeng)           |    From Fall 2024       |    Ph.D.                    |    B.S from Fuzhou Uni.                |
-|  Hanwen Guo (By Prof. Changhao Yan)             |    From Fall 2024       |    Ph.D.                    |    B.S from Fudan.                     |
+|  Hanwen Guo (With Prof. Changhao Yan)           |    From Fall 2024       |    Ph.D.                    |    B.S from Fudan.                     |
 |  Zecheng Xu (With Prof. Yumao Wu)               |    From Fall 2024       |    DEng                     |    B.S from Fudan                      |
 |  Xinglong Yan                                   |    From Fall 2024       |    M.S.                     |    B.S from Tongji                     |
 |  Guanhua Chen (With Prof. Changhao Yan)         |    From Spring 2025     |    Ph.D.                    |    B.S from Shandong Uni.              |
@@ -35,7 +35,8 @@ Graduate Students
 |  Yu Deng                                        |    From Fall 2025       |    M.Phil.                  |    B.S from Fudan                      |
 |  Zhouyang Wu (With Prof. Xuan Zeng)             |    From Fall 2025       |    Ph.D.                    |    B.S from Fudan                      |
 |  Shuang Li                                      |    From Fall 2025       |    M.S.                     |    B.S from Fudan                      |
-|  Jiahua Liu (With Prof. Xuan Zeng)              |    From Fall 2025       |    M.S.                     |    B.S from Shandong Uni.              |
+|  Xin Huang (With Changhao Yan)                  |    From Fall 2025       |    Ph.D.                    |    B.S from SJTU                       |
+|  Pujun Su                                       |    From Fall 2025       |    M.S.                     |    B.S from Ocean University of China  |
 
 Alumni
 ======
