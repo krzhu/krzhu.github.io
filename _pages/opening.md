@@ -7,11 +7,11 @@ permalink: /opening/
 ---
 
 TL;DR;  Please send to krzhu AT fudan.edu.cn **with subject title** *[Fudan-Apply] your name <PhD/MS/PostDoc/Other> <Fall/20XX> <your affliation>*.
-For example, you can have "[Fudan-Apply] Xiaoming Wang PhD Fall 2025 复旦大学" as your email subject.
+For example, you can have "[Fudan-Apply] Xiaoming Wang PhD Fall 2025 霍格沃茨大学" as your email subject.
 I promise I will reply to you if you send me an email with this subject.
 
 如果对加入课题组感兴趣，请发邮件到 krzhu AT fudan.edu.cn，标题请用*[Fudan-Apply] your name <PhD/MS/PostDoc/Other> <Fall/20XX> <your affliation>*.
-比如，标题： "[Fudan-Apply] Xiaoming Wang PhD Fall 2025 复旦大学" 。
+比如，标题： "[Fudan-Apply] Xiaoming Wang PhD Fall 2025 霍格沃茨大学" 。
 不这样命名的邮件回复概率会大降。
 
 邮件内请附简短自我介绍与简历（**强烈建议包含成绩排名**）。
