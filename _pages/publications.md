@@ -34,6 +34,20 @@ B1. [CAD for Analog/Mixed-Signal Integrated Circuits](https://www.amazon.com/Adv
 Journal Papers
 -------
 
+J17. S3HDBO: Sensitivity-Guided Search Region Scaling High-Dimensional Bayesian Optimization for BSIM-CMG Parameter Extraction
+   * Ruiyu Lyu, Zhaori Bi†, **Keren Zhu**, Ye Lu and Xuan Zeng†
+   * IEEE Transactions on Electron Devices, 2026.
+   * † Corresponding authors
+
+J16. PhyLS: An AI-driven Physically Aware Synthesis Platform
+   * Hongyang Pan, Cunqing Lan, Zhiang Wang†, **Keren Zhu**†
+   * Frontiers of Computer Science, 2026.
+   * † Corresponding authors
+
+J15. An Accurate and Efficient Stochastic Solver for Transient Thermal Analysis with Mixed Boundary Conditions
+   * Zhixuan Dong, Yuan Meng, Changhao Yan, Zhaori Bi, **Keren Zhu**, Sheng-Guo Wang, Dian Zhou, and Xuan Zeng
+   * IEEE Transactions on Components, Packaging and Manufacturing Technology, 2026.
+
 J14. [PigMap2: A Physical Information Guided Technology Mapping Framework](https://ieeexplore.ieee.org/document/11195806/)
    * Cunqing Lan\*, Hongyang Pan\*, Zhiang Wang†, Xuan Zeng, Fan Yang  and **Keren Zhu**†,
    *  IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.
@@ -41,7 +55,7 @@ J14. [PigMap2: A Physical Information Guided Technology Mapping Framework](https
    * \* Equal contributions
 
 J13. [DAMIL-DCIM+: Automated Dataflow-Aware Layout Synthesis for Digital CIM with Self-Assembled Bitcell Units and MILP-Based Optimization](https://ieeexplore.ieee.org/document/11154029/)
-   * Chuyu Wang\∗, Xinglong Yan\∗, Zecheng Xu\∗, Ke Hu, **Keren Zhu**†, Shuo Li, Fan Yang and Xuan Zeng†
+   * Chuyu Wang\*, Xinglong Yan\*, Zecheng Xu\∗, Ke Hu, **Keren Zhu**†, Shuo Li, Fan Yang and Xuan Zeng†
    *  IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.
    * † Corresponding authors
    * \* Equal contributions
@@ -116,9 +130,58 @@ J1. [MAGICAL: An Open-Source Fully Automated Analog IC Layout System from Netlis
 Conference Papers
 -------
 
+C61. PeRIFi: Physics-Infused RF Inverse Design with Parametric Data-Efficient Feasible-Region Sampling
+   * Siwen Wang, **Keren Zhu**†, Hyunsu Chae, Zhaori Bi, Zhiang Wang, Changhao Yan and Xuan Zeng†
+   * IEEE/ACM Design Automation Conference (DAC), Long Beach, CA, July 26-29, 2026.
+   * † Corresponding authors
+   * Accepted
+
+C60. A Physically-aware Framework for Joint MBFF Synthesis with OPTICS-based Debanking
+   * Benchao Zhu, Jiawei Li, Yang Liu, Jianli Chen†, **Keren Zhu**†
+   * ACM Great Lakes Symposium on VLSI (GLSVLSI), Finger Lakes, NY, USA, June 22-24, 2026.
+   * † Corresponding authors
+   * Accepted
+
+C59. PhySeqForm: A Data-Driven, Physical Synthesis Sequence Former
+   * Cunqing Lan\*, Zijian Jiang\*, Hongyang Pan†, Zhiang Wang and **Keren Zhu**†
+   * IEEE International Symposium on Circuits and Systems (ISCAS), Shanghai, China, May 24-27, 2026.
+   * † Corresponding authors
+   * \* Equal contributions
+   * Accepted
+
+C58. HOLMES: Hierarchical Optimization with poLygonal ModEling for Large-Scale AMS Placement
+   * Guanhua Chen, Yujie Yan, Jiahua Liu, Zecheng Xu, Linxi Qiu, Yumao Wu, Zhiang Wang, Changhao Yan, Zhaori Bi, **Keren Zhu**†
+   * IEEE International Symposium on Circuits and Systems (ISCAS), Shanghai, China, May 24-27, 2026.
+   * † Corresponding authors
+   * Accepted
+
+C57. Layout-Aware Standard Cell Synthesis via Reparameterization Multi-Task Bayesian Optimization
+   * Zhouyang Wu\*, Ruiyu Lyu\*, **Keren Zhu**†, Zhiang Wang, Zhaori Bi, Changhao Yan, Xuan Zeng†
+   * IEEE International Symposium on Circuits and Systems (ISCAS), Shanghai, China, May 24-27, 2026.
+   * † Corresponding authors
+   * \* Equal contributions
+   * Accepted
+
+C56. RC-Scaled Timing-Driven Routing: Bridging Targeted Timing Optimization and Massively Parallel Global Routing
+   * Chuyu Wang, Zecheng Xu, Boxiang Song, Zhiang Wang†, Fan Yang†, **Keren Zhu**† and Xuan Zeng†
+   * IEEE International Symposium on Circuits and Systems (ISCAS), Shanghai, China, May 24-27, 2026.
+   * † Corresponding authors
+   * Accepted
+
+C55. LENS-HLS: LLM-Enhanced Learning-based Design Space Exploration for High-Level Synthesis
+   * Yujie Yan, Guanhua Chen, **Keren Zhu**†
+   * IEEE International Symposium on Field-Programmable Custom Computing Machines (FCCM), Atlanta, GA, USA, May 13-16, 2026.
+   * † Corresponding authors
+   * Accepted
+
+C54. Submodular Maximization-inspired Adaptive Routing Bend Space Planning
+   * Siting Liu, Peng Xu, Peiyu Liao, **Keren Zhu**, Yibo Lin, and Bei Yu
+   * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Verona, Italy, Apr. 20-22, 2026.
+   * Accepted
+
 C53. [PhyMap: A Physically-Aware Incremental Mapping Framework with On-the-fly Post-Layout Critical Path Tracking](https://ieeexplore.ieee.org/document/)
    * Hongyang Pan, Cunqing Lan, Zhiang Wang, Xuan Zeng, Fan Yang, **Keren Zhu**†
-   *  IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Hong Kong, China, Jan. 19-22, 202
+   *  IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Hong Kong, China, Jan. 19-22, 2026.
    * † Corresponding authors
 
 C52. [HOLMES-HLS: Holistic Optimization and Learning-based Multi-model Exploration System for High-Level Synthesis](https://ieeexplore.ieee.org/document/)

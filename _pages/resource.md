@@ -28,6 +28,8 @@ ML for Analog Layout:  <a href="/publications/papers/A_Book22_Burns.pdf" style="
 
 ## Open Tools
 
+**PhyLS**: an AI-driven physically aware logic synthesis platform. [repo](https://github.com/panhomyoung/phyLS)
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-178663221-1"></script>
 <script>
