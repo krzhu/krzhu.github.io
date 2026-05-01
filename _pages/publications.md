@@ -172,7 +172,7 @@ C55. LENS-HLS: LLM-Enhanced Learning-based Design Space Exploration for High-Lev
    * Yujie Yan, Guanhua Chen, **Keren Zhu**†
    * IEEE International Symposium on Field-Programmable Custom Computing Machines (FCCM), Atlanta, GA, USA, May 13-16, 2026.
    * † Corresponding authors
-   * Accepted
+   * Accepted (Extended Abstract)
 
 C54. Submodular Maximization-inspired Adaptive Routing Bend Space Planning
    * Siting Liu, Peng Xu, Peiyu Liao, **Keren Zhu**, Yibo Lin, and Bei Yu
