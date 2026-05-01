@@ -217,13 +217,15 @@ C46. [GPU Acceleration of A High-precision Stochastic Solver for Steady-state Th
    *  International Symposium of EDA (ISEDA),  Hong Kong, China, May 9–12, 2025.
 
 C45. [Adaptive Preconditioning Guided by Divergence Analysis for Enhanced VLSI Global Placement](https://ieeexplore.ieee.org/document/) 
-   *    Liwen Jiang, Ruiyu Lyu, Fan Yang, and **Keren Zhu**
+   *    Liwen Jiang, Ruiyu Lyu, Fan Yang, and **Keren Zhu**†
    *  International Symposium of EDA (ISEDA),  Hong Kong, China, May 9–12, 2025.
+   * † Corresponding authors
 
 
 C44. [Multi-Armed Bandits-Based Exploring and Exploiting the High-Dimensional Design Space for Analog Circuit with Adjoint Sensitivity](https://ieeexplore.ieee.org/document/) 
-   *    Xiaoyu Zhong, Jintao Li, Zhaori Bi, Yun Li, Fan Yang, Xuan Zeng, and **Keren Zhu**
+   *    Xiaoyu Zhong, Jintao Li, Zhaori Bi, Yun Li, Fan Yang, Xuan Zeng, and **Keren Zhu**†
    *  International Symposium of EDA (ISEDA),  Hong Kong, China, May 9–12, 2025.
+   * † Corresponding authors
    *   **Best Paper Award**
 
 
@@ -277,8 +279,9 @@ C35. [Revisiting Sensitivity-based Analog Sizing with Derivative-aware Bayesian 
 
 
 C34. [AI-Enabled Layout Automation for Analog and RF IC: Current Status and Future Directions](https://ieeexplore.ieee.org/document/) 
-   *   Chuyu Wang, Fan Yang, and **Keren Zhu**
+   *   Chuyu Wang, Fan Yang, and **Keren Zhu**†
    *   IEEE International Symposium on Radio-Frequency Integration Technology (RFIT),  Chengdu, China, Aug. 28–30, 2024.
+   * † Corresponding authors
 
 
 C33. [Performance-driven Analog Routing via Heterogeneous 3DGNN and Potential Relaxation](https://ieeexplore.ieee.org/document/) 
@@ -309,8 +312,9 @@ C29. [Multi-Electrostatics Based Placement for Non-Integer Multiple-Height Cells
 
 
 C28. [Performance-Driven Analog Layout Automation: Current Status and Future Directions](https://dl.acm.org/doi/10.1109/ASP-DAC58780.2024.10473859) 
-   * Peng Xu, Jintao Li, Tsung-Yi Ho, Bei Yu, and **Keren Zhu**,
+   * Peng Xu, Jintao Li, Tsung-Yi Ho, Bei Yu, and **Keren Zhu**†,
    * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Incheon, S. Korea, Jan 22-25, 2024.
+   * † Corresponding authors
    * Invited
 
 C27. [A Study on Exploring and Exploiting the High-dimensional Design Space for Analog Circuit Design Automation](https://ieeexplore.ieee.org/document/10473920) 
