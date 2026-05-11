@@ -10,12 +10,19 @@ redirect_from:
 
 ### Keren Zhu (朱可人)
 
-I am currently an associate professor/青年研究员 in College ofintegrated Circuits & Micro-Nano Electronics at Fudan University.
+I am currently an associate professor/青年研究员 in [College of Integrated Circuits & Micro-Nano Electronics](https://icmne.fudan.edu.cn/) at Fudan University.
 I was a research assistant professor with the Department of Computer Science and Engineering at The Chinese University of Hong Kong from 2023-2024. I was a postdoctoral research fellow at the Department of Electrical and Computer Engineering, [The University of Texas at Austin](https://www.utexas.edu/), working with Prof. [David Z. Pan](http://www.ece.utexas.edu/~dpan/), from August 2022 to February 2023. I obtained my Ph.D. at UT Austin ECE. I received my B.S. in electrical engineering with highest distinction from
 [University of Wisconsin-Madison](https://guide.wisc.edu/courses/e_c_e/).
 
-My research interest include custom circuit layout automation, machine learning for EDA and CAD for emerging technologies.
+My research interests include EDA algorithms (physical design, logic synthesis, HLS), AI-driven circuit design automation, and CAD for emerging technologies.
 
+### Selected Highlights
+
+- MIT Technology Review Innovators Under 35 Asia Pacific, 2025
+- 国家级青年人才, 2023
+- 1st Place, MLCAD'25 Contest (ReSynthAI: Physical-Aware Logic Resynthesis)
+- Best Paper Award, ISEDA 2025; Best Paper Award Nomination, ISPD 2025
+- 60+ publications in top EDA venues (DAC, ICCAD, DATE, TCAD, etc.)
 
 ## I am always looking for self-motivated PhD/Master/Post-Doc in the area of EDA and design. Please read the *Opening* and send me an email if interested.
 
