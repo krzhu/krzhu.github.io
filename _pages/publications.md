@@ -130,6 +130,37 @@ J1. [MAGICAL: An Open-Source Fully Automated Analog IC Layout System from Netlis
 Conference Papers
 -------
 
+C66. EncyLogic: Logic Synthesis as Sequence Generation with Learned Priors and Physical Alignment
+   * Zijian Jiang\*, Chenyu Li\*, Cunqing Lan, Hongyang Pan, Jintao Li, Zhiang Wang and **Keren Zhu**†
+   * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, CA, USA, Nov. 8-12, 2026.
+   * † Corresponding authors
+   * \* Equal contributions
+   * Accepted
+
+C65. GTStress: A Graph-Augmented Neural Framework for Thermal Stress Simulation of Parameterized TSV Arrays with Superposed Physical Priors and Query-Graph Fusion
+   * Zhixuan Dong, Chenlong He, Changhao Yan†, Zhaori Bi, **Keren Zhu**, Bowen Jia and Xuan Zeng†
+   * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, CA, USA, Nov. 8-12, 2026.
+   * † Corresponding authors
+   * Accepted
+
+C64. Analytical Chiplet Placement with Force-Directed Guidance and Chiplet Bridging for Multi-Reticle Interposers
+   * Jiayao Li, Lang Feng†, Jinhong Huang, **Keren Zhu** and Zhongfeng Wang†
+   * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, CA, USA, Nov. 8-12, 2026.
+   * † Corresponding authors
+   * Accepted
+
+C63. CNE-PDN: Joint Optimization of PDN Geometry and TSV Layout via Component-Level Neural Parasitic Extraction for 2.5D IC
+   * Chengkai Zhu, Jinhong Huang, Boxiang Song, Xihan Yang, Siwen Wang, Yiyang Zhao, **Keren Zhu**† and Changhao Yan†
+   * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, CA, USA, Nov. 8-12, 2026.
+   * † Corresponding authors
+   * Accepted
+
+C62. An Efficient Framework for Soft Error Analysis and Selective Hardening via Graph Selective State-Space Model
+   * Borui Li, Yuyan Wang, Changhao Yan†, **Keren Zhu**, Zhaori Bi, Nan Zhang, Zhipeng Liu and Xuan Zeng†
+   * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, CA, USA, Nov. 8-12, 2026.
+   * † Corresponding authors
+   * Accepted
+
 C61. PeRIFi: Physics-Infused RF Inverse Design with Parametric Data-Efficient Feasible-Region Sampling
    * Siwen Wang, **Keren Zhu**†, Hyunsu Chae, Zhaori Bi, Zhiang Wang, Changhao Yan and Xuan Zeng†
    * IEEE/ACM Design Automation Conference (DAC), Long Beach, CA, July 26-29, 2026.
@@ -466,4 +497,3 @@ C1. [GeniusRoute: A New Routing Paradigm Using Generative Neural Network Guidanc
 
   gtag('config', 'G-V75GJ30CTR');
 </script>
-
