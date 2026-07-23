@@ -50,6 +50,8 @@ Work experience
 
 Service
 ------
+* Expert Committee Member
+  * Integrated Circuit EDA Elite Challenge, 2026.
 * TPC Member
   * Design Automation conference (DAC), 2023.
   * International VLSI Design & Embedded Systems conference (VLSID), 2023.

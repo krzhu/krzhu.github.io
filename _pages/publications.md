@@ -485,9 +485,17 @@ C1. [GeniusRoute: A New Routing Paradigm Using Generative Neural Network Guidanc
    * **Keren Zhu**, Mingjie Liu, Yibo Lin, Biying Xu, Shaolan Li, Xiyuan Tang, Nan Sun and David Z. Pan
    * IEEE/ACM International Conference on Computer-Aided Design (ICCAD),  Westminster, CO, USA, November 4-7, 2019.
    * Best Paper Candidate Nominated from Track
-   
-   
-   
+
+
+Preprints
+-------
+
+P1. [Provably Good Prim-Dijkstra Revisited: New Theory and a Practical Algorithm for a Classical VLSI Routing Problem with LLMs](https://arxiv.org/abs/2607.17005)
+   * **Keren Zhu**
+   * arXiv preprint arXiv:2607.17005, 2026.
+   * <a href="https://github.com/CODA-Team/hp-rcrst" style="color:#3793ae">Code and reproducibility materials</a>
+
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-V75GJ30CTR"></script>
 <script>
