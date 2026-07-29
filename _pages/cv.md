@@ -79,6 +79,7 @@ Skills
 
 Awards and Honors
 ------
+* Outstanding TPC Member Award, DAC, 2026
 * Harry Philip Whitworth Endowed Graduate Fellowship, 2021
 * Best Student Paper Award Nomination, CICC, 2021
 * Best Paper Award Nomination, ASP-DAC, 2020
