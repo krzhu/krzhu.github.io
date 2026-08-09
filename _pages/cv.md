@@ -53,6 +53,7 @@ Service
 * Expert Committee Member
   * Integrated Circuit EDA Elite Challenge, 2026.
 * TPC Member
+  * Asia and South Pacific Design Automation Conference (ASP-DAC), 2027.
   * Design Automation conference (DAC), 2023.
   * International VLSI Design & Embedded Systems conference (VLSID), 2023.
 * Working Group Member
