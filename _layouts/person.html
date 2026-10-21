@@ -1,0 +1,89 @@
+---
+layout: academic
+---
+{% assign member = site.data.people | where: 'id', page.member_id | first %}
+<main id="main-content" class="site-container interior-main person-page">
+  <a class="back-to-people" href="{{ '/group/' | relative_url }}#{{ member.id }}">← People</a>
+  <header class="person-header">
+    <img class="person-photo{% if member.photo_is_placeholder %} member-placeholder{% endif %}" src="{{ member.photo | relative_url }}" alt="{% unless member.photo_is_placeholder %}{{ member.name }}{% endunless %}" width="200" height="200"{% if member.photo_position %} style="object-position: {{ member.photo_position }}"{% endif %}>
+    <div class="person-heading">
+      <h1>{{ member.name }}{% if member.name_zh %} <span class="person-name-zh" lang="zh">{{ member.name_zh }}</span>{% endif %}</h1>
+      <p class="person-role">{{ member.role }}</p>
+      {% if member.status == 'current' %}<p class="person-affiliation">CODA lab · Fudan University</p>{% endif %}
+      {% if member.status == 'alumni' %}<p class="person-affiliation">{{ member.program }}, Fudan University · {{ member.period }}</p>{% endif %}
+      {% if member.period and member.status == 'current' %}<p class="person-membership">With the group {{ member.period | replace: 'From ', 'since ' }}</p>{% endif %}
+      {% if member.links.size > 0 %}
+      <nav class="person-links" aria-label="{{ member.name }}'s profiles">
+        {% for link in member.links %}<a href="{{ link.url }}">{{ link.label }}</a>{% endfor %}
+      </nav>
+      {% endif %}
+      {% if member.email_display %}<p class="email-text">{{ member.email_display }}</p>{% endif %}
+    </div>
+  </header>
+  <div class="prose person-content">
+    {% if member.bio %}<p class="person-bio">{{ member.bio }}</p>{% endif %}
+    {% if member.program_note %}<p>{{ member.program_note }}</p>{% endif %}
+    {% if member.joint and member.joint != '' %}<p class="person-collaboration">{{ member.joint }}</p>{% endif %}
+
+    {% if member.education.size > 0 or member.previous %}
+    <section class="person-section">
+      <h2>Education</h2>
+      <ul class="plain-list">
+        {% if member.education.size > 0 %}
+          {% for entry in member.education %}<li>{{ entry }}</li>{% endfor %}
+        {% else %}
+          <li>{{ member.previous }}</li>
+        {% endif %}
+      </ul>
+    </section>
+    {% endif %}
+    {% if member.experience.size > 0 %}
+    <section class="person-section">
+      <h2>Experience</h2>
+      <ul class="plain-list">
+        {% for entry in member.experience %}
+        <li>{% if entry.organization %}{{ entry.position | escape }}, {% if entry.url %}<a href="{{ entry.url | escape }}">{{ entry.organization | escape }}</a>{% else %}{{ entry.organization | escape }}{% endif %}{% if entry.period %}, {{ entry.period | escape }}{% endif %}{% else %}{{ entry }}{% endif %}</li>
+        {% endfor %}
+      </ul>
+    </section>
+    {% endif %}
+    {% if member.projects.size > 0 %}
+    <section class="person-section">
+      <h2>Projects</h2>
+      <ul class="plain-list">{% for project in member.projects %}<li><a href="{{ project.url }}">{{ project.label }}</a> — {{ project.description }}</li>{% endfor %}</ul>
+    </section>
+    {% endif %}
+
+    {% assign related = site.data.publications | where_exp: 'paper', 'paper.author_names contains member.name' %}
+    {% assign published = related | where_exp: 'paper', "paper.type != 'Preprint'" %}
+    {% if member.extra_publications.size > 0 %}{% assign published = published | concat: member.extra_publications %}{% endif %}
+    {% assign publication_years = published | group_by: 'year' | sort: 'name' | reverse %}
+    {% assign publication_limit = published.size %}
+    {% if member.id == 'keren-zhu' %}{% assign publication_limit = 6 %}{% endif %}
+    {% if published.size > 0 %}
+    <section class="person-publications" aria-labelledby="person-publications">
+      <h2 id="person-publications">{% if published.size > publication_limit %}Selected publications{% else %}Publications{% endif %}</h2>
+      {% assign shown = 0 %}
+      {% for publication_year in publication_years %}
+        {% for paper in publication_year.items %}
+          {% if shown < publication_limit %}
+            {% include publication.html paper=paper compact=true %}
+            {% assign shown = shown | plus: 1 %}
+          {% endif %}
+        {% endfor %}
+      {% endfor %}
+      {% if published.size > publication_limit %}
+        <p class="all-publications-link"><a href="{{ '/publications/' | relative_url }}?q={{ member.name | url_encode }}">All publications by {{ member.name }} →</a></p>
+      {% endif %}
+    </section>
+    {% endif %}
+
+    {% if member.highlights.size > 0 %}
+    <section class="person-section">
+      <h2>Selected honors</h2>
+      <ul class="plain-list">{% for item in member.highlights %}<li>{% if item.url %}<a href="{{ item.url }}">{{ item.text }}</a>{% else %}{{ item.text }}{% endif %}</li>{% endfor %}</ul>
+    </section>
+    {% endif %}
+    {{ content }}
+  </div>
+</main>

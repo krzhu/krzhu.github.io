@@ -1,0 +1,13 @@
+---
+layout: academic
+---
+<main id="main-content" class="site-container interior-main blog-article">
+  <a class="back-to-blog" href="{{ '/blog/' | relative_url }}">← Blog</a>
+  <article>
+    <header class="blog-header">
+      <h1>{{ page.title }}</h1>
+      <p class="blog-meta">{{ page.author }} · <time datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date: '%B %-d, %Y' }}</time></p>
+    </header>
+    <div class="prose blog-body">{{ content }}</div>
+  </article>
+</main>

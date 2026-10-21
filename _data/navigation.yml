@@ -1,0 +1,19 @@
+main:
+  - title: Home
+    url: /
+    key: home
+  - title: Research
+    url: /research/
+    key: research
+  - title: People
+    url: /group/
+    key: people
+  - title: Publications
+    url: /publications/
+    key: publications
+  - title: Blog
+    url: /blog/
+    key: blog
+  - title: Contact
+    url: /contact/
+    key: contact

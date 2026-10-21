@@ -1,0 +1,2016 @@
+[
+  {
+    "id": "B2b",
+    "topics": ["ai","physical","analog"],
+    "title": "[Machine Learning for Analog Layout](https://www.barnesandnoble.com/w/machine-learning-applications-in-electronic-design-automation-haoxing-ren/1141727406)",
+    "authors": "Steven M. Burns, Hao Chen, Tonmoy Dhar, Ramesh Harjani, Jiang Hu, Nibedita Karmokar, Kishor Kunal, Yaguang Li, Yishuang Lin, Mingjie Liu, Meghna Madhusudan, Parijat Mukherjee, David Z. Pan, Jitesh Poojary, S. Ramprasath, Sachin S. Sapatnekar, Arvind K. Sharma, Wenbin Xu, Soner Yaldiz, and Keren Zhu,",
+    "author_names": [
+      "Steven M. Burns",
+      "Hao Chen",
+      "Tonmoy Dhar",
+      "Ramesh Harjani",
+      "Jiang Hu",
+      "Nibedita Karmokar",
+      "Kishor Kunal",
+      "Yaguang Li",
+      "Yishuang Lin",
+      "Mingjie Liu",
+      "Meghna Madhusudan",
+      "Parijat Mukherjee",
+      "David Z. Pan",
+      "Jitesh Poojary",
+      "S. Ramprasath",
+      "Sachin S. Sapatnekar",
+      "Arvind K. Sharma",
+      "Wenbin Xu",
+      "Soner Yaldiz",
+      "Keren Zhu"
+    ],
+    "venue": "Machine Learning Applications in Electronic Design Automation, Springer, 2022",
+    "year": 2022,
+    "type": "Book chapter",
+    "notes": [
+      "Authors in alphabetic order"
+    ],
+    "anchors": [
+      "books-book-chapters"
+    ]
+  },
+  {
+    "id": "B2a",
+    "topics": ["ai","analog"],
+    "title": "[Machine Learning for Analog Circuit Sizing](https://www.barnesandnoble.com/w/machine-learning-applications-in-electronic-design-automation-haoxing-ren/1141727406)",
+    "authors": "Ahmet F. Budak\\*, Shuhan Zhang\\*, Mingjie Liu, Wei Shi, Keren Zhu, and David Z. Pan,",
+    "author_names": [
+      "Ahmet F. Budak",
+      "Shuhan Zhang",
+      "Mingjie Liu",
+      "Wei Shi",
+      "Keren Zhu",
+      "David Z. Pan"
+    ],
+    "venue": "Machine Learning Applications in Electronic Design Automation, Springer, 2022",
+    "year": 2022,
+    "type": "Book chapter",
+    "notes": [
+      "\\* Equal contribution"
+    ]
+  },
+  {
+    "id": "B1",
+    "topics": ["analog"],
+    "title": "[CAD for Analog/Mixed-Signal Integrated Circuits](https://www.amazon.com/Advances-Semiconductor-Technologies-Selected-Conventional/dp/1119869587)",
+    "authors": "Mohamed B. Alawieh, Ahmet F. Budak, Hao Chen, Mingjie Liu, David Z. Pan, Wei Shi, Xiyuan Tang, Shuhan Zhang and Keren Zhu",
+    "author_names": [
+      "Mohamed B. Alawieh",
+      "Ahmet F. Budak",
+      "Hao Chen",
+      "Mingjie Liu",
+      "David Z. Pan",
+      "Wei Shi",
+      "Xiyuan Tang",
+      "Shuhan Zhang",
+      "Keren Zhu"
+    ],
+    "venue": "Advances in Semiconductor Technologies: Selected Topics Beyond Conventional CMOS, Wiley-IEEE Press., 2022",
+    "year": 2022,
+    "type": "Book chapter",
+    "notes": [
+      "Authors in alphabetic order"
+    ]
+  },
+  {
+    "id": "J21",
+    "topics": [
+      "physical",
+      "packaging"
+    ],
+    "title": "[ULTRA-2.5D: An Analytical Placement Framework for Ultra-Large-Scale Multi-Reticle Chiplet Systems](https://ieeexplore.ieee.org/document/11740930)",
+    "authors": "Jinhong Huang, Yuyan Wang, Boxiang Song, Chengkai Zhu, Yuman Zeng, Jiayao Li, Keren Zhu†, Lang Feng, Changhao Yan†, Chixiao Chen, and Xuan Zeng†",
+    "author_names": [
+      "Jinhong Huang",
+      "Yuyan Wang",
+      "Boxiang Song",
+      "Chengkai Zhu",
+      "Yuman Zeng",
+      "Jiayao Li",
+      "Keren Zhu",
+      "Lang Feng",
+      "Changhao Yan",
+      "Chixiao Chen",
+      "Xuan Zeng"
+    ],
+    "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026.",
+    "year": 2026,
+    "type": "Journal",
+    "notes": [
+      "† Corresponding authors"
+    ],
+    "anchors": [
+      "ultra-25d"
+    ]
+  },
+  {
+    "id": "J20",
+    "topics": ["ai","synthesis"],
+    "title": "Beyond Surrogate Accuracy: Credibility-Aware LLM-Guided Design Space Exploration for High-Level Synthesis",
+    "authors": "Yujie Yan, Guanhua Chen, Yukang Chen, Jiaxin Huang, Jianyi Cheng, and Keren Zhu†",
+    "author_names": [
+      "Yujie Yan",
+      "Guanhua Chen",
+      "Yukang Chen",
+      "Jiaxin Huang",
+      "Jianyi Cheng",
+      "Keren Zhu"
+    ],
+    "venue": "ACM Transactions on Reconfigurable Technology and Systems (TRETS), 2026.",
+    "year": 2026,
+    "type": "Journal",
+    "notes": [
+      "FPT 2026 Journal Track",
+      "† Corresponding author"
+    ],
+    "anchors": [
+      "lens-hls",
+      "journal-papers"
+    ]
+  },
+  {
+    "id": "J19",
+    "topics": ["ai","analog"],
+    "title": "AnalogGym-Opt: An Open and Practical Optimization Infrastructure for LLM-Assisted Analog Circuit Sizing with GRPO",
+    "authors": "Jintao Li, Haochang Zhi, Yongji Long, Weixuan Liu, Yanhan Zeng, Keren Zhu, Shui Yu†, and Yun Li†",
+    "author_names": [
+      "Jintao Li",
+      "Haochang Zhi",
+      "Yongji Long",
+      "Weixuan Liu",
+      "Yanhan Zeng",
+      "Keren Zhu",
+      "Shui Yu",
+      "Yun Li"
+    ],
+    "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026.",
+    "year": 2026,
+    "type": "Journal",
+    "notes": [
+      "† Corresponding authors"
+    ]
+  },
+  {
+    "id": "J18",
+    "topics": ["analog"],
+    "title": "A Behavior-Centric Methodology for High-Performance Amplifier Sizing",
+    "authors": "Haochang Zhi\\*, Jintao Li\\*, Keren Zhu, Yun Li, Weiwei Shan†, and Wanyuan Qu†",
+    "author_names": [
+      "Haochang Zhi",
+      "Jintao Li",
+      "Keren Zhu",
+      "Yun Li",
+      "Weiwei Shan",
+      "Wanyuan Qu"
+    ],
+    "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026.",
+    "year": 2026,
+    "type": "Journal",
+    "notes": [
+      "† Corresponding authors",
+      "\\* Equal contributions"
+    ]
+  },
+  {
+    "id": "J17",
+    "topics": ["ai","modeling"],
+    "title": "S3HDBO: Sensitivity-Guided Search Region Scaling High-Dimensional Bayesian Optimization for BSIM-CMG Parameter Extraction",
+    "authors": "Ruiyu Lyu, Zhaori Bi†, Keren Zhu, Ye Lu and Xuan Zeng†",
+    "author_names": [
+      "Ruiyu Lyu",
+      "Zhaori Bi",
+      "Keren Zhu",
+      "Ye Lu",
+      "Xuan Zeng"
+    ],
+    "venue": "IEEE Transactions on Electron Devices, 2026.",
+    "year": 2026,
+    "type": "Journal",
+    "notes": [
+      "† Corresponding authors"
+    ]
+  },
+  {
+    "id": "J16",
+    "topics": ["ai","synthesis","physical"],
+    "title": "PhyLS: An AI-driven Physically Aware Synthesis Platform",
+    "authors": "Hongyang Pan, Cunqing Lan, Zhiang Wang†, Keren Zhu†",
+    "author_names": [
+      "Hongyang Pan",
+      "Cunqing Lan",
+      "Zhiang Wang",
+      "Keren Zhu"
+    ],
+    "venue": "Frontiers of Computer Science, 2026.",
+    "year": 2026,
+    "type": "Journal",
+    "notes": [
+      "† Corresponding authors"
+    ],
+    "anchors": [
+      "phyls"
+    ]
+  },
+  {
+    "id": "J15",
+    "topics": ["modeling"],
+    "title": "An Accurate and Efficient Stochastic Solver for Transient Thermal Analysis with Mixed Boundary Conditions",
+    "authors": "Zhixuan Dong, Yuan Meng, Changhao Yan, Zhaori Bi, Keren Zhu, Sheng-Guo Wang, Dian Zhou, and Xuan Zeng",
+    "author_names": [
+      "Zhixuan Dong",
+      "Yuan Meng",
+      "Changhao Yan",
+      "Zhaori Bi",
+      "Keren Zhu",
+      "Sheng-Guo Wang",
+      "Dian Zhou",
+      "Xuan Zeng"
+    ],
+    "venue": "IEEE Transactions on Components, Packaging and Manufacturing Technology, 2026.",
+    "year": 2026,
+    "type": "Journal",
+    "notes": []
+  },
+  {
+    "id": "J14",
+    "topics": ["synthesis","physical"],
+    "title": "[PigMap2: A Physical Information Guided Technology Mapping Framework](https://ieeexplore.ieee.org/document/11195806/)",
+    "authors": "Cunqing Lan\\*, Hongyang Pan\\*, Zhiang Wang†, Xuan Zeng, Fan Yang  and Keren Zhu†,",
+    "author_names": [
+      "Cunqing Lan",
+      "Hongyang Pan",
+      "Zhiang Wang",
+      "Xuan Zeng",
+      "Fan Yang",
+      "Keren Zhu"
+    ],
+    "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.",
+    "year": 2025,
+    "type": "Journal",
+    "notes": [
+      "† Corresponding authors",
+      "\\* Equal contributions"
+    ]
+  },
+  {
+    "id": "J13",
+    "topics": ["physical","computing"],
+    "title": "[DAMIL-DCIM+: Automated Dataflow-Aware Layout Synthesis for Digital CIM with Self-Assembled Bitcell Units and MILP-Based Optimization](https://ieeexplore.ieee.org/document/11154029/)",
+    "authors": "Chuyu Wang\\*, Xinglong Yan\\*, Zecheng Xu∗, Ke Hu, Keren Zhu†, Shuo Li, Fan Yang and Xuan Zeng†",
+    "author_names": [
+      "Chuyu Wang",
+      "Xinglong Yan",
+      "Zecheng Xu",
+      "Ke Hu",
+      "Keren Zhu",
+      "Shuo Li",
+      "Fan Yang",
+      "Xuan Zeng"
+    ],
+    "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.",
+    "year": 2025,
+    "type": "Journal",
+    "notes": [
+      "† Corresponding authors",
+      "\\* Equal contributions"
+    ]
+  },
+  {
+    "id": "J12",
+    "topics": ["ai","modeling"],
+    "title": "[An Iterative FEM Solver for IC Electromagnetic Analysis via Hybrid Geometric-Algebraic Partitioning and Neural Network Optimization](https://ieeexplore.ieee.org/document/11142538/)",
+    "authors": "Mingtao Li, Changhao Yan, Tao Cui, Liguo Jiang, Wenliang Dai, Zhaori Bi, Keren Zhu, and Xuan Zeng",
+    "author_names": [
+      "Mingtao Li",
+      "Changhao Yan",
+      "Tao Cui",
+      "Liguo Jiang",
+      "Wenliang Dai",
+      "Zhaori Bi",
+      "Keren Zhu",
+      "Xuan Zeng"
+    ],
+    "venue": "IEEE Transactions on Microwave Theory and Techniques (TMTT), 2025",
+    "year": 2025,
+    "type": "Journal",
+    "notes": []
+  },
+  {
+    "id": "J11",
+    "topics": ["synthesis"],
+    "title": "[Rethinking Logic Rewriting: Technology-Aware Subgraph Matching with Exact Synthesis](https://dl.acm.org/doi/10.1145/3749103)",
+    "authors": "Hongyang Pan, Keren Zhu, Fan Yang, Xuan Zeng, Sen Liu, Yong Xiao, Yun Shao, and Zhufei Chu",
+    "author_names": [
+      "Hongyang Pan",
+      "Keren Zhu",
+      "Fan Yang",
+      "Xuan Zeng",
+      "Sen Liu",
+      "Yong Xiao",
+      "Yun Shao",
+      "Zhufei Chu"
+    ],
+    "venue": "ACM Transactions on Design Automation of Electronic Systems (TODAES), 2025",
+    "year": 2025,
+    "type": "Journal",
+    "notes": []
+  },
+  {
+    "id": "J10",
+    "topics": ["ai","physical","analog"],
+    "title": "[PARoute2: Enhanced Analog Routing via Performance-Drive Guidance Generation](https://ieeexplore.ieee.org/document/10922751/)",
+    "authors": "Peng Xu, Jindong Tu, Guojin Chen, Keren Zhu, Tinghuan Chen, Tsung-Yi Ho, and Bei Yu",
+    "author_names": [
+      "Peng Xu",
+      "Jindong Tu",
+      "Guojin Chen",
+      "Keren Zhu",
+      "Tinghuan Chen",
+      "Tsung-Yi Ho",
+      "Bei Yu"
+    ],
+    "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.",
+    "year": 2025,
+    "type": "Journal",
+    "notes": []
+  },
+  {
+    "id": "J9",
+    "topics": ["ai"],
+    "title": "[The Dawn of AI-Native EDA: Promises and Challenges of Large Circuit Models](https://arxiv.org/abs/2403.07257)",
+    "authors": "Tsung-Yi Ho, Sadaf Khan, Jinwei Liu, Yi Liu, Zhengyuan Shi, Ziyi Wang, Qiang Xu, Evangeline F.Y. Young, Bei Yu, Ziyang Zheng, Binwu Zhu, Keren Zhu, Yiqi Che, Yun Liang, Yibo Lin, Guojie Luo, Guangyu Sun, Runsheng Wang, Xinming Wei, Chenhao Xue, Haoyi Zhang, Zuodong Zhang, Yuxiang Zhao, Sunan Zou, Lei Chen, Yu Huang, Min Li, Dimitrios Tsaras, Mingxuan Yuan, Hui-Ling Zhen, Zhufei Chu, Wenji Fang, Xingquan Li and Zhiyao Xie",
+    "author_names": [
+      "Tsung-Yi Ho",
+      "Sadaf Khan",
+      "Jinwei Liu",
+      "Yi Liu",
+      "Zhengyuan Shi",
+      "Ziyi Wang",
+      "Qiang Xu",
+      "Evangeline F.Y. Young",
+      "Bei Yu",
+      "Ziyang Zheng",
+      "Binwu Zhu",
+      "Keren Zhu",
+      "Yiqi Che",
+      "Yun Liang",
+      "Yibo Lin",
+      "Guojie Luo",
+      "Guangyu Sun",
+      "Runsheng Wang",
+      "Xinming Wei",
+      "Chenhao Xue",
+      "Haoyi Zhang",
+      "Zuodong Zhang",
+      "Yuxiang Zhao",
+      "Sunan Zou",
+      "Lei Chen",
+      "Yu Huang",
+      "Min Li",
+      "Dimitrios Tsaras",
+      "Mingxuan Yuan",
+      "Hui-Ling Zhen",
+      "Zhufei Chu",
+      "Wenji Fang",
+      "Xingquan Li",
+      "Zhiyao Xie"
+    ],
+    "venue": "SCIENCE CHINA Information Sciences, 2024.",
+    "year": 2024,
+    "type": "Journal",
+    "notes": [
+      "<a href=\"https://arxiv.org/abs/2403.07257\" style=\"color:#3793ae\">Arxiv</a>"
+    ]
+  },
+  {
+    "id": "J8",
+    "topics": ["analog","computing"],
+    "title": "[Domain Wall-Magnetic Tunnel Junction Analog Content Addressable Memory Using Current and Projected Data](https://ieeexplore.ieee.org/document/10363685)",
+    "authors": "Harrison Jin, Hanqing Zhu, Keren Zhu, Thomas Leonard, Jaesuk Kwon, Mahshid Alamdar, Kwangseok Kim, Jungsik Park, Naoki Hase, David Z. Pan, Jean Anne C. Incorvia",
+    "author_names": [
+      "Harrison Jin",
+      "Hanqing Zhu",
+      "Keren Zhu",
+      "Thomas Leonard",
+      "Jaesuk Kwon",
+      "Mahshid Alamdar",
+      "Kwangseok Kim",
+      "Jungsik Park",
+      "Naoki Hase",
+      "David Z. Pan",
+      "Jean Anne C. Incorvia"
+    ],
+    "venue": "IEEE Transactions on Nanotechnology, 2024.",
+    "year": 2024,
+    "type": "Journal",
+    "notes": [
+      "<a href=\"https://arxiv.org/abs/2301.04598\" style=\"color:#3793ae\">Arxiv</a>"
+    ]
+  },
+  {
+    "id": "J7",
+    "topics": ["ai","packaging"],
+    "title": "[ISOP+: Machine Learning-Assisted Inverse Stack-Up Optimization for Advanced Package Design](https://ieeexplore.ieee.org/document/10227538)",
+    "authors": "Hyunsu Chae,  Keren Zhu, Bhyrav Mutnury, Doug Wallace, Doug Winterburg, Daniel DeAraujo, Jay Reddy, Adam Klivans and David Z. Pan",
+    "author_names": [
+      "Hyunsu Chae",
+      "Keren Zhu",
+      "Bhyrav Mutnury",
+      "Doug Wallace",
+      "Doug Winterburg",
+      "Daniel DeAraujo",
+      "Jay Reddy",
+      "Adam Klivans",
+      "David Z. Pan"
+    ],
+    "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.",
+    "year": 2023,
+    "type": "Journal",
+    "notes": []
+  },
+  {
+    "id": "J6",
+    "topics": ["analog","computing"],
+    "title": "[An In-Memory-Computing Charge-Domain Ternary CNN Classifier](https://ieeexplore.ieee.org/document/10034979)",
+    "authors": "Xiangxing Yang, Keren Zhu, Xiyuan Tang, Meizhi Wang, Mingtao Zhan, Nanshu Lu, Jaydeep P. Kulkarni, David Z. Pan, Yongpan Liu and Nan Sun",
+    "author_names": [
+      "Xiangxing Yang",
+      "Keren Zhu",
+      "Xiyuan Tang",
+      "Meizhi Wang",
+      "Mingtao Zhan",
+      "Nanshu Lu",
+      "Jaydeep P. Kulkarni",
+      "David Z. Pan",
+      "Yongpan Liu",
+      "Nan Sun"
+    ],
+    "venue": "IEEE Journal of Solid State Circuits (JSSC), 2023.",
+    "year": 2023,
+    "type": "Journal",
+    "notes": []
+  },
+  {
+    "id": "J5",
+    "topics": ["physical","analog"],
+    "title": "[Hierarchical Analog and Mixed-Signal Circuit Placement Considering System Signal Flow](https://ieeexplore.ieee.org/document/9991821)",
+    "authors": "Keren Zhu, Hao Chen, Mingjie Liu, and David Z. Pan",
+    "author_names": [
+      "Keren Zhu",
+      "Hao Chen",
+      "Mingjie Liu",
+      "David Z. Pan"
+    ],
+    "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.",
+    "year": 2023,
+    "type": "Journal",
+    "notes": []
+  },
+  {
+    "id": "J4",
+    "topics": ["analog"],
+    "title": "[1- and 80-MS/s SAR ADCs in 40-nm CMOS With End-to-End Compilation](https://ieeexplore.ieee.org/abstract/document/9983835/)",
+    "authors": "Mingjie Liu\\*, Xiyuan Tang\\*, Keren Zhu, Hao Chen, Nan Sun, and David Z. Pan",
+    "author_names": [
+      "Mingjie Liu",
+      "Xiyuan Tang",
+      "Keren Zhu",
+      "Hao Chen",
+      "Nan Sun",
+      "David Z. Pan"
+    ],
+    "venue": "IEEE Solid-State Circuits Letters, 2023.",
+    "year": 2023,
+    "type": "Journal",
+    "notes": [
+      "\\* indicates equal contributions in alphabetic order)"
+    ]
+  },
+  {
+    "id": "J3",
+    "topics": ["physical","analog"],
+    "title": "[Tutorial and Perspectives on MAGICAL: A Silicon-Proven Open-Source Analog IC Layout System](https://ieeexplore.ieee.org/document/9769692)",
+    "authors": "Keren Zhu, Hao Chen, Mingjie Liu and David Z. Pan",
+    "author_names": [
+      "Keren Zhu",
+      "Hao Chen",
+      "Mingjie Liu",
+      "David Z. Pan"
+    ],
+    "venue": "IEEE Transactions on Circuits and Systems–II: Express Briefs (TCAS-II), 2022.",
+    "year": 2022,
+    "type": "Journal",
+    "notes": [
+      "Invited"
+    ]
+  },
+  {
+    "id": "J2",
+    "topics": ["physical","analog"],
+    "title": "[Challenges and Opportunities Toward Fully Automated Analog Layout Design](http://www.jos.ac.cn/article/doi/10.1088/1674-4926/41/11/111407)",
+    "authors": "Hao Chen\\*, Mingjie Liu \\*, Xiyuan Tang\\*, Keren Zhu \\*, Nan Sun and David Z. Pan",
+    "author_names": [
+      "Hao Chen",
+      "Mingjie Liu",
+      "Xiyuan Tang",
+      "Keren Zhu",
+      "Nan Sun",
+      "David Z. Pan"
+    ],
+    "venue": "Journal of Semiconductors, 2020.",
+    "year": 2020,
+    "type": "Journal",
+    "notes": [
+      "Invited",
+      "Featured on the cover",
+      "\\* In alphabetic order"
+    ]
+  },
+  {
+    "id": "J1",
+    "topics": ["physical","analog"],
+    "title": "[MAGICAL: An Open-Source Fully Automated Analog IC Layout System from Netlist to GDSII](https://ieeexplore.ieee.org/document/9195880)",
+    "authors": "Hao Chen\\*, Mingjie Liu \\*, Biying Xu\\*, Keren Zhu \\*, Xiyuan Tang, Shaolan Li, Yibo Lin, Nan Sun and David Z. Pan",
+    "author_names": [
+      "Hao Chen",
+      "Mingjie Liu",
+      "Biying Xu",
+      "Keren Zhu",
+      "Xiyuan Tang",
+      "Shaolan Li",
+      "Yibo Lin",
+      "Nan Sun",
+      "David Z. Pan"
+    ],
+    "venue": "IEEE Design & Test, 2020.",
+    "year": 2020,
+    "type": "Journal",
+    "notes": [
+      "Invited",
+      "\\*indicates equal contributions"
+    ]
+  },
+  {
+    "id": "C68",
+    "topics": [
+      "modeling",
+      "computing"
+    ],
+    "title": "Beyond Capacity Checks: Read-Trace Consistency in Systolic-Array Simulator Evaluation",
+    "authors": "Yixuan Zhuang†, Shiting Wang, Ruiyao Qin, and Keren Zhu†",
+    "author_names": [
+      "Yixuan Zhuang",
+      "Shiting Wang",
+      "Ruiyao Qin",
+      "Keren Zhu"
+    ],
+    "venue": "International Conference on Integrated Circuits and Microsystems (ICICM), Xi'an, China, October 16–18, 2026.",
+    "year": 2026,
+    "type": "Conference",
+    "notes": [
+      "† Corresponding authors",
+      "Accepted",
+      "(**Best Presentation**)"
+    ],
+    "anchors": [
+      "read-trace-consistency"
+    ]
+  },
+  {
+    "id": "C67",
+    "topics": ["physical"],
+    "title": "From Communities to Coordinates: Hierarchical Clustering-Guided Placement for Large-Scale FPGAs",
+    "authors": "Ke Li, Pengju Zhang, Zhiyu Zheng, Yuhao Ren, Keren Zhu, Zhiang Wang† and Xuan Zeng†",
+    "author_names": [
+      "Ke Li",
+      "Pengju Zhang",
+      "Zhiyu Zheng",
+      "Yuhao Ren",
+      "Keren Zhu",
+      "Zhiang Wang",
+      "Xuan Zeng"
+    ],
+    "venue": "IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan. 25-28, 2027.",
+    "year": 2027,
+    "type": "Conference",
+    "notes": [
+      "† Corresponding authors",
+      "Accepted"
+    ],
+    "anchors": [
+      "conference-papers"
+    ]
+  },
+  {
+    "id": "C66",
+    "topics": ["ai","synthesis","physical"],
+    "title": "EncyLogic: Logic Synthesis as Sequence Generation with Learned Priors and Physical Alignment",
+    "authors": "Zijian Jiang\\*, Chenyu Li\\*, Cunqing Lan, Hongyang Pan, Jintao Li, Zhiang Wang and Keren Zhu†",
+    "author_names": [
+      "Zijian Jiang",
+      "Chenyu Li",
+      "Cunqing Lan",
+      "Hongyang Pan",
+      "Jintao Li",
+      "Zhiang Wang",
+      "Keren Zhu"
+    ],
+    "venue": "IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, CA, USA, Nov. 8-12, 2026.",
+    "year": 2026,
+    "type": "Conference",
+    "notes": [
+      "† Corresponding authors",
+      "\\* Equal contributions",
+      "Accepted"
+    ],
+    "anchors": [
+      "encylogic"
+    ]
+  },
+  {
+    "id": "C65",
+    "topics": ["ai","modeling","packaging"],
+    "title": "GTStress: A Graph-Augmented Neural Framework for Thermal Stress Simulation of Parameterized TSV Arrays with Superposed Physical Priors and Query-Graph Fusion",
+    "authors": "Zhixuan Dong, Chenlong He, Changhao Yan†, Zhaori Bi, Keren Zhu, Bowen Jia and Xuan Zeng†",
+    "author_names": [
+      "Zhixuan Dong",
+      "Chenlong He",
+      "Changhao Yan",
+      "Zhaori Bi",
+      "Keren Zhu",
+      "Bowen Jia",
+      "Xuan Zeng"
+    ],
+    "venue": "IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, CA, USA, Nov. 8-12, 2026.",
+    "year": 2026,
+    "type": "Conference",
+    "notes": [
+      "† Corresponding authors",
+      "Accepted"
+    ]
+  },
+  {
+    "id": "C64",
+    "topics": ["physical","packaging"],
+    "title": "Analytical Chiplet Placement with Force-Directed Guidance and Chiplet Bridging for Multi-Reticle Interposers",
+    "authors": "Jiayao Li, Lang Feng†, Jinhong Huang, Keren Zhu and Zhongfeng Wang†",
+    "author_names": [
+      "Jiayao Li",
+      "Lang Feng",
+      "Jinhong Huang",
+      "Keren Zhu",
+      "Zhongfeng Wang"
+    ],
+    "venue": "IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, CA, USA, Nov. 8-12, 2026.",
+    "year": 2026,
+    "type": "Conference",
+    "notes": [
+      "† Corresponding authors",
+      "Accepted"
+    ]
+  },
+  {
+    "id": "C63",
+    "topics": ["ai","physical","packaging","modeling"],
+    "title": "CNE-PDN: Joint Optimization of PDN Geometry and TSV Layout via Component-Level Neural Parasitic Extraction for 2.5D IC",
+    "authors": "Chengkai Zhu, Jinhong Huang, Boxiang Song, Xihan Yang, Siwen Wang, Yiyang Zhao, Keren Zhu† and Changhao Yan†",
+    "author_names": [
+      "Chengkai Zhu",
+      "Jinhong Huang",
+      "Boxiang Song",
+      "Xihan Yang",
+      "Siwen Wang",
+      "Yiyang Zhao",
+      "Keren Zhu",
+      "Changhao Yan"
+    ],
+    "venue": "IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, CA, USA, Nov. 8-12, 2026.",
+    "year": 2026,
+    "type": "Conference",
+    "notes": [
+      "† Corresponding authors",
+      "Accepted"
+    ]
+  },
+  {
+    "id": "C62",
+    "topics": ["ai","modeling"],
+    "title": "An Efficient Framework for Soft Error Analysis and Selective Hardening via Graph Selective State-Space Model",
+    "authors": "Borui Li, Yuyan Wang, Changhao Yan†, Keren Zhu, Zhaori Bi, Nan Zhang, Zhipeng Liu and Xuan Zeng†",
+    "author_names": [
+      "Borui Li",
+      "Yuyan Wang",
+      "Changhao Yan",
+      "Keren Zhu",
+      "Zhaori Bi",
+      "Nan Zhang",
+      "Zhipeng Liu",
+      "Xuan Zeng"
+    ],
+    "venue": "IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, CA, USA, Nov. 8-12, 2026.",
+    "year": 2026,
+    "type": "Conference",
+    "notes": [
+      "† Corresponding authors",
+      "Accepted"
+    ]
+  },
+  {
+    "id": "C61",
+    "topics": ["ai","analog","modeling"],
+    "title": "PeRIFi: Physics-Infused RF Inverse Design with Parametric Data-Efficient Feasible-Region Sampling",
+    "authors": "Siwen Wang, Keren Zhu†, Hyunsu Chae, Zhaori Bi, Zhiang Wang, Changhao Yan and Xuan Zeng†",
+    "author_names": [
+      "Siwen Wang",
+      "Keren Zhu",
+      "Hyunsu Chae",
+      "Zhaori Bi",
+      "Zhiang Wang",
+      "Changhao Yan",
+      "Xuan Zeng"
+    ],
+    "venue": "IEEE/ACM Design Automation Conference (DAC), Long Beach, CA, July 26-29, 2026.",
+    "year": 2026,
+    "type": "Conference",
+    "notes": [
+      "† Corresponding authors",
+      "Accepted"
+    ],
+    "anchors": [
+      "perifi"
+    ]
+  },
+  {
+    "id": "C60",
+    "topics": ["synthesis","physical"],
+    "title": "A Physically-aware Framework for Joint MBFF Synthesis with OPTICS-based Debanking",
+    "authors": "Benchao Zhu, Jiawei Li, Yang Liu, Jianli Chen†, Keren Zhu†",
+    "author_names": [
+      "Benchao Zhu",
+      "Jiawei Li",
+      "Yang Liu",
+      "Jianli Chen",
+      "Keren Zhu"
+    ],
+    "venue": "ACM Great Lakes Symposium on VLSI (GLSVLSI), Finger Lakes, NY, USA, June 22-24, 2026.",
+    "year": 2026,
+    "type": "Conference",
+    "notes": [
+      "† Corresponding authors",
+      "Accepted"
+    ]
+  },
+  {
+    "id": "C59",
+    "topics": ["ai","synthesis","physical"],
+    "title": "PhySeqForm: A Data-Driven, Physical Synthesis Sequence Former",
+    "authors": "Cunqing Lan\\*, Zijian Jiang\\*, Hongyang Pan†, Zhiang Wang and Keren Zhu†",
+    "author_names": [
+      "Cunqing Lan",
+      "Zijian Jiang",
+      "Hongyang Pan",
+      "Zhiang Wang",
+      "Keren Zhu"
+    ],
+    "venue": "IEEE International Symposium on Circuits and Systems (ISCAS), Shanghai, China, May 24-27, 2026.",
+    "year": 2026,
+    "type": "Conference",
+    "notes": [
+      "† Corresponding authors",
+      "\\* Equal contributions",
+      "Accepted"
+    ]
+  },
+  {
+    "id": "C58",
+    "topics": ["physical","analog"],
+    "title": "HOLMES: Hierarchical Optimization with poLygonal ModEling for Large-Scale AMS Placement",
+    "authors": "Guanhua Chen, Yujie Yan, Jiahua Liu, Zecheng Xu, Linxi Qiu, Yumao Wu, Zhiang Wang, Changhao Yan, Zhaori Bi, Keren Zhu†",
+    "author_names": [
+      "Guanhua Chen",
+      "Yujie Yan",
+      "Jiahua Liu",
+      "Zecheng Xu",
+      "Linxi Qiu",
+      "Yumao Wu",
+      "Zhiang Wang",
+      "Changhao Yan",
+      "Zhaori Bi",
+      "Keren Zhu"
+    ],
+    "venue": "IEEE International Symposium on Circuits and Systems (ISCAS), Shanghai, China, May 24-27, 2026.",
+    "year": 2026,
+    "type": "Conference",
+    "notes": [
+      "† Corresponding authors",
+      "Accepted"
+    ]
+  },
+  {
+    "id": "C57",
+    "topics": ["ai","synthesis","physical"],
+    "title": "Layout-Aware Standard Cell Synthesis via Reparameterization Multi-Task Bayesian Optimization",
+    "authors": "Zhouyang Wu\\*, Ruiyu Lyu\\*, Keren Zhu†, Zhiang Wang, Zhaori Bi, Changhao Yan, Xuan Zeng†",
+    "author_names": [
+      "Zhouyang Wu",
+      "Ruiyu Lyu",
+      "Keren Zhu",
+      "Zhiang Wang",
+      "Zhaori Bi",
+      "Changhao Yan",
+      "Xuan Zeng"
+    ],
+    "venue": "IEEE International Symposium on Circuits and Systems (ISCAS), Shanghai, China, May 24-27, 2026.",
+    "year": 2026,
+    "type": "Conference",
+    "notes": [
+      "† Corresponding authors",
+      "\\* Equal contributions",
+      "Accepted"
+    ]
+  },
+  {
+    "id": "C56",
+    "topics": ["physical"],
+    "title": "RC-Scaled Timing-Driven Routing: Bridging Targeted Timing Optimization and Massively Parallel Global Routing",
+    "authors": "Chuyu Wang, Zecheng Xu, Boxiang Song, Zhiang Wang†, Fan Yang†, Keren Zhu† and Xuan Zeng†",
+    "author_names": [
+      "Chuyu Wang",
+      "Zecheng Xu",
+      "Boxiang Song",
+      "Zhiang Wang",
+      "Fan Yang",
+      "Keren Zhu",
+      "Xuan Zeng"
+    ],
+    "venue": "IEEE International Symposium on Circuits and Systems (ISCAS), Shanghai, China, May 24-27, 2026.",
+    "year": 2026,
+    "type": "Conference",
+    "notes": [
+      "† Corresponding authors",
+      "Accepted"
+    ]
+  },
+  {
+    "id": "C55",
+    "topics": ["ai","synthesis"],
+    "title": "LENS-HLS: LLM-Enhanced Learning-based Design Space Exploration for High-Level Synthesis",
+    "authors": "Yujie Yan, Guanhua Chen, Keren Zhu†",
+    "author_names": [
+      "Yujie Yan",
+      "Guanhua Chen",
+      "Keren Zhu"
+    ],
+    "venue": "IEEE International Symposium on Field-Programmable Custom Computing Machines (FCCM), Atlanta, GA, USA, May 13-16, 2026.",
+    "year": 2026,
+    "type": "Conference",
+    "notes": [
+      "† Corresponding authors",
+      "Accepted (Extended Abstract)"
+    ]
+  },
+  {
+    "id": "C54",
+    "topics": ["physical"],
+    "title": "Submodular Maximization-inspired Adaptive Routing Bend Space Planning",
+    "authors": "Siting Liu, Peng Xu, Peiyu Liao, Keren Zhu, Yibo Lin, and Bei Yu",
+    "author_names": [
+      "Siting Liu",
+      "Peng Xu",
+      "Peiyu Liao",
+      "Keren Zhu",
+      "Yibo Lin",
+      "Bei Yu"
+    ],
+    "venue": "IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Verona, Italy, Apr. 20-22, 2026.",
+    "year": 2026,
+    "type": "Conference",
+    "notes": [
+      "Accepted"
+    ]
+  },
+  {
+    "id": "C53",
+    "topics": [
+      "synthesis",
+      "physical"
+    ],
+    "title": "PigMap3: A Physically Aware Incremental Mapping Framework with On-the-fly Post-Layout Critical Path Tracking",
+    "authors": "Hongyang Pan\\*, Cunqing Lan\\*, Zhiang Wang, Xuan Zeng, Fan Yang, Keren Zhu†",
+    "author_names": [
+      "Hongyang Pan",
+      "Cunqing Lan",
+      "Zhiang Wang",
+      "Xuan Zeng",
+      "Fan Yang",
+      "Keren Zhu"
+    ],
+    "venue": "IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Hong Kong, China, Jan. 19-22, 2026.",
+    "year": 2026,
+    "type": "Conference",
+    "notes": [
+      "† Corresponding authors",
+      "\\* Equal contributions"
+    ]
+  },
+  {
+    "id": "C52",
+    "topics": ["ai","synthesis"],
+    "title": "[HOLMES-HLS: Holistic Optimization and Learning-based Multi-model Exploration System for High-Level Synthesis](https://ieeexplore.ieee.org/document/)",
+    "authors": "Yujie Yan\\*, Guanhua Chen\\*, Ruiyu Lyu, Huizhen Kuang, Kaiwen Zhou, Hao Chen, Lingli Wang, Keren Zhu†",
+    "author_names": [
+      "Yujie Yan",
+      "Guanhua Chen",
+      "Ruiyu Lyu",
+      "Huizhen Kuang",
+      "Kaiwen Zhou",
+      "Hao Chen",
+      "Lingli Wang",
+      "Keren Zhu"
+    ],
+    "venue": "International Conference on Field Programmable Technology (FPT) ,  Shanghai, China, Dec. 2-5, 2025.",
+    "year": 2025,
+    "type": "Conference",
+    "notes": [
+      "† Corresponding authors",
+      "\\* Equal contributions"
+    ]
+  },
+  {
+    "id": "C51",
+    "topics": ["packaging","modeling"],
+    "title": "[LCTMwalk: GPU-Accelerated Transient Thermal Simulation for Liquid-Cooled 2.5D/3D ICs via Random Walks on Circuit Networks of Modified Compact Thermal Models](https://ieeexplore.ieee.org/document/)",
+    "authors": "Zhixuan Dong, Yonghan Luo, Yuan Meng, Changhao Yan, Zhaori Bi, Keren Zhu, Sheng-Guo Wang, Dian Zhou and Xuan Zeng",
+    "author_names": [
+      "Zhixuan Dong",
+      "Yonghan Luo",
+      "Yuan Meng",
+      "Changhao Yan",
+      "Zhaori Bi",
+      "Keren Zhu",
+      "Sheng-Guo Wang",
+      "Dian Zhou",
+      "Xuan Zeng"
+    ],
+    "venue": "IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct. 26-30, 2025.",
+    "year": 2025,
+    "type": "Conference",
+    "notes": []
+  },
+  {
+    "id": "C50",
+    "topics": ["ai","computing"],
+    "title": "[Seeing Through Designs: Attention-Based Knowledge Transfer for Preference-Guided Microarchitecture Search](https://ieeexplore.ieee.org/document/)",
+    "authors": "Yiyang Zhao, Xuyang Zhao, Zhaori Bi, Ming Zhu, Qiwei Zhan, Keren Zhu, Fan Yang, Changhao Yan, Dian Zhou and Xuan Zeng",
+    "author_names": [
+      "Yiyang Zhao",
+      "Xuyang Zhao",
+      "Zhaori Bi",
+      "Ming Zhu",
+      "Qiwei Zhan",
+      "Keren Zhu",
+      "Fan Yang",
+      "Changhao Yan",
+      "Dian Zhou",
+      "Xuan Zeng"
+    ],
+    "venue": "IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct. 26-30, 2025.",
+    "year": 2025,
+    "type": "Conference",
+    "notes": []
+  },
+  {
+    "id": "C49",
+    "topics": ["ai","packaging","modeling"],
+    "title": "[NSTherm: An Error-Bounded Network-Stochastic Fusion Thermal Simulator for Geometry-Adaptable Chiplets via Diffeomorphic Mapping and Neural- Guided Variance Reduction](https://ieeexplore.ieee.org/document/)",
+    "authors": "Yuan Meng, Yuyan Wang, Zhixuan Dong, Yonghan Luo, Changhao Yan, Keren Zhu, Zhaori Bi, Shengguo Wang, Dian Zhou and Xuan Zeng",
+    "author_names": [
+      "Yuan Meng",
+      "Yuyan Wang",
+      "Zhixuan Dong",
+      "Yonghan Luo",
+      "Changhao Yan",
+      "Keren Zhu",
+      "Zhaori Bi",
+      "Shengguo Wang",
+      "Dian Zhou",
+      "Xuan Zeng"
+    ],
+    "venue": "IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct. 26-30, 2025.",
+    "year": 2025,
+    "type": "Conference",
+    "notes": []
+  },
+  {
+    "id": "C48",
+    "topics": ["analog"],
+    "title": "[MARIO: A Superadditive Multi-Algorithm Interworking Optimization Framework for Analog Circuit Sizing](https://ieeexplore.ieee.org/document/)",
+    "authors": "Wangzhen Li, Yuan Meng, Ruiyu Lyu, Changhao Yan, Keren Zhu, Zhaori Bi, Dian Zhou and Xuan Zeng",
+    "author_names": [
+      "Wangzhen Li",
+      "Yuan Meng",
+      "Ruiyu Lyu",
+      "Changhao Yan",
+      "Keren Zhu",
+      "Zhaori Bi",
+      "Dian Zhou",
+      "Xuan Zeng"
+    ],
+    "venue": "IEEE/ACM Design Automation Conference (DAC) , San Francisco, USA, Jun. 22–25, 2025.",
+    "year": 2025,
+    "type": "Conference",
+    "notes": []
+  },
+  {
+    "id": "C47",
+    "topics": ["analog","modeling"],
+    "title": "[Decoupling Analog Circuit Representation from Process for Behavior-Centric Optimization](https://ieeexplore.ieee.org/document/)",
+    "authors": "Jintao Li, Haochang Zhi, Jiang Xiao, Keren Zhu<sup>\\*</sup> and Yun Li<sup>\\*</sup>,",
+    "author_names": [
+      "Jintao Li",
+      "Haochang Zhi",
+      "Jiang Xiao",
+      "Keren Zhu",
+      "Yun Li"
+    ],
+    "venue": "IEEE/ACM Design Automation Conference (DAC) , San Francisco, USA, Jun. 22–25, 2025.",
+    "year": 2025,
+    "type": "Conference",
+    "notes": [
+      "\\* corresponding authors"
+    ]
+  },
+  {
+    "id": "C46",
+    "topics": ["modeling"],
+    "title": "[GPU Acceleration of A High-precision Stochastic Solver for Steady-state Thermal Analysis with Robin Boundary Conditions](https://ieeexplore.ieee.org/document/)",
+    "authors": "Yonghan Luo, Yuyan Wang, Zhixuan Dong, Changhao Yan, Zhaori Bi, Keren Zhu, Shengguo Wang, and Xuan Zeng",
+    "author_names": [
+      "Yonghan Luo",
+      "Yuyan Wang",
+      "Zhixuan Dong",
+      "Changhao Yan",
+      "Zhaori Bi",
+      "Keren Zhu",
+      "Shengguo Wang",
+      "Xuan Zeng"
+    ],
+    "venue": "International Symposium of EDA (ISEDA),  Hong Kong, China, May 9–12, 2025.",
+    "year": 2025,
+    "type": "Conference",
+    "notes": []
+  },
+  {
+    "id": "C45",
+    "topics": ["physical"],
+    "title": "[Adaptive Preconditioning Guided by Divergence Analysis for Enhanced VLSI Global Placement](https://ieeexplore.ieee.org/document/)",
+    "authors": "Liwen Jiang, Ruiyu Lyu, Fan Yang, and Keren Zhu†",
+    "author_names": [
+      "Liwen Jiang",
+      "Ruiyu Lyu",
+      "Fan Yang",
+      "Keren Zhu"
+    ],
+    "venue": "International Symposium of EDA (ISEDA),  Hong Kong, China, May 9–12, 2025.",
+    "year": 2025,
+    "type": "Conference",
+    "notes": [
+      "† Corresponding authors"
+    ]
+  },
+  {
+    "id": "C44",
+    "topics": [
+      "analog",
+      "modeling"
+    ],
+    "title": "PZTA: Accelerating Analog Circuit Sizing With A Transferable Circuit Theory-Inspired Pole-Zero Transient Assertion System",
+    "authors": "Xiaoyu Zhong, Jintao Li, Zhaori Bi, Yun Li, Fan Yang, Xuan Zeng, and Keren Zhu†",
+    "author_names": [
+      "Xiaoyu Zhong",
+      "Jintao Li",
+      "Zhaori Bi",
+      "Yun Li",
+      "Fan Yang",
+      "Xuan Zeng",
+      "Keren Zhu"
+    ],
+    "venue": "International Symposium of EDA (ISEDA),  Hong Kong, China, May 9–12, 2025.",
+    "year": 2025,
+    "type": "Conference",
+    "notes": [
+      "† Corresponding authors",
+      "**Best Paper Award**"
+    ]
+  },
+  {
+    "id": "C43",
+    "topics": ["ai","analog"],
+    "title": "[Multi-Armed Bandits-Based Exploring and Exploiting the High-Dimensional Design Space for Analog Circuit with Adjoint Sensitivity](https://ieeexplore.ieee.org/document/)",
+    "authors": "Ruiyu Lyu, Yuan Meng, Zhaori Bi, Keren Zhu, Changhao Yan, Fan Yang, and Xuan Zeng",
+    "author_names": [
+      "Ruiyu Lyu",
+      "Yuan Meng",
+      "Zhaori Bi",
+      "Keren Zhu",
+      "Changhao Yan",
+      "Fan Yang",
+      "Xuan Zeng"
+    ],
+    "venue": "International Symposium of EDA (ISEDA),  Hong Kong, China, May 9–12, 2025.",
+    "year": 2025,
+    "type": "Conference",
+    "notes": []
+  },
+  {
+    "id": "C42",
+    "topics": ["analog"],
+    "title": "[Hybrid Automation in Analog Sizing: Synergizing Designer Intuition with Multi-Objective Optimization for Gain-Boosted Amplifiers](https://ieeexplore.ieee.org/document/)",
+    "authors": "Yue Huang, Wangzhen Li, Xiaochuan Peng, Keren Zhu, Fan Yang, and Xuan Zeng",
+    "author_names": [
+      "Yue Huang",
+      "Wangzhen Li",
+      "Xiaochuan Peng",
+      "Keren Zhu",
+      "Fan Yang",
+      "Xuan Zeng"
+    ],
+    "venue": "International Symposium of EDA (ISEDA),  Hong Kong, China, May 9–12, 2025.",
+    "year": 2025,
+    "type": "Conference",
+    "notes": []
+  },
+  {
+    "id": "C41",
+    "topics": ["physical","computing"],
+    "title": "[DAMIL-DCIM: A Digital CIM Layout Synthesis Framework with Dataflow-Aware Floorplan and MILP-Based Detailed Placement](https://ieeexplore.ieee.org/document/)",
+    "authors": "Chuyu Wang, Ke Hu, Fan Yang, Keren Zhu<sup>\\*</sup>, and Xuan Zeng<sup>\\*</sup>",
+    "author_names": [
+      "Chuyu Wang",
+      "Ke Hu",
+      "Fan Yang",
+      "Keren Zhu",
+      "Xuan Zeng"
+    ],
+    "venue": "IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Lyon, France, March 31 - April 2, 2025.",
+    "year": 2025,
+    "type": "Conference",
+    "notes": [
+      "\\* corresponding authors"
+    ]
+  },
+  {
+    "id": "C40",
+    "topics": ["synthesis"],
+    "title": "[ELMap: Area-Driven LUT Mapping with k-LUT Network Exact Synthesis](https://ieeexplore.ieee.org/document/)",
+    "authors": "Hongyang Pan, Keren Zhu, Fan Yang, Zhufei Chu and Xuan Zeng",
+    "author_names": [
+      "Hongyang Pan",
+      "Keren Zhu",
+      "Fan Yang",
+      "Zhufei Chu",
+      "Xuan Zeng"
+    ],
+    "venue": "IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Lyon, France, March 31 - April 2, 2025.",
+    "year": 2025,
+    "type": "Conference",
+    "notes": []
+  },
+  {
+    "id": "C39",
+    "topics": ["physical","computing"],
+    "title": "[LiDAR: Automated Curvy Waveguide Detailed Routing for Large-Scale Photonic Integrated Circuits](https://dl.acm.org/doi/abs/10.1145/3698364.3705355)",
+    "authors": "Hongjian Zhou, Keren Zhu, and Jiaqi Gu",
+    "author_names": [
+      "Hongjian Zhou",
+      "Keren Zhu",
+      "Jiaqi Gu"
+    ],
+    "venue": "ACM International Symposium on Physical Design (ISPD), Austin, Mar. 16–19, 2025.",
+    "year": 2025,
+    "type": "Conference",
+    "notes": [
+      "<a href=\"https://arxiv.org/html/2410.01260v1\" style=\"color:#3793ae\">preprint</a>"
+    ]
+  },
+  {
+    "id": "C38",
+    "topics": ["ai","synthesis"],
+    "title": "[HeLO: A Heterogeneous Logic Optimization Framework by Hierarchical Clustering and Graph Learning](https://dl.acm.org/doi/abs/10.1145/3698364.3705354)",
+    "authors": "Yuan Pu, Fangzhou Liu, Zhuolun He, Keren Zhu, Rongliang Fu, Ziyi Wang, Tsung-Yi Ho, and Bei Yu",
+    "author_names": [
+      "Yuan Pu",
+      "Fangzhou Liu",
+      "Zhuolun He",
+      "Keren Zhu",
+      "Rongliang Fu",
+      "Ziyi Wang",
+      "Tsung-Yi Ho",
+      "Bei Yu"
+    ],
+    "venue": "ACM International Symposium on Physical Design (ISPD), Austin, Mar. 16–19, 2025.",
+    "year": 2025,
+    "type": "Conference",
+    "notes": [
+      "**Best Paper Award Nomination**"
+    ]
+  },
+  {
+    "id": "C37",
+    "topics": [
+      "analog"
+    ],
+    "title": "[AnalogGym: An Open and Practical Testing Suite for Analog Circuit Synthesis](https://ieeexplore.ieee.org/document/)",
+    "authors": "Jintao Li, Haochang Zhi, Ruiyu Lyu, Wangzhen Li, Zhaori Bi<sup>\\*</sup>, Keren Zhu<sup>\\*</sup>, Yanhan Zeng, Weiwei Shan, Changhao Yan, Fan Yang, Yun Li<sup>\\*</sup>, and Xuan Zeng<sup>\\*</sup>",
+    "author_names": [
+      "Jintao Li",
+      "Haochang Zhi",
+      "Ruiyu Lyu",
+      "Wangzhen Li",
+      "Zhaori Bi",
+      "Keren Zhu",
+      "Yanhan Zeng",
+      "Weiwei Shan",
+      "Changhao Yan",
+      "Fan Yang",
+      "Yun Li",
+      "Xuan Zeng"
+    ],
+    "venue": "IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, NY, USA, Oct. 27–31, 2024.",
+    "year": 2024,
+    "type": "Conference",
+    "notes": [
+      "<a href=\"https://github.com/CODA-Team/AnalogGym\" style=\"color:#3793ae\">Github Repo</a> \\| <a href=\"https://arxiv.org/abs/2409.08534v1\" style=\"color:#3793ae\">preprint</a>",
+      "\\* corresponding authors",
+      "(Invited)"
+    ]
+  },
+  {
+    "id": "C36",
+    "topics": [
+      "synthesis",
+      "physical"
+    ],
+    "title": "[Physically Aware Synthesis Revisited: Guiding Technology Mapping with Primitive Logic Gate Placement](https://ieeexplore.ieee.org/document/)",
+    "authors": "Hongyang Pan, Cunqing Lan, Yiting Liu, Zhiang Wang, Li Shang, Xuan Zeng, Fan Yang and Keren Zhu†",
+    "author_names": [
+      "Hongyang Pan",
+      "Cunqing Lan",
+      "Yiting Liu",
+      "Zhiang Wang",
+      "Li Shang",
+      "Xuan Zeng",
+      "Fan Yang",
+      "Keren Zhu"
+    ],
+    "venue": "IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, NY, USA, Oct. 27–31, 2024.",
+    "year": 2024,
+    "type": "Conference",
+    "notes": [
+      "<a href=\"https://arxiv.org/abs/2408.07886\" style=\"color:#3793ae\">preprint</a>",
+      "(Accepted)",
+      "† Corresponding author"
+    ]
+  },
+  {
+    "id": "C35",
+    "topics": ["ai","analog"],
+    "title": "[Revisiting Sensitivity-based Analog Sizing with Derivative-aware Bayesian Optimization and Error-Suppressed Adjoint Analysis](https://ieeexplore.ieee.org/document/)",
+    "authors": "Ruiyu Lyu, Aidong Zhao, Yuan Meng, Zhaori Bi, Keren Zhu, Changhao Yan, Fan Yang, Dian Zhou and Xuan Zeng",
+    "author_names": [
+      "Ruiyu Lyu",
+      "Aidong Zhao",
+      "Yuan Meng",
+      "Zhaori Bi",
+      "Keren Zhu",
+      "Changhao Yan",
+      "Fan Yang",
+      "Dian Zhou",
+      "Xuan Zeng"
+    ],
+    "venue": "IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, NY, USA, Oct. 27–31, 2024.",
+    "year": 2024,
+    "type": "Conference",
+    "notes": [
+      "(Accepted)"
+    ]
+  },
+  {
+    "id": "C34",
+    "topics": ["ai","physical","analog"],
+    "title": "[AI-Enabled Layout Automation for Analog and RF IC: Current Status and Future Directions](https://ieeexplore.ieee.org/document/)",
+    "authors": "Chuyu Wang, Fan Yang, and Keren Zhu†",
+    "author_names": [
+      "Chuyu Wang",
+      "Fan Yang",
+      "Keren Zhu"
+    ],
+    "venue": "IEEE International Symposium on Radio-Frequency Integration Technology (RFIT),  Chengdu, China, Aug. 28–30, 2024.",
+    "year": 2024,
+    "type": "Conference",
+    "notes": [
+      "† Corresponding authors"
+    ]
+  },
+  {
+    "id": "C33",
+    "topics": ["ai","physical","analog"],
+    "title": "[Performance-driven Analog Routing via Heterogeneous 3DGNN and Potential Relaxation](https://ieeexplore.ieee.org/document/)",
+    "authors": "Peng Xu, Guojin Chen, Keren Zhu, Tinghuan Chen, Tsung-Yi Ho, and Bei Yu",
+    "author_names": [
+      "Peng Xu",
+      "Guojin Chen",
+      "Keren Zhu",
+      "Tinghuan Chen",
+      "Tsung-Yi Ho",
+      "Bei Yu"
+    ],
+    "venue": "IEEE/ACM Design Automation Conference (DAC) , San Francisco, USA, Jun. 23–27, 2024.",
+    "year": 2024,
+    "type": "Conference",
+    "notes": []
+  },
+  {
+    "id": "C32",
+    "topics": [
+      "synthesis"
+    ],
+    "title": "[On Accelerating Domain-Specific MC-TS with Knowledge Retention and Efficient Parallelization for Logic Optimization](https://ieeexplore.ieee.org/abstract/document/10617624)",
+    "authors": "Cunqing Lan, Xinyao Wang, Zijian Jiang, Hongyang Pan, Keren Zhu†, Zhaori Bi, Changhao Yan and Xuan Zeng",
+    "author_names": [
+      "Cunqing Lan",
+      "Xinyao Wang",
+      "Zijian Jiang",
+      "Hongyang Pan",
+      "Keren Zhu",
+      "Zhaori Bi",
+      "Changhao Yan",
+      "Xuan Zeng"
+    ],
+    "venue": "International Symposium of EDA (ISEDA),  Xi'an, China, May 10–13, 2024.",
+    "year": 2024,
+    "type": "Conference",
+    "notes": [
+      "† Corresponding author"
+    ]
+  },
+  {
+    "id": "C31",
+    "topics": ["physical","analog"],
+    "title": "[Universal Process Migration Solution of MAGICAL for Analog IC Layout Automation](https://ieeexplore.ieee.org/document/10531849)",
+    "authors": "Yufeng Wei, Yifan Xu, Keren Zhu and Ye Lu",
+    "author_names": [
+      "Yufeng Wei",
+      "Yifan Xu",
+      "Keren Zhu",
+      "Ye Lu"
+    ],
+    "venue": "2024 Conference of Science and Technology for Integrated Circuits (CSTIC)",
+    "year": 2024,
+    "type": "Conference",
+    "notes": []
+  },
+  {
+    "id": "C30",
+    "topics": ["ai","analog"],
+    "title": "[A Data-Driven Analog Circuit Synthesizer with Automatic Topology Selection and Sizing](https://ieeexplore.ieee.org/document/10546840)",
+    "authors": "Souradip Poddar, Ahmet Budak, Linran Zhao, Chen-Hao Hsu, Supriyo Maji, Keren Zhu, Yaoyao Jia, and David Z. Pan,",
+    "author_names": [
+      "Souradip Poddar",
+      "Ahmet Budak",
+      "Linran Zhao",
+      "Chen-Hao Hsu",
+      "Supriyo Maji",
+      "Keren Zhu",
+      "Yaoyao Jia",
+      "David Z. Pan"
+    ],
+    "venue": "IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Valencia, Spain, March 25 - 27, 2024.",
+    "year": 2024,
+    "type": "Conference",
+    "notes": []
+  },
+  {
+    "id": "C29",
+    "topics": ["physical"],
+    "title": "[Multi-Electrostatics Based Placement for Non-Integer Multiple-Height Cells](https://dl.acm.org/doi/10.1145/3626184.3633320)",
+    "authors": "Yu Zhang, Yuan Pu, Fangzhou Liu, Peiyu Liao, Kaiyuan Chao, Keren Zhu, Yibo Lin, and Bei Yu,",
+    "author_names": [
+      "Yu Zhang",
+      "Yuan Pu",
+      "Fangzhou Liu",
+      "Peiyu Liao",
+      "Kaiyuan Chao",
+      "Keren Zhu",
+      "Yibo Lin",
+      "Bei Yu"
+    ],
+    "venue": "ACM International Symposium on Physical Design (ISPD) , Taipei, March 12 - 15, 2024.",
+    "year": 2024,
+    "type": "Conference",
+    "notes": []
+  },
+  {
+    "id": "C28",
+    "topics": ["physical","analog"],
+    "title": "[Performance-Driven Analog Layout Automation: Current Status and Future Directions](https://dl.acm.org/doi/10.1109/ASP-DAC58780.2024.10473859)",
+    "authors": "Peng Xu, Jintao Li, Tsung-Yi Ho, Bei Yu, and Keren Zhu†,",
+    "author_names": [
+      "Peng Xu",
+      "Jintao Li",
+      "Tsung-Yi Ho",
+      "Bei Yu",
+      "Keren Zhu"
+    ],
+    "venue": "IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Incheon, S. Korea, Jan 22-25, 2024.",
+    "year": 2024,
+    "type": "Conference",
+    "notes": [
+      "† Corresponding authors",
+      "Invited"
+    ]
+  },
+  {
+    "id": "C27",
+    "topics": ["analog"],
+    "title": "[A Study on Exploring and Exploiting the High-dimensional Design Space for Analog Circuit Design Automation](https://ieeexplore.ieee.org/document/10473920)",
+    "authors": "Ruiyu Lyu, Yuan Meng, Zhaori Bi, Keren Zhu, Fan Yang, Changhao Yan, Dian Zhou, and Xuan Zeng,",
+    "author_names": [
+      "Ruiyu Lyu",
+      "Yuan Meng",
+      "Zhaori Bi",
+      "Keren Zhu",
+      "Fan Yang",
+      "Changhao Yan",
+      "Dian Zhou",
+      "Xuan Zeng"
+    ],
+    "venue": "IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Incheon, S. Korea, Jan 22-25, 2024.",
+    "year": 2024,
+    "type": "Conference",
+    "notes": [
+      "Invited"
+    ]
+  },
+  {
+    "id": "C26",
+    "topics": ["ai","packaging"],
+    "title": "[ISOP-Yield: Yield-Aware Stack-Up Optimization for Advanced Package using Machine Learning](https://ieeexplore.ieee.org/document/10473886)",
+    "authors": "Hyunsu Chae, Keren Zhu, Bhyrav Mutnury, Zixuan Jiang, Daniel de Araujo, Adam Klivans, and David Z. Pan,",
+    "author_names": [
+      "Hyunsu Chae",
+      "Keren Zhu",
+      "Bhyrav Mutnury",
+      "Zixuan Jiang",
+      "Daniel de Araujo",
+      "Adam Klivans",
+      "David Z. Pan"
+    ],
+    "venue": "IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Incheon, S. Korea, Jan 22-25, 2024.",
+    "year": 2024,
+    "type": "Conference",
+    "notes": [
+      "Accepted"
+    ]
+  },
+  {
+    "id": "C25",
+    "topics": ["synthesis"],
+    "title": "[AlphaSyn: Logic Synthesis Optimization with Efficient Monte Carlo Tree Search](https://ieeexplore.ieee.org/document/10323856)",
+    "authors": "Zehua Pei, Fangzhou Liu, Zhuolun He, Guojin Chen, Haisheng Zheng, Keren Zhu and Bei Yu,",
+    "author_names": [
+      "Zehua Pei",
+      "Fangzhou Liu",
+      "Zhuolun He",
+      "Guojin Chen",
+      "Haisheng Zheng",
+      "Keren Zhu",
+      "Bei Yu"
+    ],
+    "venue": "IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Francisco, CA, October 29 - November 2, 2023.",
+    "year": 2023,
+    "type": "Conference",
+    "notes": [
+      "Accepted"
+    ]
+  },
+  {
+    "id": "C24",
+    "topics": ["ai","physical","analog"],
+    "title": "[Practical Layout-Aware Analog/Mixed-Signal Design Automation with Bayesian Neural Networks](https://ieeexplore.ieee.org/abstract/document/10323923)",
+    "authors": "Ahmet F. Budak, Keren Zhu and David Z. Pan",
+    "author_names": [
+      "Ahmet F. Budak",
+      "Keren Zhu",
+      "David Z. Pan"
+    ],
+    "venue": "IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Francisco, CA, October 29 - November 2, 2023.",
+    "year": 2023,
+    "type": "Conference",
+    "notes": []
+  },
+  {
+    "id": "C23",
+    "topics": ["ai","packaging"],
+    "title": "[ISOP: Machine Learning-Assisted Inverse Stack-Up Optimization for Advanced Package Design](https://ieeexplore.ieee.org/document/10137055)",
+    "authors": "Hyunsu Chae, Bhyrav Mutnury, Keren Zhu, Doug Wallace, Doug Winterburg, Daniel DeAraujo, Jay Reddy, Adam Klivans and David Z. Pan",
+    "author_names": [
+      "Hyunsu Chae",
+      "Bhyrav Mutnury",
+      "Keren Zhu",
+      "Doug Wallace",
+      "Doug Winterburg",
+      "Daniel DeAraujo",
+      "Jay Reddy",
+      "Adam Klivans",
+      "David Z. Pan"
+    ],
+    "venue": "IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Antwerp, Belgium, April 17- 19, 2023.",
+    "year": 2023,
+    "type": "Conference",
+    "notes": []
+  },
+  {
+    "id": "C22",
+    "topics": ["physical","analog"],
+    "title": "[Joint Optimization of Sizing and Layout for AMS Designs: Challenges and Opportunities](https://dl.acm.org/doi/abs/10.1145/3569052.3578929)",
+    "authors": "Ahmet F Budak, Keren Zhu, Hao Chen, Souradip Poddar, Linran Zhao, Yaoyao Jia and David Z Pan",
+    "author_names": [
+      "Ahmet F Budak",
+      "Keren Zhu",
+      "Hao Chen",
+      "Souradip Poddar",
+      "Linran Zhao",
+      "Yaoyao Jia",
+      "David Z Pan"
+    ],
+    "venue": "ACM International Symposium on Physical Design (ISPD), Virtual Conference, March 26-29, 2023.",
+    "year": 2023,
+    "type": "Conference",
+    "notes": [
+      "Invited"
+    ]
+  },
+  {
+    "id": "C21",
+    "topics": ["ai","physical","analog"],
+    "title": "[Reinforcement Learning Guided Detailed Routing for FinFET Custom Circuits](https://dl.acm.org/doi/abs/10.1145/3569052.3571874)",
+    "authors": "Hao Chen, Kai-Chieh Hsu, Walker J. Turner,  Po-Hsuan Wei, Keren Zhu, David Z. Pan and Haoxing Ren",
+    "author_names": [
+      "Hao Chen",
+      "Kai-Chieh Hsu",
+      "Walker J. Turner",
+      "Po-Hsuan Wei",
+      "Keren Zhu",
+      "David Z. Pan",
+      "Haoxing Ren"
+    ],
+    "venue": "ACM International Symposium on Physical Design (ISPD), Virtual Conference, March 26-29, 2023.",
+    "year": 2023,
+    "type": "Conference",
+    "notes": []
+  },
+  {
+    "id": "C20",
+    "topics": [
+      "ai",
+      "physical",
+      "analog"
+    ],
+    "title": "[TAG: Learning Circuit Spatial Embedding From Layouts](https://dl.acm.org/doi/abs/10.1145/3508352.3549384)",
+    "authors": "Keren Zhu, Hao Chen, Walker Turner, George Kokai, Po-Hsuan Wei, David Z. Pan, and Haoxing Ren",
+    "author_names": [
+      "Keren Zhu",
+      "Hao Chen",
+      "Walker Turner",
+      "George Kokai",
+      "Po-Hsuan Wei",
+      "David Z. Pan",
+      "Haoxing Ren"
+    ],
+    "venue": "IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Diego, Oct. 30–Nov. 3, 2022.",
+    "year": 2022,
+    "type": "Conference",
+    "notes": [
+      "**Best Paper Candidate Nominated from Track**"
+    ]
+  },
+  {
+    "id": "C19",
+    "topics": ["analog","computing"],
+    "title": "[Fuse and Mix: MACAM-Enabled Analog Activation for Energy-Efficient Neural Acceleration](https://dl.acm.org/doi/10.1145/3508352.3549449)",
+    "authors": "Hanqing Zhu, Keren Zhu, Jiaqi Gu, Harrison Jin, Ray Chen, Jean Anne Incorvia, and David Z. Pan",
+    "author_names": [
+      "Hanqing Zhu",
+      "Keren Zhu",
+      "Jiaqi Gu",
+      "Harrison Jin",
+      "Ray Chen",
+      "Jean Anne Incorvia",
+      "David Z. Pan"
+    ],
+    "venue": "IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Diego, Oct. 30–Nov. 3, 2022.",
+    "year": 2022,
+    "type": "Conference",
+    "notes": []
+  },
+  {
+    "id": "C18",
+    "topics": [
+      "physical",
+      "analog"
+    ],
+    "title": "[AutoCRAFT: Layout Automation for Custom Circuits in Advanced FinFET Technologies](https://dl.acm.org/doi/10.1145/3505170.3511044)",
+    "authors": "Hao Chen, Walker J. Turner, Sanquan Song, Keren Zhu, George F. Kokai, Brian Zimmer, C. Thomas Gray, Brucek Khailany, David Z. Pan, and Haoxing Ren",
+    "author_names": [
+      "Hao Chen",
+      "Walker J. Turner",
+      "Sanquan Song",
+      "Keren Zhu",
+      "George F. Kokai",
+      "Brian Zimmer",
+      "C. Thomas Gray",
+      "Brucek Khailany",
+      "David Z. Pan",
+      "Haoxing Ren"
+    ],
+    "venue": "ACM International Symposium on Physical Design (ISPD), Virtual Conference, March 27-30, 2022.",
+    "year": 2022,
+    "type": "Conference",
+    "notes": [
+      "Invited"
+    ]
+  },
+  {
+    "id": "C17",
+    "topics": ["ai","physical","analog"],
+    "title": "[Automating Analog Constraint Extraction: From Heuristics to Learning](https://ieeexplore.ieee.org/document/9712488)",
+    "authors": "Keren Zhu, Hao Chen, Mingjie Liu, and David Z. Pan",
+    "author_names": [
+      "Keren Zhu",
+      "Hao Chen",
+      "Mingjie Liu",
+      "David Z. Pan"
+    ],
+    "venue": "IEEE/ACM  Asia  and  SouthPacific Design Automation Conference (ASPDAC), Virtual Conference, January 17-20, 2022.",
+    "year": 2022,
+    "type": "Conference",
+    "notes": [
+      "Invited"
+    ]
+  },
+  {
+    "id": "C16",
+    "topics": ["ai"],
+    "title": "[Reinforcement Learning for Electronic Design Automation: Case Studies and Perspectives](https://ieeexplore.ieee.org/document/9712578)",
+    "authors": "Ahmet F. Budak\\*, Zixuan Jiang\\*, Keren Zhu, Azalia Mirhoseini, Anna Goldie, and David Z. Pan",
+    "author_names": [
+      "Ahmet F. Budak",
+      "Zixuan Jiang",
+      "Keren Zhu",
+      "Azalia Mirhoseini",
+      "Anna Goldie",
+      "David Z. Pan"
+    ],
+    "venue": "IEEE/ACM  Asia  and  SouthPacific Design Automation Conference (ASPDAC), Virtual Conference, January 17-20, 2022.",
+    "year": 2022,
+    "type": "Conference",
+    "notes": [
+      "Invited",
+      "\\*indicates equal contributions"
+    ]
+  },
+  {
+    "id": "C15",
+    "topics": ["ai","physical","analog"],
+    "title": "[Generative-Adversarial-Network-Guided  Well-Aware  Placement  for  Analog  Circuits](https://ieeexplore.ieee.org/document/9712592)",
+    "authors": "Keren Zhu, Hao Chen, Mingjie Liu, Xiyuan Tang, Wei Shi, Nan Sun, and David Z. Pan",
+    "author_names": [
+      "Keren Zhu",
+      "Hao Chen",
+      "Mingjie Liu",
+      "Xiyuan Tang",
+      "Wei Shi",
+      "Nan Sun",
+      "David Z. Pan"
+    ],
+    "venue": "IEEE/ACM  Asia  and  SouthPacific Design Automation Conference (ASPDAC), Virtual Conference, January 17-20, 2022.",
+    "year": 2022,
+    "type": "Conference",
+    "notes": []
+  },
+  {
+    "id": "C14",
+    "topics": ["analog"],
+    "title": "[OpenSAR: An OpenSource Automated End-to-end SARADC Compiler](https://ieeexplore.ieee.org/document/9643494)",
+    "authors": "Mingjie Liu, Xiyuan Tang, Keren Zhu, Hao Chen, Nan Sun, and David Z. Pan",
+    "author_names": [
+      "Mingjie Liu",
+      "Xiyuan Tang",
+      "Keren Zhu",
+      "Hao Chen",
+      "Nan Sun",
+      "David Z. Pan"
+    ],
+    "venue": "IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Virtual Conference, November 1-5, 2021.",
+    "year": 2021,
+    "type": "Conference",
+    "notes": [
+      "<a href=\"https://github.com/magical-eda/OpenSAR\" style=\"color:#3793ae\">source codes</a>"
+    ]
+  },
+  {
+    "id": "C13",
+    "topics": ["ai","physical","analog"],
+    "title": "[Universal Symmetry Constraint Extraction for Analog and Mixed-Signal Circuits with Graph Neural Networks](https://ieeexplore.ieee.org/document/9586211)",
+    "authors": "Hao Chen, Keren Zhu, Mingjie Liu, Xiyuan Tang, Nan Sun, and David Z. Pan",
+    "author_names": [
+      "Hao Chen",
+      "Keren Zhu",
+      "Mingjie Liu",
+      "Xiyuan Tang",
+      "Nan Sun",
+      "David Z. Pan"
+    ],
+    "venue": "ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, December 5-9, 2021.",
+    "year": 2021,
+    "type": "Conference",
+    "notes": []
+  },
+  {
+    "id": "C12",
+    "topics": ["computing"],
+    "title": "[Optimizer Fusion: Efficient Training with Better Locality and Parallelism](https://arxiv.org/abs/2104.00237)",
+    "authors": "Zixuan Jiang, Jiaqi Gu, Mingjie Liu, Keren Zhu and David Z. Pan",
+    "author_names": [
+      "Zixuan Jiang",
+      "Jiaqi Gu",
+      "Mingjie Liu",
+      "Keren Zhu",
+      "David Z. Pan"
+    ],
+    "venue": "International  Conference  on  Learning  Representations  (ICLR)Workshop, Hardware Aware Efficient Training (HAET), May 07, 2021.",
+    "year": 2021,
+    "type": "Conference",
+    "notes": []
+  },
+  {
+    "id": "C11",
+    "topics": ["analog","computing"],
+    "title": "[An In-Memory-Computing Charge-Domain Ternary CNN Classifier](https://ieeexplore.ieee.org/document/9431398)",
+    "authors": "Xiangxing Yang, Keren Zhu, Xiyuan Tang, Meizhi Wang, Mingtao Zhan, Nanshu Lu, Jaydeep P. Kulkarni, David Z. Pan, Yongpan Liu and Nan Sun",
+    "author_names": [
+      "Xiangxing Yang",
+      "Keren Zhu",
+      "Xiyuan Tang",
+      "Meizhi Wang",
+      "Mingtao Zhan",
+      "Nanshu Lu",
+      "Jaydeep P. Kulkarni",
+      "David Z. Pan",
+      "Yongpan Liu",
+      "Nan Sun"
+    ],
+    "venue": "2021 IEEE Custom Integrated Circuits Conference (CICC), Virtual Event, April 25-30, 2021.",
+    "year": 2021,
+    "type": "Conference",
+    "notes": [
+      "<a href=\"/publications/papers/A_CICC2021_Yang_slides.pdf\" style=\"color:#3793ae\">slides</a>",
+      "**Best Student Paper Award Nomination**"
+    ]
+  },
+  {
+    "id": "C10",
+    "topics": ["physical","analog"],
+    "title": "[MAGICAL 1.0: An Open-Source Fully-Automated AMS Layout Synthesis Framework Verified With a 40-nm 1GS/s Δ∑ ADC](https://ieeexplore.ieee.org/document/9431521)",
+    "authors": "Hao Chen\\*, Mingjie Liu\\*, Xiyuan Tang\\*, Keren Zhu\\*, Abhishek Mukherjee, Nan Sun and David Z. Pan",
+    "author_names": [
+      "Hao Chen",
+      "Mingjie Liu",
+      "Xiyuan Tang",
+      "Keren Zhu",
+      "Abhishek Mukherjee",
+      "Nan Sun",
+      "David Z. Pan"
+    ],
+    "venue": "2021 IEEE Custom Integrated Circuits Conference (CICC), Virtual Event, April 25-30, 2021.",
+    "year": 2021,
+    "type": "Conference",
+    "notes": [
+      "<a href=\"/publications/papers/AC_CICC2021_MAGICAL.pptx\" style=\"color:#3793ae\">slides</a> \\| <a href=\"https://www.youtube.com/watch?v=dLxTc6DcLOk\" style=\"color:#3793ae\">video</a>",
+      "\\*indicates equal contributions"
+    ]
+  },
+  {
+    "id": "C9",
+    "topics": ["ai","synthesis"],
+    "title": "[Exploring Logic Optimizations with Reinforcement Learning and Graph Convolutional Network](https://dl.acm.org/doi/abs/10.1145/3380446.3430622)",
+    "authors": "Keren Zhu, Mingjie Liu, Hao Chen, Zheng Zhao and David Z. Pan",
+    "author_names": [
+      "Keren Zhu",
+      "Mingjie Liu",
+      "Hao Chen",
+      "Zheng Zhao",
+      "David Z. Pan"
+    ],
+    "venue": "2nd ACM/IEEE Workshop on Machine Learning for CAD (MLCAD),Virtual Event, Iceland, November 16-20, 2020.",
+    "year": 2020,
+    "type": "Conference",
+    "notes": [
+      "<a href=\"/publications/papers/LS_MLCAD2020_ZHU.pdf\" style=\"color:#3793ae\">preprint</a> \\| <a href=\"https://github.com/krzhu/abcRL\" style=\"color:#3793ae\">source codes</a> \\|  <a href=\"/publications/papers/LS_MLCAD2020_ZHU_slides.pptx\" style=\"color:#3793ae\">slides</a>"
+    ]
+  },
+  {
+    "id": "C8",
+    "topics": ["physical","analog"],
+    "title": "[Toward Silicon-Proven Detailed Routing for Analog and Mixed-Signal Circuits](https://ieeexplore.ieee.org/document/9256548)",
+    "authors": "Hao Chen, Keren Zhu, Mingjie Liu, Xiyuan Tang, Nan Sun and David Z. Pan",
+    "author_names": [
+      "Hao Chen",
+      "Keren Zhu",
+      "Mingjie Liu",
+      "Xiyuan Tang",
+      "Nan Sun",
+      "David Z. Pan"
+    ],
+    "venue": "IEEE/ACM International Conference on Computer-Aided Design (ICCAD), November 02-05, 2020.",
+    "year": 2020,
+    "type": "Conference",
+    "notes": [
+      "<a href=\"/publications/papers/AR_ICCAD20_CHEN.pdf\" style=\"color:#3793ae\">preprint</a> \\|  <a href=\"/publications/papers/AR_ICCAD20_CHEN_slides.pdf\" style=\"color:#3793ae\">slides</a>"
+    ]
+  },
+  {
+    "id": "C7",
+    "topics": ["physical","analog"],
+    "title": "[Effective Analog/Mixed-Signal Circuit Placement Considering System Signal Flow](https://ieeexplore.ieee.org/document/9256717)",
+    "authors": "Keren Zhu, Hao Chen, Mingjie Liu, Xiyuan Tang, Nan Sun and David Z. Pan",
+    "author_names": [
+      "Keren Zhu",
+      "Hao Chen",
+      "Mingjie Liu",
+      "Xiyuan Tang",
+      "Nan Sun",
+      "David Z. Pan"
+    ],
+    "venue": "IEEE/ACM International Conference on Computer-Aided Design (ICCAD), November 02-05, 2020.",
+    "year": 2020,
+    "type": "Conference",
+    "notes": [
+      "<a href=\"/publications/papers/AP_ICCAD20_ZHU.pdf.pdf\" style=\"color:#3793ae\">preprint</a> \\| <a href=\"https://github.com/krzhu/IdeaPlaceEx\" style=\"color:#3793ae\">source codes</a>  \\|  <a href=\"/publications/papers/AP_ICCAD20_ZHU_slides.pptx\" style=\"color:#3793ae\">slides</a>",
+      "Best Paper Candidate Nominated from Track"
+    ]
+  },
+  {
+    "id": "C6",
+    "topics": ["computing"],
+    "title": "[An Efficient Training Framework for Reversible Neural Architectures](https://link.springer.com/chapter/10.1007%2F978-3-030-58583-9_17/)",
+    "authors": "Zixuan Jiang, Keren Zhu, Mingjie Liu, Jiaqi Gu and David Z. Pan",
+    "author_names": [
+      "Zixuan Jiang",
+      "Keren Zhu",
+      "Mingjie Liu",
+      "Jiaqi Gu",
+      "David Z. Pan"
+    ],
+    "venue": "European Conference on Computer Vision (ECCV), Glasgow, United Kingdom, August 23-27, 2020.",
+    "year": 2020,
+    "type": "Conference",
+    "notes": [
+      "<a href=\"/publications/papers/ML_ECCV20_JIANG.pdf\" style=\"color:#3793ae\">preprint</a> \\| <a href=\"/publications/papers/ML_ECCV20_JIANG.pptx\"  style=\"color:#3793ae\">slides</a>"
+    ]
+  },
+  {
+    "id": "C5",
+    "topics": ["ai","physical","analog"],
+    "title": "[Closing the Design Loop: Bayesian Optimization Assisted Hierarchical Analog Layout Synthesis](https://ieeexplore.ieee.org/document/9218621)",
+    "authors": "Mingjie Liu, Keren Zhu, Xiyuan Tang, Biying Xu, Wei Shi, Nan Sun and David Z. Pan",
+    "author_names": [
+      "Mingjie Liu",
+      "Keren Zhu",
+      "Xiyuan Tang",
+      "Biying Xu",
+      "Wei Shi",
+      "Nan Sun",
+      "David Z. Pan"
+    ],
+    "venue": "ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, July 19-23, 2020.",
+    "year": 2020,
+    "type": "Conference",
+    "notes": []
+  },
+  {
+    "id": "C4",
+    "topics": ["ai","physical","analog"],
+    "title": "[Towards Decrypting the Art of Analog Layout: Placement Quality Prediction via Transfer Learning](https://ieeexplore.ieee.org/document/9116330)",
+    "authors": "Mingjie Liu \\*, Keren Zhu \\*, Jiaqi Gu, Linxiao Shen, Xiyuan Tang, Nan Sun and David Z. Pan",
+    "author_names": [
+      "Mingjie Liu",
+      "Keren Zhu",
+      "Jiaqi Gu",
+      "Linxiao Shen",
+      "Xiyuan Tang",
+      "Nan Sun",
+      "David Z. Pan"
+    ],
+    "venue": "IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Grenoble, France, Mar. 09-13, 2020.",
+    "year": 2020,
+    "type": "Conference",
+    "notes": [
+      "<a href=\"/publications/papers/A_DATE20_LIU.pdf\" style=\"color:#3793ae\">preprint</a> \\| <a href=\"/publications/papers/A_DATE20_LIU_slides.pptx\"  style=\"color:#3793ae\">slides</a> \\| <a href=\"https://github.com/magical-eda/UT-AnLay\" style=\"color:#3793ae\">source codes</a>",
+      "\\*indicates equal contributions"
+    ]
+  },
+  {
+    "id": "C3",
+    "topics": ["physical","analog"],
+    "title": "[S3DET: Detecting System Symmetry Constraints for Analog Circuits with Graph Similarity](https://ieeexplore.ieee.org/document/9045109)",
+    "authors": "Mingjie Liu, Wuxi Li, Keren Zhu, Biying Xu, Yibo Lin, Linxiao Shen, Xiyuan Tang, Nan Sun and David Z. Pan",
+    "author_names": [
+      "Mingjie Liu",
+      "Wuxi Li",
+      "Keren Zhu",
+      "Biying Xu",
+      "Yibo Lin",
+      "Linxiao Shen",
+      "Xiyuan Tang",
+      "Nan Sun",
+      "David Z. Pan"
+    ],
+    "venue": "IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC),  Beijing, China, January 13-16, 2020.",
+    "year": 2020,
+    "type": "Conference",
+    "notes": [
+      "\\| <a href=\"https://github.com/magical-eda/MAGICAL/blob/93d01d29d426e4c3afdf48e24b24a0202110e75e/flow/python/S3DET.py\" style=\"color:#3793ae\">codes for reference</a>",
+      "**Best Paper Award Nomination**"
+    ]
+  },
+  {
+    "id": "C2",
+    "topics": ["ai","physical","analog"],
+    "title": "[MAGICAL: Toward Fully Automated Analog IC Layout Leveraging Human and Machine Intelligence](https://ieeexplore.ieee.org/document/8942060)",
+    "authors": "Biying Xu, Keren Zhu, Mingjie Liu, Yibo Lin, Shaolan Li, Xiyuan Tang, Nan Sun, and David Z. Pan",
+    "author_names": [
+      "Biying Xu",
+      "Keren Zhu",
+      "Mingjie Liu",
+      "Yibo Lin",
+      "Shaolan Li",
+      "Xiyuan Tang",
+      "Nan Sun",
+      "David Z. Pan"
+    ],
+    "venue": "IEEE/ACM International Conference on Computer-Aided Design (ICCAD),  Westminster, CO, USA, November 4-7, 2019.",
+    "year": 2019,
+    "type": "Conference",
+    "notes": [
+      "Invited",
+      "<a href=\"/publications/papers/A_ICCAD2019_Xu.pdf\" style=\"color:#3793ae\">preprint</a> \\| <a href=\"/publications/papers/A_ICCAD2019_Xu.slides.pptx\" style=\"color:#3793ae\">slides</a>"
+    ]
+  },
+  {
+    "id": "C1",
+    "topics": ["ai","physical","analog"],
+    "title": "[GeniusRoute: A New Routing Paradigm Using Generative Neural Network Guidance for Analog Circuits](https://ieeexplore.ieee.org/document/8942164)",
+    "authors": "Keren Zhu, Mingjie Liu, Yibo Lin, Biying Xu, Shaolan Li, Xiyuan Tang, Nan Sun and David Z. Pan",
+    "author_names": [
+      "Keren Zhu",
+      "Mingjie Liu",
+      "Yibo Lin",
+      "Biying Xu",
+      "Shaolan Li",
+      "Xiyuan Tang",
+      "Nan Sun",
+      "David Z. Pan"
+    ],
+    "venue": "IEEE/ACM International Conference on Computer-Aided Design (ICCAD),  Westminster, CO, USA, November 4-7, 2019.",
+    "year": 2019,
+    "type": "Conference",
+    "notes": [
+      "<a href=\"/publications/papers/AR_ICCAD2019_zhu.pdf\" style=\"color:#3793ae\">preprint</a> \\| <a href=\"/publications/papers/AR_ICCAD2019_Zhu.slides_v4.pptx\" style=\"color:#3793ae\">slides</a>",
+      "Best Paper Candidate Nominated from Track"
+    ]
+  },
+  {
+    "id": "P1",
+    "topics": ["ai","physical"],
+    "title": "[Provably Good Prim-Dijkstra Revisited: New Theory and a Practical Algorithm for a Classical VLSI Routing Problem with LLMs](https://arxiv.org/abs/2607.17005)",
+    "authors": "Keren Zhu",
+    "author_names": [
+      "Keren Zhu"
+    ],
+    "venue": "arXiv preprint arXiv:2607.17005, 2026.",
+    "year": 2026,
+    "type": "Preprint",
+    "notes": [
+      "<a href=\"https://github.com/CODA-Team/hp-rcrst\" style=\"color:#3793ae\">Code and reproducibility materials</a>"
+    ]
+  }
+]

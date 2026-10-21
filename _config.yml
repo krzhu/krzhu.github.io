@@ -1,0 +1,48 @@
+title: "CODA lab · Fudan University"
+description: "CODA lab at Fudan University. Design automation, computing systems, and cross-layer co-optimization."
+url: "https://krz.engineer"
+baseurl: ""
+repository: "krzhu/krzhu.github.io"
+lang: en
+timezone: Asia/Shanghai
+future: true
+
+analytics:
+  google:
+    measurement_id: "G-V75GJ30CTR"
+    tracking_id: "UA-178663221-1"
+
+include:
+  - _pages
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .bundle
+
+collections:
+  people:
+    output: true
+    permalink: /people/:path/
+  blog:
+    output: true
+    permalink: /blog/:path/
+
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-redirect-from
+whitelist:
+  - jekyll-sitemap
+  - jekyll-redirect-from

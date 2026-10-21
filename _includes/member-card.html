@@ -1,0 +1,9 @@
+{% assign member = include.member %}
+<article class="member" id="{{ member.id }}">
+  <a class="member-link" href="{{ member.url | relative_url }}">
+    <img class="member-photo{% if member.photo_is_placeholder %} member-placeholder{% endif %}" src="{{ member.photo | relative_url }}" alt="" width="240" height="240" loading="lazy"{% if member.photo_position %} style="object-position: {{ member.photo_position }}"{% endif %}>
+    <h3>{{ member.name }}</h3>
+  </a>
+  <p class="member-role">{{ member.role }}</p>
+  {% if member.status == 'alumni' %}<p class="member-period">{{ member.program }}, {{ member.period }}</p>{% endif %}
+</article>

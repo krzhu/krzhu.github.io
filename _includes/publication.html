@@ -1,0 +1,22 @@
+{% assign paper = include.paper %}
+{% assign display_title = paper.title %}
+{% if display_title contains '](https://ieeexplore.ieee.org/document/)' %}
+  {% assign display_title = display_title | remove: '](https://ieeexplore.ieee.org/document/)' | remove_first: '[' %}
+{% endif %}
+{% capture search_text %}{{ paper.title | markdownify | strip_html }} {{ paper.authors | markdownify | strip_html }} {{ paper.venue }} {{ paper.notes | join: ' ' | markdownify | strip_html }}{% endcapture %}
+<article class="publication"{% if paper.id %} id="paper-{{ paper.id }}"{% endif %}{% unless include.compact %} data-publication data-year="{{ paper.year }}" data-type="{{ paper.type }}" data-search="{{ search_text | strip_newlines | normalize_whitespace | escape }}"{% endunless %}>
+  {% unless include.compact %}{% for anchor in paper.anchors %}<span id="{{ anchor }}" class="anchor-target" aria-hidden="true"></span>{% endfor %}{% endunless %}
+  <h3 class="publication-title">{% unless include.compact %}<span class="publication-id">{{ paper.id }}.</span> {% endunless %}{% if paper.url %}<a href="{{ paper.url }}">{{ display_title }}</a>{% else %}{{ display_title | markdownify | remove: '<p>' | remove: '</p>' }}{% endif %}</h3>
+  {% assign authors = paper.authors %}
+  {% for author in site.data.people %}
+    {% capture author_link %}[{{ author.name }}]({{ author.url | relative_url }}){% endcapture %}
+    {% assign authors = authors | replace: author.name, author_link %}
+  {% endfor %}
+  <div class="publication-authors">{{ authors | markdownify }}</div>
+  <p class="publication-venue">{{ paper.venue }}</p>
+  {% if paper.notes.size > 0 %}
+  <ul class="publication-notes">
+    {% for note in paper.notes %}<li>{{ note | markdownify | remove: '<p>' | remove: '</p>' }}</li>{% endfor %}
+  </ul>
+  {% endif %}
+</article>

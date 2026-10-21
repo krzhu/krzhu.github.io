@@ -1,0 +1,666 @@
+[
+  {
+    "id": "cunqing-lan",
+    "name": "Cunqing Lan",
+    "status": "current",
+    "role": "Ph.D. student",
+    "program": "M.S.-Ph.D.",
+    "period": "From Fall 2023",
+    "previous": "M.S., Fudan",
+    "joint": "",
+    "url": "/people/cunqing-lan/",
+    "photo": "/images/people/coda-cat.png",
+    "photo_is_placeholder": true,
+    "bio": "Works on physically aware logic synthesis and technology mapping.",
+    "experience": [
+      {
+        "position": "Intern",
+        "organization": "Trace Intelligence",
+        "url": "https://www.traceic.com/"
+      }
+    ],
+    "highlights": [
+      {
+        "text": "First place (27 teams), MLCAD 2025 ReSynthAI contest"
+      },
+      {
+        "text": "Excellent Demo Award, CCF-DAC Demo Contest, 2025 — PhyLS"
+      }
+    ]
+  },
+  {
+    "id": "zijian-jiang",
+    "name": "Zijian Jiang",
+    "status": "current",
+    "role": "Ph.D. student",
+    "program": "M.S.-Ph.D.",
+    "period": "From Fall 2023",
+    "previous": "M.S., Fudan",
+    "joint": "",
+    "url": "/people/zijian-jiang/",
+    "photo": "/images/people/coda-cat.png",
+    "photo_is_placeholder": true,
+    "links": [
+      {
+        "label": "ORCID",
+        "url": "https://orcid.org/0009-0009-4345-433X"
+      }
+    ],
+    "bio": "Recent work includes learning-based logic synthesis and physically aware synthesis sequences."
+  },
+  {
+    "id": "yujie-yan",
+    "name": "Yujie Yan",
+    "status": "current",
+    "role": "Ph.D. student",
+    "program": "Ph.D.",
+    "period": "From Fall 2024",
+    "previous": "B.S., HUST",
+    "joint": "",
+    "url": "/people/yujie-yan/",
+    "photo": "/images/people/yujie-yan.jpg",
+    "photo_is_placeholder": false,
+    "name_zh": "严宇杰",
+    "photo_position": "50% 42%",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://yjyan6191-blip.github.io/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/yjyan6191-blip"
+      }
+    ],
+    "email_display": "y.yan-91 AT sms.ed.ac.uk",
+    "bio": "Works on high-level synthesis, compilers, and learning-based design automation.",
+    "education": [
+      "Ph.D. studies, Fudan University, 2021–present",
+      "B.Eng., Huazhong University of Science and Technology, 2021"
+    ],
+    "experience": [
+      "Visiting Ph.D. student, University of Edinburgh, since April 2026; hosted by Jianyi Cheng",
+      "Algorithm intern, UniVista, July 2024–January 2026",
+      "Software / HLS intern, Fudan Microelectronics, June 2023–June 2024",
+      "EDA software intern, Fudan Microelectronics, summer 2021"
+    ],
+    "highlights": [
+      {
+        "text": "CSC-funded doctoral research visit, University of Edinburgh, 2026"
+      },
+      {
+        "text": "Second place worldwide, UCLA–AMD Machine Learning Contest for Chip Design with HLS",
+        "url": "https://www.kaggle.com/competitions/machine-learning-contest-for-high-level-synthesis/overview"
+      },
+      {
+        "text": "National Excellence Award, China Undergraduate IC Innovation and Entrepreneurship Competition"
+      },
+      {
+        "text": "Honorable Mention, MCM/ICM mathematical modeling competition"
+      },
+      {
+        "text": "Fudan University Academic Scholarship: first class once and second class twice"
+      },
+      {
+        "text": "Outstanding Student, Fudan University"
+      },
+      {
+        "text": "Outstanding Graduate, Huazhong University of Science and Technology, 2021"
+      }
+    ]
+  },
+  {
+    "id": "chuyu-wang",
+    "name": "Chuyu Wang",
+    "status": "current",
+    "role": "Ph.D. student",
+    "program": "Ph.D.",
+    "period": "From Fall 2024",
+    "previous": "B.S., Fudan",
+    "joint": "With Prof. Xuan Zeng",
+    "url": "/people/chuyu-wang/",
+    "photo": "/images/people/coda-cat.png",
+    "photo_is_placeholder": true,
+    "bio": "Recent work includes dataflow-aware computing-in-memory layout and timing-driven global routing.",
+    "experience": [
+      {
+        "position": "Intern",
+        "organization": "ByteDance",
+        "url": "https://www.bytedance.com/en/"
+      }
+    ],
+    "highlights": [
+      {
+        "text": "Third place (46 teams), ISPD 2025 Performance-Driven Global Routing Contest",
+        "url": "https://www.ispd.cc/contests/25/index.html"
+      }
+    ]
+  },
+  {
+    "id": "liwen-jiang",
+    "name": "Liwen Jiang",
+    "status": "current",
+    "role": "Doctor of Engineering student",
+    "program": "DEng",
+    "period": "From Fall 2024",
+    "previous": "B.S., Huaqiao Uni.",
+    "joint": "With Prof. Zhiang Wang",
+    "url": "/people/liwen-jiang/",
+    "photo": "/images/people/liwen-jiang.jpg",
+    "photo_is_placeholder": false,
+    "name_zh": "姜力文",
+    "photo_position": "50% 44%",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.mp333player.com/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/liW-J"
+      }
+    ],
+    "bio": "Works on VLSI physical design and placement.",
+    "education": [
+      "Doctor of Engineering studies, Fudan University, since 2024",
+      "B.Eng., Huaqiao University, 2024"
+    ],
+    "experience": [
+      "Intern, ByteDance",
+      "Algorithm intern, UniVista, 2025"
+    ],
+    "extra_publications": [
+      {
+        "title": "Invited: Toward Sustainable and Transparent Benchmarking for Academic Physical Design Research",
+        "authors": "Liwen Jiang, Andrew B. Kahng, Zhiang Wang, and Zhiyu Zheng",
+        "venue": "International Symposium on Physical Design (ISPD), 2026",
+        "url": "https://www.mp333player.com/assets/pdf/ISPD26_paper_zhiyu+liwen.pdf",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "jinhong-huang",
+    "name": "Jinhong Huang",
+    "status": "current",
+    "role": "Ph.D. student",
+    "program": "Ph.D.",
+    "period": "From Fall 2024",
+    "previous": "B.S., Fuzhou Uni.",
+    "joint": "With Prof. Xuan Zeng",
+    "url": "/people/jinhong-huang/",
+    "photo": "/images/people/coda-cat.png",
+    "photo_is_placeholder": true,
+    "bio": "Recent work includes chiplet placement and neural parasitic modeling for power-delivery networks."
+  },
+  {
+    "id": "zecheng-xu",
+    "name": "Zecheng Xu",
+    "status": "current",
+    "role": "Doctor of Engineering student",
+    "program": "DEng",
+    "period": "From Fall 2024",
+    "previous": "B.S., Fudan",
+    "joint": "With Prof. Yumao Wu",
+    "url": "/people/zecheng-xu/",
+    "photo": "/images/people/coda-cat.png",
+    "photo_is_placeholder": true,
+    "bio": "Recent work includes timing-driven routing and automated circuit layout.",
+    "experience": [
+      {
+        "position": "Intern",
+        "organization": "Empyrean Technology (华大九天)",
+        "url": "https://www.empyrean.com.cn/"
+      }
+    ],
+    "highlights": [
+      {
+        "text": "Third place (46 teams), ISPD 2025 Performance-Driven Global Routing Contest",
+        "url": "https://www.ispd.cc/contests/25/index.html"
+      }
+    ]
+  },
+  {
+    "id": "xinglong-yan",
+    "name": "Xinglong Yan",
+    "status": "current",
+    "role": "Master’s student",
+    "program": "M.S.",
+    "period": "From Fall 2024",
+    "previous": "B.S., Tongji",
+    "joint": "",
+    "url": "/people/xinglong-yan/",
+    "photo": "/images/people/coda-cat.png",
+    "photo_is_placeholder": true,
+    "bio": "Recent work includes automated dataflow-aware layout for digital computing-in-memory circuits.",
+    "experience": [
+      {
+        "position": "Intern",
+        "organization": "Analog Devices (ADI)",
+        "url": "https://www.analog.com/en/index.html"
+      }
+    ]
+  },
+  {
+    "id": "guanhua-chen",
+    "name": "Guanhua Chen",
+    "status": "current",
+    "role": "Ph.D. student",
+    "program": "Ph.D.",
+    "period": "From Spring 2025",
+    "previous": "B.S., Shandong Uni.",
+    "joint": "With Prof. Changhao Yan",
+    "url": "/people/guanhua-chen/",
+    "photo": "/images/people/coda-cat.png",
+    "photo_is_placeholder": true,
+    "bio": "Works on high-level synthesis design-space exploration and circuit placement.",
+    "experience": [
+      {
+        "position": "Founding Engineering Intern",
+        "organization": "Trace Intelligence",
+        "url": "https://www.traceic.com/"
+      }
+    ]
+  },
+  {
+    "id": "xinyi-yang",
+    "name": "Xinyi Yang",
+    "status": "current",
+    "role": "Ph.D. student",
+    "program": "Ph.D.",
+    "period": "From Fall 2025",
+    "previous": "B.S., Fudan",
+    "joint": "",
+    "url": "/people/xinyi-yang/",
+    "photo": "/images/people/coda-cat.png",
+    "photo_is_placeholder": true,
+    "experience": [
+      {
+        "position": "Intern",
+        "organization": "培风图南半导体",
+        "url": "https://www.pftn-semi.com/"
+      }
+    ],
+    "highlights": [
+      {
+        "text": "National Third Prize, China Postgraduate Chip Innovation Competition — EDA Elite Challenge, 2024"
+      }
+    ]
+  },
+  {
+    "id": "boxiang-song",
+    "name": "Boxiang Song",
+    "status": "current",
+    "role": "Ph.D. student",
+    "program": "Ph.D.",
+    "period": "From Fall 2025",
+    "previous": "B.S., Wuhan Uni.",
+    "joint": "",
+    "url": "/people/boxiang-song/",
+    "photo": "/images/people/coda-cat.png",
+    "photo_is_placeholder": true,
+    "bio": "Recent work includes timing-driven global routing and power-delivery-network modeling.",
+    "highlights": [
+      {
+        "text": "Third place (46 teams), ISPD 2025 Performance-Driven Global Routing Contest",
+        "url": "https://www.ispd.cc/contests/25/index.html"
+      },
+      {
+        "text": "Excellence Award, openDACS Open-Source EDA and Chip Design Competition, 2025"
+      }
+    ]
+  },
+  {
+    "id": "benchao-zhu",
+    "name": "Benchao Zhu",
+    "status": "current",
+    "role": "Ph.D. student",
+    "program": "Ph.D.",
+    "period": "From Fall 2025",
+    "previous": "M.S., Fudan",
+    "joint": "",
+    "url": "/people/benchao-zhu/",
+    "photo": "/images/people/coda-cat.png",
+    "photo_is_placeholder": true,
+    "links": [
+      {
+        "label": "ORCID",
+        "url": "https://orcid.org/0009-0005-6598-3938"
+      }
+    ],
+    "bio": "Works on physical design, including detailed placement and multi-bit flip-flop synthesis.",
+    "extra_publications": [
+      {
+        "title": "Late Breaking Results: Mixed-Cell-Height Detailed Placement under Multi-Cell Spacing Constraints",
+        "authors": "Benchao Zhu, Zheng Zeng, and Jianli Chen",
+        "venue": "Design Automation Conference (DAC), 2024",
+        "url": "https://doi.org/10.1145/3649329.3663499",
+        "year": 2024
+      }
+    ],
+    "highlights": [
+      {
+        "text": "First place, ISPD 2023 contest, as a member of team FDUEDA",
+        "url": "https://www.ispd.cc/contests/23/index.html"
+      }
+    ]
+  },
+  {
+    "id": "yu-deng",
+    "name": "Yu Deng",
+    "status": "current",
+    "role": "M.Phil. student",
+    "program": "M.Phil.",
+    "period": "From Fall 2025",
+    "previous": "B.S., Fudan",
+    "joint": "",
+    "url": "/people/yu-deng/",
+    "photo": "/images/people/coda-cat.png",
+    "photo_is_placeholder": true,
+    "highlights": [
+      {
+        "text": "National Third Prize, China Postgraduate Chip Innovation Competition — EDA Elite Challenge, 2024"
+      }
+    ]
+  },
+  {
+    "id": "zhouyang-wu",
+    "name": "Zhouyang Wu",
+    "status": "current",
+    "role": "Ph.D. student",
+    "program": "Ph.D.",
+    "period": "From Fall 2025",
+    "previous": "B.S., Fudan",
+    "joint": "With Prof. Xuan Zeng",
+    "url": "/people/zhouyang-wu/",
+    "photo": "/images/people/coda-cat.png",
+    "photo_is_placeholder": true,
+    "bio": "Recent work includes layout-aware standard-cell synthesis using Bayesian optimization.",
+    "experience": [
+      {
+        "position": "Intern",
+        "organization": "Trace Intelligence",
+        "url": "https://www.traceic.com/"
+      }
+    ]
+  },
+  {
+    "id": "shuang-li",
+    "name": "Shuang Li",
+    "name_zh": "李爽",
+    "status": "current",
+    "role": "Master’s student",
+    "program": "M.S.",
+    "period": "From Fall 2025",
+    "previous": "B.S., Fudan",
+    "joint": "",
+    "url": "/people/shuang-li/",
+    "photo": "/images/people/coda-cat.png",
+    "photo_is_placeholder": true,
+    "experience": [
+      {
+        "position": "Intern",
+        "organization": "MetaX (沐曦)",
+        "url": "https://www.metax-tech.com/"
+      }
+    ]
+  },
+  {
+    "id": "xin-huang",
+    "name": "Xin Huang",
+    "status": "current",
+    "role": "Ph.D. student",
+    "program": "Ph.D.",
+    "period": "From Fall 2025",
+    "previous": "B.S., SJTU",
+    "joint": "With Changhao Yan",
+    "url": "/people/xin-huang/",
+    "photo": "/images/people/coda-cat.png",
+    "photo_is_placeholder": true,
+    "experience": [
+      {
+        "position": "Intern",
+        "organization": "CUMEC",
+        "url": "https://www.cumec.cn/"
+      }
+    ]
+  },
+  {
+    "id": "pujun-su",
+    "name": "Pujun Su",
+    "status": "current",
+    "role": "Master’s student",
+    "program": "M.S.",
+    "period": "From Fall 2025",
+    "previous": "B.S., Ocean University of China",
+    "joint": "With Prof. Danqing Wang",
+    "url": "/people/pujun-su/",
+    "photo": "/images/people/pujun-su.jpg",
+    "photo_is_placeholder": false,
+    "photo_position": "50% 35%",
+    "experience": [
+      {
+        "position": "Intern",
+        "organization": "CUMEC",
+        "url": "https://www.cumec.cn/"
+      }
+    ],
+    "highlights": [
+      {
+        "text": "National Third Prize, China Postgraduate Chip Innovation Competition — EDA Elite Challenge, 2025"
+      }
+    ]
+  },
+  {
+    "id": "yaojia-wang",
+    "name": "Yaojia Wang",
+    "status": "current",
+    "role": "Ph.D. student",
+    "program": "Ph.D.",
+    "period": "From Fall 2026",
+    "previous": "B.S., Fudan",
+    "joint": "",
+    "url": "/people/yaojia-wang/",
+    "photo": "/images/people/coda-cat.png",
+    "photo_is_placeholder": true,
+    "highlights": [
+      {
+        "text": "Best Student Paper Candidate, IWLS 2026 — Frontier-Based Joint Covering for Dual-Output LUT Mapping"
+      }
+    ]
+  },
+  {
+    "id": "xiaoyu-hao",
+    "name": "Xiaoyu Hao",
+    "status": "current",
+    "role": "Ph.D. student",
+    "program": "Ph.D.",
+    "period": "From Fall 2026",
+    "previous": "B.S., Southeast University",
+    "joint": "",
+    "url": "/people/xiaoyu-hao/",
+    "photo": "/images/people/coda-cat.png",
+    "photo_is_placeholder": true
+  },
+  {
+    "id": "yichen-long",
+    "name": "Yichen Long",
+    "status": "current",
+    "role": "Ph.D. student",
+    "program": "Ph.D.",
+    "period": "From Fall 2026",
+    "previous": "B.S., SJTU",
+    "joint": "",
+    "url": "/people/yichen-long/",
+    "photo": "/images/people/coda-cat.png",
+    "photo_is_placeholder": true,
+    "name_zh": "龙羿辰",
+    "program_note": "Fudan–Zhangjiang Laboratory Joint Training Program"
+  },
+  {
+    "id": "xunlei-jiang",
+    "name": "Xunlei Jiang",
+    "status": "current",
+    "role": "Master’s student",
+    "program": "M.S.",
+    "period": "From Fall 2026",
+    "previous": "B.S., Fudan",
+    "joint": "",
+    "url": "/people/xunlei-jiang/",
+    "photo": "/images/people/coda-cat.png",
+    "photo_is_placeholder": true,
+    "name_zh": "姜迅雷",
+    "highlights": [
+      {
+        "text": "National Third Prize, China Postgraduate Chip Innovation Competition — EDA Elite Challenge, 2024"
+      }
+    ]
+  },
+  {
+    "id": "keren-zhu",
+    "name": "Keren Zhu",
+    "name_zh": "朱可人",
+    "status": "current",
+    "role": "Assistant Professor",
+    "url": "/keren/",
+    "photo": "/images/people/keren-office-v2.jpg",
+    "photo_is_placeholder": false,
+    "email_display": "krzhu AT fudan.edu.cn",
+    "links": [
+      {
+        "label": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=WlvGP3kAAAAJ"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/krzhu"
+      },
+      {
+        "label": "ORCID",
+        "url": "https://orcid.org/0000-0003-2698-141X"
+      }
+    ],
+    "bio": "Assistant Professor in the College of Integrated Circuits & Micro-Nano Electronics at Fudan University. Research interests include design automation, optimization, and AI for chip design.",
+    "education": [
+      "Ph.D., Electrical and Computer Engineering, University of Texas at Austin",
+      "B.S., Electrical Engineering, University of Wisconsin–Madison; highest distinction"
+    ],
+    "experience": [
+      "Research Assistant Professor, Computer Science and Engineering, The Chinese University of Hong Kong, 2023–2024",
+      "Postdoctoral Research Fellow, Electrical and Computer Engineering, University of Texas at Austin, August 2022–February 2023; with David Z. Pan"
+    ],
+    "highlights": [
+      {
+        "text": "World Laureates Prize for Young Scientists Finalist, 2026"
+      },
+      {
+        "text": "MIT Technology Review Innovators Under 35 Asia Pacific, 2025"
+      },
+      {
+        "text": "Best Paper Award, ISEDA 2025"
+      }
+    ]
+  },
+  {
+    "id": "hongyang-pan",
+    "name": "Hongyang Pan",
+    "name_zh": "潘鸿洋",
+    "status": "alumni",
+    "role": "Founder & CEO, Trace Intelligence",
+    "program": "Ph.D.",
+    "period": "2023–2026",
+    "previous": "M.S., Ningbo University, 2023",
+    "joint": "With Prof. Fan Yang",
+    "url": "/people/hongyang-pan/",
+    "photo": "/images/people/hongyang-pan.jpg",
+    "photo_is_placeholder": false,
+    "photo_position": "50% 28%",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://panhomyoung.github.io/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/panhomyoung"
+      },
+      {
+        "label": "ORCID",
+        "url": "https://orcid.org/0009-0009-0874-4518"
+      },
+      {
+        "label": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=wWGegI8AAAAJ"
+      },
+      {
+        "label": "Trace Intelligence",
+        "url": "https://www.traceic.com/"
+      }
+    ],
+    "bio": "Founder and CEO of Trace Intelligence (淬思科技). Research interests include logic synthesis, physically aware synthesis, and SAT solving.",
+    "education": [
+      "Ph.D., Fudan University, 2026",
+      "M.S., Ningbo University, 2023",
+      "B.S., Ningbo University, 2019"
+    ],
+    "projects": [
+      {
+        "label": "PhyLS",
+        "url": "https://github.com/panhomyoung/phyLS",
+        "description": "A physically aware logic synthesis platform."
+      }
+    ],
+    "highlights": [
+      {
+        "text": "Best Student Paper Candidate, IWLS 2026 — Frontier-Based Joint Covering for Dual-Output LUT Mapping"
+      },
+      {
+        "text": "Second Prize, Fudan University Excellence Cup Innovation and Entrepreneurship Competition, 2026"
+      },
+      {
+        "text": "First place (27 teams), MLCAD 2025 ReSynthAI contest"
+      },
+      {
+        "text": "Excellent Demo Award, CCF-DAC Demo Contest, 2025 — PhyLS"
+      }
+    ]
+  },
+  {
+    "id": "xiaoyu-zhong",
+    "name": "Xiaoyu Zhong",
+    "status": "alumni",
+    "role": "Design Engineer, NVIDIA",
+    "program": "M.Phil.",
+    "period": "2023–2026",
+    "joint": "With Prof. Fan Yang",
+    "url": "/people/xiaoyu-zhong/",
+    "photo": "/images/people/coda-cat.png",
+    "photo_is_placeholder": true,
+    "bio": "Design Engineer at NVIDIA. Graduate research at Fudan included optimization methods for circuit sizing.",
+    "education": [
+      "M.Phil., Fudan University, 2026"
+    ],
+    "highlights": [
+      {
+        "text": "Best Paper Award, ISEDA 2025 — PZTA: Accelerating Analog Circuit Sizing With A Transferable Circuit Theory-Inspired Pole-Zero Transient Assertion System",
+        "url": "/publications/#paper-C44"
+      }
+    ]
+  },
+  {
+    "id": "siwen-wang",
+    "name": "Siwen Wang",
+    "status": "alumni",
+    "role": "Design Engineer, NVIDIA",
+    "program": "M.S.",
+    "period": "2023–2026",
+    "joint": "With Prof. Xuan Zeng",
+    "url": "/people/siwen-wang/",
+    "photo": "/images/people/coda-cat.png",
+    "photo_is_placeholder": true,
+    "bio": "Design Engineer at NVIDIA. Graduate research at Fudan included physics-informed RF design and parasitic modeling.",
+    "education": [
+      "M.S., Fudan University, 2026"
+    ]
+  }
+]
