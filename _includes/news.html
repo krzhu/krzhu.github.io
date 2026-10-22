@@ -17,7 +17,7 @@
     {% endfor %}
   </ul>
 {% if include.home %}
-  {% if news_items.size > news_limit %}<a class="news-archive-link" href="{{ '/news/' | relative_url }}">Older news →</a>{% endif %}
+  <a class="news-archive-link" href="{{ '/news/' | relative_url }}">All news →</a>
 </section>
 {% endif %}
 {% endif %}
