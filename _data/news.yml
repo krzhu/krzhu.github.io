@@ -1,0 +1,44 @@
+# Draft entries are visible in local development only. Set published: true
+# after editorial approval. Dates retain the precision supported by the CV;
+# order is editorial order, not an inferred event date.
+- id: icicm-best-presentation-2026
+  order: 80
+  date: "2026-10"
+  label: "Oct 2026"
+  published: true
+  text: >-
+    Keren Zhu gave an invited talk on
+    [agentic research in EDA](/blog/when-algorithmic-exploration-becomes-cheap/)
+    at ICICM 2026. Congratulations to undergraduate researchers Yixuan Zhuang,
+    Shiting Wang, and Ruiyao Qin on their [Best Presentation award](/publications/#paper-C68).
+
+- id: new-students-2026
+  order: 40
+  date: "2026"
+  label: "Fall 2026"
+  published: true
+  text: >-
+    Welcome to our new Ph.D. students [Yaojia Wang](/people/yaojia-wang/),
+    [Xiaoyu Hao](/people/xiaoyu-hao/), and [Yichen Long](/people/yichen-long/),
+    and master's student [Xunlei Jiang](/people/xunlei-jiang/).
+
+- id: graduates-2026
+  order: 30
+  date: "2026"
+  label: "2026"
+  published: true
+  text: >-
+    Congratulations to our 2026 graduates: [Hongyang Pan](/people/hongyang-pan/),
+    now Founder and CEO of [Trace Intelligence](https://www.traceic.com/),
+    and [Xiaoyu Zhong](/people/xiaoyu-zhong/) and [Siwen Wang](/people/siwen-wang/),
+    now Design Engineers at NVIDIA.
+
+- id: world-laureates-finalist-2026
+  order: 20
+  date: "2026"
+  label: "2026"
+  published: true
+  text: >-
+    [Keren Zhu](/keren/) was named a finalist for the
+    2026 World Laureates Prize for Young Scientists.
+

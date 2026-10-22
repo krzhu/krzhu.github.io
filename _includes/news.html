@@ -1,0 +1,23 @@
+{% assign news_items = site.data.news | where: 'published', true | sort: 'order' | reverse %}
+{% if jekyll.environment != 'production' %}
+  {% assign news_items = site.data.news | sort: 'order' | reverse %}
+{% endif %}
+{% assign news_limit = include.limit | default: news_items.size %}
+{% if news_items.size > 0 %}
+{% if include.home %}
+<section class="home-news" aria-labelledby="news-heading">
+  <h2 id="news-heading">News</h2>
+{% endif %}
+  <ul class="news-list">
+    {% for item in news_items limit: news_limit %}
+    <li class="news-item" id="{{ item.id | escape }}">
+      <time class="news-date" datetime="{{ item.date | escape }}">{{ item.label | escape }}</time>
+      <div class="news-text">{{ item.text | markdownify }}</div>
+    </li>
+    {% endfor %}
+  </ul>
+{% if include.home %}
+  {% if news_items.size > news_limit %}<a class="news-archive-link" href="{{ '/news/' | relative_url }}">Older news →</a>{% endif %}
+</section>
+{% endif %}
+{% endif %}

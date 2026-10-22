@@ -7,4 +7,5 @@ layout: academic
     <img src="{{ '/images/fudan-magnolia-hero.png' | relative_url }}" width="1672" height="941" fetchpriority="high" alt="White magnolia blossoms in front of the softly blurred laboratory entrance at Fudan.">
   </figure>
   <div class="home-introduction">{{ content }}</div>
+  {% include news.html home=true limit=6 %}
 </main>
