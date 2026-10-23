@@ -1,6 +1,17 @@
 # Draft entries are visible in local development only. Set published: true
 # after editorial approval. Dates retain the precision supported by the CV;
 # order is editorial order, not an inferred event date.
+- id: pyaether-cne-pdn-award-2026
+  order: 90
+  date: "2026-10"
+  label: "Oct 2026"
+  published: true
+  text: >-
+    Congratulations to Chengkai Zhu and the team! Their
+    [CNE-PDN work](https://github.com/ckzhu-research/CNE-PDN) on power delivery
+    network optimization received the Outstanding Achievement Award (卓越成果奖)
+    in Empyrean's 2026 PyAether Ecosystem Program.
+
 - id: icicm-best-presentation-2026
   order: 80
   date: "2026-10"
@@ -14,7 +25,7 @@
     at the conference.
 
 - id: new-students-2026
-  order: 40
+  order: 50
   date: "2026"
   label: "Fall 2026"
   published: true
@@ -25,8 +36,8 @@
 
 - id: graduates-2026
   order: 30
-  date: "2026"
-  label: "2026"
+  date: "2026-06"
+  label: "Jun 2026"
   published: true
   text: >-
     Congratulations to our 2026 graduates: [Hongyang Pan](/people/hongyang-pan/),
@@ -35,11 +46,21 @@
     now Design Engineers at NVIDIA.
 
 - id: world-laureates-finalist-2026
-  order: 20
-  date: "2026"
-  label: "2026"
+  order: 60
+  date: "2026-09"
+  label: "Sep 2026"
   published: true
   text: >-
     [Keren Zhu](/keren/) was named a finalist for the
     2026 World Laureates Prize for Young Scientists.
 
+- id: iwls-yaojia-candidate-2026
+  order: 20
+  date: "2026-05"
+  label: "May 2026"
+  published: true
+  text: >-
+    Congratulations to undergraduate researcher [Yaojia Wang](/people/yaojia-wang/),
+    whose work on dual-output LUT mapping was selected as a
+    [Best Student Paper Award Candidate](https://www.iwls.org/iwls2026/) at IWLS 2026.
+    Yaojia will join the group as a Ph.D. student after graduation.
