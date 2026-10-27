@@ -320,8 +320,9 @@
     "previous": "M.S., Fudan",
     "joint": "",
     "url": "/people/benchao-zhu/",
-    "photo": "/images/people/coda-cat.png",
-    "photo_is_placeholder": true,
+    "photo": "/images/people/benchao-zhu.jpg",
+    "photo_is_placeholder": false,
+    "photo_position": "50% 25%",
     "links": [
       {
         "label": "Website",
