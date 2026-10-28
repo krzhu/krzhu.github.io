@@ -2,8 +2,18 @@
   'use strict';
   const defaultPortraits = Array.from(document.querySelectorAll('img.member-placeholder'));
   if (defaultPortraits.length) {
-    // Pick once per page load so every default portrait uses the same cat.
-    const filename = Math.random() < 0.5 ? 'coda-cat-typing.png' : 'coda-cat-coffee.png';
+    // One choice per page: 90% typing, 2% for each of the five leisure scenes.
+    const leisurePortraits = [
+      'coda-cat-coffee.png',
+      'coda-cat-badminton.png',
+      'coda-cat-switch.png',
+      'coda-cat-television.png',
+      'coda-cat-shopping.png',
+    ];
+    const choice = Math.floor(Math.random() * 100);
+    const filename = choice < 90
+      ? 'coda-cat-typing.png'
+      : leisurePortraits[Math.floor((choice - 90) / 2)];
     const source = new URL(filename, defaultPortraits[0].src).href;
     defaultPortraits.forEach((portrait) => { portrait.src = source; });
   }
