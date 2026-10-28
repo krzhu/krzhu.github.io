@@ -524,8 +524,9 @@
   {
     "id": "shuyi-zhang",
     "name": "Shuyi Zhang",
+    "name_zh": "张书以",
     "status": "current",
-    "role": "Joint-program student",
+    "role": "Master’s student",
     "joint_program": "sisi",
     "program_note": "Fudan University–Shanghai Institute of Semiconductor Innovation (SISI) joint program",
     "url": "/people/shuyi-zhang/",
@@ -534,7 +535,8 @@
     "photo_position": "50% 35%",
     "email_display": "zhangshuyi26 AT m.fudan.edu.cn",
     "education": [
-      "Undergraduate studies, Nanjing University of Information Science and Technology (NUIST)"
+      "Master’s studies, Fudan University",
+      "Bachelor’s degree in Electronic Science and Technology, Nanjing University of Information Science and Technology (NUIST), 2021"
     ]
   },
   {
