@@ -13,7 +13,7 @@ redirect_from:
 <div class="people-grid">
   {% include member-card.html member=faculty %}
 {% for member in current_members %}
-  {% unless member.id == 'keren-zhu' %}
+  {% unless member.id == 'keren-zhu' or member.joint_program == 'sisi' %}
   {% include member-card.html member=member %}
   {% endunless %}
 {% endfor %}
@@ -32,7 +32,13 @@ redirect_from:
 
 <section class="joint-program">
   <h2>Shanghai Institute of Semiconductor Innovation (SISI)</h2>
-  <p lang="zh">上海创芯学院联培项目</p>
+  <p lang="zh">复旦–上海创芯学院联培项目</p>
+  {% assign sisi_members = current_members | where: 'joint_program', 'sisi' %}
+  <div class="people-grid">
+  {% for member in sisi_members %}
+    {% include member-card.html member=member %}
+  {% endfor %}
+  </div>
 </section>
 
 <p class="people-join">Interested in joining us? See our <a href="{{ '/opening/' | relative_url }}">information for prospective students</a>.</p>

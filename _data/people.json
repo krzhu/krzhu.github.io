@@ -522,6 +522,22 @@
     ]
   },
   {
+    "id": "shuyi-zhang",
+    "name": "Shuyi Zhang",
+    "status": "current",
+    "role": "Joint-program student",
+    "joint_program": "sisi",
+    "program_note": "Fudan University–Shanghai Institute of Semiconductor Innovation (SISI) joint program",
+    "url": "/people/shuyi-zhang/",
+    "photo": "/images/people/shuyi-zhang.jpg",
+    "photo_is_placeholder": false,
+    "photo_position": "50% 35%",
+    "email_display": "zhangshuyi26 AT m.fudan.edu.cn",
+    "education": [
+      "Undergraduate studies, Nanjing University of Information Science and Technology (NUIST)"
+    ]
+  },
+  {
     "id": "keren-zhu",
     "name": "Keren Zhu",
     "name_zh": "朱可人",

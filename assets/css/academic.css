@@ -159,7 +159,7 @@ th { font-weight: 500; }
 .all-publications-link { font-size: 13px; margin-top: 25px; }
 .joint-program { margin-top: 50px; }
 .joint-program h2 { font-size: 17px; }
-.joint-program p { color: var(--muted); font-size: 13px; }
+.joint-program > p { color: var(--muted); font-size: 13px; }
 .back-to-blog { display: inline-block; margin-bottom: 28px; font-size: 13px; }
 .blog-article { max-width: 760px; }
 .blog-header { margin-bottom: 32px; }
