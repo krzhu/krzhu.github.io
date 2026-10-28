@@ -6,4 +6,5 @@
   </a>
   <p class="member-role">{{ member.role }}</p>
   {% if member.status == 'alumni' %}<p class="member-period">{{ member.program }}, {{ member.period }}</p>{% endif %}
+  {% include profile-links.html member=member compact=true %}
 </article>

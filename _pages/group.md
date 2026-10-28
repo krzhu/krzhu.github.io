@@ -37,6 +37,7 @@ redirect_from:
   <li id="{{ member.id }}">
     <a href="{{ member.url | relative_url }}">{{ member.name }}</a> ({{ member.program }}, {{ member.period }}) —
     {% if member.id == 'hongyang-pan' %}Founder &amp; CEO, <a href="https://www.traceic.com/">Trace Intelligence</a>{% else %}{{ member.role }}{% endif %}
+    {% include profile-links.html member=member compact=true %}
   </li>
 {% endfor %}
 </ul>

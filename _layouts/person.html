@@ -12,11 +12,7 @@ layout: academic
       {% if member.status == 'current' %}<p class="person-affiliation">CODA lab · Fudan University</p>{% endif %}
       {% if member.status == 'alumni' %}<p class="person-affiliation">{{ member.program }}, Fudan University · {{ member.period }}</p>{% endif %}
       {% if member.period and member.status == 'current' %}<p class="person-membership">With the group {{ member.period | replace: 'From ', 'since ' }}</p>{% endif %}
-      {% if member.links.size > 0 %}
-      <nav class="person-links" aria-label="{{ member.name }}'s profiles">
-        {% for link in member.links %}<a href="{{ link.url }}">{{ link.label }}</a>{% endfor %}
-      </nav>
-      {% endif %}
+      {% include profile-links.html member=member %}
       {% if member.email_display %}<p class="email-text">{{ member.email_display }}</p>{% endif %}
     </div>
   </header>

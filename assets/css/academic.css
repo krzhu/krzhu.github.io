@@ -136,6 +136,13 @@ th { font-weight: 500; }
 .member p { font-size: 11.5px; margin: 0; color: var(--muted); line-height: 1.6; }
 .member .member-role { color: var(--ink); }
 .member .member-period { margin-top: 4px; }
+.profile-links { display: flex; flex-wrap: wrap; align-items: center; }
+.profile-link { display: inline-flex; align-items: center; gap: 6px; min-height: 32px; border-radius: 4px; }
+.profile-icon { display: block; flex: 0 0 18px; width: 18px; height: 18px; }
+.member-links { gap: 2px; margin: 6px 0 0 -7px; }
+.member-links .profile-link { justify-content: center; width: 32px; }
+.member-links .profile-link:hover, .member-links .profile-link:focus-visible { background: var(--header); text-decoration: none; }
+.alumni-list .member-links { display: inline-flex; vertical-align: middle; margin: 0 0 0 6px; }
 .group-content > h2 { margin-top: 56px; }
 .people-join { margin-top: 38px; font-size: 13px; }
 .back-to-people { display: inline-block; margin-bottom: 30px; font-size: 13px; }
@@ -146,7 +153,7 @@ th { font-weight: 500; }
 .person-heading p { margin: 0 0 4px; font-size: 13px; }
 .person-affiliation, .person-membership { color: var(--muted); }
 .person-heading .person-membership { font-size: 12px; }
-.person-links { display: flex; flex-wrap: wrap; gap: 5px 18px; margin-top: 14px; font-size: 12.5px; }
+.person-links { gap: 4px 18px; margin-top: 10px; font-size: 12.5px; }
 .person-heading .email-text { margin-top: 9px; font-size: 12px; }
 .email-text { overflow-wrap: anywhere; }
 .person-content h2 { margin-top: 34px; font-size: 18px; }

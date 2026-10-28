@@ -1,0 +1,25 @@
+{%- assign profile_member = include.member -%}
+{%- capture rendered_profile_links -%}
+  {%- for profile in profile_member.links -%}
+    {%- assign profile_kind = profile.label | downcase -%}
+    {%- assign profile_label = profile.label -%}
+    {%- assign show_profile = true -%}
+    {%- case profile_kind -%}
+      {%- when 'website' -%}{%- assign profile_label = 'Personal website' -%}
+      {%- when 'github', 'orcid', 'google scholar' -%}
+      {%- else -%}
+        {%- if include.compact -%}{%- assign show_profile = false -%}{%- endif -%}
+    {%- endcase -%}
+    {%- if show_profile and profile.url != blank -%}
+      <a class="profile-link" href="{{ profile.url | escape }}" title="{{ profile_member.name | escape }} · {{ profile_label | escape }}" aria-label="{{ profile_member.name | escape }} · {{ profile_label | escape }}">
+        {%- include profile-icon.html kind=profile_kind -%}
+        <span{% if include.compact %} class="visually-hidden"{% endif %}>{{ profile_label | escape }}</span>
+      </a>
+    {%- endif -%}
+  {%- endfor -%}
+{%- endcapture -%}
+{%- if rendered_profile_links != empty -%}
+<nav class="profile-links {% if include.compact %}member-links{% else %}person-links{% endif %}" aria-label="{{ profile_member.name | escape }}'s external profiles">
+  {{ rendered_profile_links }}
+</nav>
+{%- endif -%}
