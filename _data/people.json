@@ -272,8 +272,9 @@
     "previous": "B.S., Fudan",
     "joint": "",
     "url": "/people/xinyi-yang/",
-    "photo": "/images/people/coda-cat.png",
-    "photo_is_placeholder": true,
+    "photo": "/images/people/xinyi-yang.jpg",
+    "photo_is_placeholder": false,
+    "photo_position": "50% 65%",
     "experience": [
       {
         "position": "Intern",
@@ -537,6 +538,23 @@
     "education": [
       "Master’s studies, Fudan University",
       "Bachelor’s degree in Electronic Science and Technology, Nanjing University of Information Science and Technology (NUIST), 2021"
+    ],
+    "experience": [
+      {
+        "position": "Technical Support / FAE",
+        "organization": "Tektronix (China)",
+        "period": "December 2022–January 2024"
+      },
+      {
+        "position": "Project Management",
+        "organization": "Luxshare Precision",
+        "period": "May–December 2022"
+      },
+      {
+        "position": "Quality Engineer",
+        "organization": "Luxshare Precision",
+        "period": "July 2021–April 2022"
+      }
     ]
   },
   {
