@@ -9,7 +9,7 @@
     "previous": "M.S., Fudan",
     "joint": "",
     "url": "/people/cunqing-lan/",
-    "photo": "/images/people/coda-cat.png",
+    "photo": "/images/people/coda-cat-typing.png",
     "photo_is_placeholder": true,
     "bio": "Works on physically aware logic synthesis and technology mapping.",
     "experience": [
@@ -38,7 +38,7 @@
     "previous": "M.S., Fudan",
     "joint": "",
     "url": "/people/zijian-jiang/",
-    "photo": "/images/people/coda-cat.png",
+    "photo": "/images/people/coda-cat-typing.png",
     "photo_is_placeholder": true,
     "links": [
       {
@@ -119,7 +119,7 @@
     "previous": "B.S., Fudan",
     "joint": "With Prof. Xuan Zeng",
     "url": "/people/chuyu-wang/",
-    "photo": "/images/people/coda-cat.png",
+    "photo": "/images/people/coda-cat-typing.png",
     "photo_is_placeholder": true,
     "bio": "Recent work includes dataflow-aware computing-in-memory layout and timing-driven global routing.",
     "experience": [
@@ -189,7 +189,7 @@
     "previous": "B.S., Fuzhou Uni.",
     "joint": "With Prof. Xuan Zeng",
     "url": "/people/jinhong-huang/",
-    "photo": "/images/people/coda-cat.png",
+    "photo": "/images/people/coda-cat-typing.png",
     "photo_is_placeholder": true,
     "bio": "Recent work includes chiplet placement and neural parasitic modeling for power-delivery networks."
   },
@@ -203,7 +203,7 @@
     "previous": "B.S., Fudan",
     "joint": "With Prof. Yumao Wu",
     "url": "/people/zecheng-xu/",
-    "photo": "/images/people/coda-cat.png",
+    "photo": "/images/people/coda-cat-typing.png",
     "photo_is_placeholder": true,
     "bio": "Recent work includes timing-driven routing and automated circuit layout.",
     "experience": [
@@ -230,7 +230,7 @@
     "previous": "B.S., Tongji",
     "joint": "",
     "url": "/people/xinglong-yan/",
-    "photo": "/images/people/coda-cat.png",
+    "photo": "/images/people/coda-cat-typing.png",
     "photo_is_placeholder": true,
     "bio": "Recent work includes automated dataflow-aware layout for digital computing-in-memory circuits.",
     "experience": [
@@ -251,7 +251,7 @@
     "previous": "B.S., Shandong Uni.",
     "joint": "With Prof. Changhao Yan",
     "url": "/people/guanhua-chen/",
-    "photo": "/images/people/coda-cat.png",
+    "photo": "/images/people/coda-cat-typing.png",
     "photo_is_placeholder": true,
     "bio": "Works on high-level synthesis design-space exploration and circuit placement.",
     "experience": [
@@ -362,7 +362,7 @@
     "previous": "B.S., Fudan",
     "joint": "",
     "url": "/people/yu-deng/",
-    "photo": "/images/people/coda-cat.png",
+    "photo": "/images/people/coda-cat-typing.png",
     "photo_is_placeholder": true,
     "highlights": [
       {
@@ -403,7 +403,7 @@
     "previous": "B.S., Fudan",
     "joint": "",
     "url": "/people/shuang-li/",
-    "photo": "/images/people/coda-cat.png",
+    "photo": "/images/people/coda-cat-typing.png",
     "photo_is_placeholder": true,
     "experience": [
       {
@@ -423,7 +423,7 @@
     "previous": "B.S., SJTU",
     "joint": "With Changhao Yan",
     "url": "/people/xin-huang/",
-    "photo": "/images/people/coda-cat.png",
+    "photo": "/images/people/coda-cat-typing.png",
     "photo_is_placeholder": true,
     "experience": [
       {
@@ -469,7 +469,7 @@
     "previous": "Bachelor’s degree, Nanjing University of Posts and Telecommunications",
     "joint": "Primary advisor: Prof. Changhao Yan",
     "url": "/people/chengkai-zhu/",
-    "photo": "/images/people/coda-cat.png",
+    "photo": "/images/people/coda-cat-typing.png",
     "photo_is_placeholder": true,
     "links": [
       {
@@ -506,7 +506,7 @@
     "previous": "B.S., Fudan",
     "joint": "",
     "url": "/people/yaojia-wang/",
-    "photo": "/images/people/coda-cat.png",
+    "photo": "/images/people/coda-cat-typing.png",
     "photo_is_placeholder": true,
     "highlights": [
       {
@@ -524,7 +524,7 @@
     "previous": "B.S., Southeast University",
     "joint": "",
     "url": "/people/xiaoyu-hao/",
-    "photo": "/images/people/coda-cat.png",
+    "photo": "/images/people/coda-cat-typing.png",
     "photo_is_placeholder": true
   },
   {
@@ -537,7 +537,7 @@
     "previous": "B.S., SJTU",
     "joint": "",
     "url": "/people/yichen-long/",
-    "photo": "/images/people/coda-cat.png",
+    "photo": "/images/people/coda-cat-typing.png",
     "photo_is_placeholder": true,
     "name_zh": "龙羿辰",
     "program_note": "Fudan–Zhangjiang Laboratory Joint Training Program"
@@ -552,7 +552,7 @@
     "previous": "B.S., Fudan",
     "joint": "",
     "url": "/people/xunlei-jiang/",
-    "photo": "/images/people/coda-cat.png",
+    "photo": "/images/people/coda-cat-typing.png",
     "photo_is_placeholder": true,
     "name_zh": "姜迅雷",
     "highlights": [
@@ -714,7 +714,7 @@
     "period": "2023–2026",
     "joint": "With Prof. Fan Yang",
     "url": "/people/xiaoyu-zhong/",
-    "photo": "/images/people/coda-cat.png",
+    "photo": "/images/people/coda-cat-typing.png",
     "photo_is_placeholder": true,
     "bio": "Design Engineer at NVIDIA. Graduate research at Fudan included optimization methods for circuit sizing.",
     "education": [
@@ -736,7 +736,7 @@
     "period": "2023–2026",
     "joint": "With Prof. Xuan Zeng",
     "url": "/people/siwen-wang/",
-    "photo": "/images/people/coda-cat.png",
+    "photo": "/images/people/coda-cat-typing.png",
     "photo_is_placeholder": true,
     "bio": "Design Engineer at NVIDIA. Graduate research at Fudan included physics-informed RF design and parasitic modeling.",
     "education": [
