@@ -466,6 +466,7 @@
     "role": "Doctor of Engineering student",
     "program": "DEng",
     "period": "From Fall 2025",
+    "previous": "Bachelor’s degree, Nanjing University of Posts and Telecommunications",
     "joint": "Primary advisor: Prof. Changhao Yan",
     "url": "/people/chengkai-zhu/",
     "photo": "/images/people/coda-cat.png",
@@ -478,7 +479,8 @@
     ],
     "bio": "Works on power-delivery-network optimization and physical design for 2.5D chiplet systems.",
     "education": [
-      "Doctor of Engineering studies, Fudan University, 2025–present"
+      "Doctor of Engineering studies, Fudan University, 2025–present",
+      "Bachelor’s degree, Nanjing University of Posts and Telecommunications"
     ],
     "projects": [
       {
