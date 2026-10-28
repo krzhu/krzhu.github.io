@@ -19,17 +19,6 @@ redirect_from:
 {% endfor %}
 </div>
 
-<h2>Alumni</h2>
-{% assign alumni = site.data.people | where: 'status', 'alumni' %}
-<ul class="plain-list alumni-list">
-{% for member in alumni %}
-  <li id="{{ member.id }}">
-    <a href="{{ member.url | relative_url }}">{{ member.name }}</a> ({{ member.program }}, {{ member.period }}) —
-    {% if member.id == 'hongyang-pan' %}Founder &amp; CEO, <a href="https://www.traceic.com/">Trace Intelligence</a>{% else %}{{ member.role }}{% endif %}
-  </li>
-{% endfor %}
-</ul>
-
 <section class="joint-program">
   <h2>Shanghai Institute of Semiconductor Innovation (SISI)</h2>
   <p lang="zh">复旦–上海创芯学院联培项目</p>
@@ -40,5 +29,16 @@ redirect_from:
   {% endfor %}
   </div>
 </section>
+
+<h2>Alumni</h2>
+{% assign alumni = site.data.people | where: 'status', 'alumni' %}
+<ul class="plain-list alumni-list">
+{% for member in alumni %}
+  <li id="{{ member.id }}">
+    <a href="{{ member.url | relative_url }}">{{ member.name }}</a> ({{ member.program }}, {{ member.period }}) —
+    {% if member.id == 'hongyang-pan' %}Founder &amp; CEO, <a href="https://www.traceic.com/">Trace Intelligence</a>{% else %}{{ member.role }}{% endif %}
+  </li>
+{% endfor %}
+</ul>
 
 <p class="people-join">Interested in joining us? See our <a href="{{ '/opening/' | relative_url }}">information for prospective students</a>.</p>
