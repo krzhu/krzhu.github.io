@@ -380,8 +380,9 @@
     "previous": "B.S., Fudan",
     "joint": "With Prof. Xuan Zeng",
     "url": "/people/zhouyang-wu/",
-    "photo": "/images/people/coda-cat.png",
-    "photo_is_placeholder": true,
+    "photo": "/images/people/zhouyang-wu.jpg",
+    "photo_is_placeholder": false,
+    "photo_position": "50% 25%",
     "bio": "Recent work includes layout-aware standard-cell synthesis using Bayesian optimization.",
     "experience": [
       {
