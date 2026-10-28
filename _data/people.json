@@ -298,8 +298,9 @@
     "previous": "B.S., Wuhan Uni.",
     "joint": "",
     "url": "/people/boxiang-song/",
-    "photo": "/images/people/coda-cat.png",
-    "photo_is_placeholder": true,
+    "photo": "/images/people/boxiang-song.jpg",
+    "photo_is_placeholder": false,
+    "photo_position": "50% 20%",
     "bio": "Recent work includes timing-driven global routing and power-delivery-network modeling.",
     "highlights": [
       {

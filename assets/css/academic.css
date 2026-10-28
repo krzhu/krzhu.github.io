@@ -150,6 +150,8 @@ th { font-weight: 500; }
 .person-heading .email-text { margin-top: 9px; font-size: 12px; }
 .email-text { overflow-wrap: anywhere; }
 .person-content h2 { margin-top: 34px; font-size: 18px; }
+.person-snapshot { max-width: 320px; margin: 34px 0 0; }
+.person-snapshot img { display: block; width: 100%; height: auto; border-radius: 6px; }
 .person-bio { max-width: 740px; }
 .person-collaboration { font-size: 13px; color: var(--muted); }
 .plain-list { list-style: none; padding: 0; font-size: 13px; }
