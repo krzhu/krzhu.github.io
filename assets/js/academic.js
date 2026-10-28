@@ -2,18 +2,18 @@
   'use strict';
   const defaultPortraits = Array.from(document.querySelectorAll('img.member-placeholder'));
   if (defaultPortraits.length) {
-    // One choice per page: 90% typing, 2% for each of the five leisure scenes.
+    // One choice per page: 75% typing, 5% for each of the five leisure scenes.
     const leisurePortraits = [
       'coda-cat-coffee.png',
       'coda-cat-badminton.png',
       'coda-cat-switch.png',
-      'coda-cat-television.png',
+      'coda-cat-television-bilibili.png',
       'coda-cat-shopping.png',
     ];
     const choice = Math.floor(Math.random() * 100);
-    const filename = choice < 90
+    const filename = choice < 75
       ? 'coda-cat-typing.png'
-      : leisurePortraits[Math.floor((choice - 90) / 2)];
+      : leisurePortraits[Math.floor((choice - 75) / 5)];
     const source = new URL(filename, defaultPortraits[0].src).href;
     defaultPortraits.forEach((portrait) => { portrait.src = source; });
   }
