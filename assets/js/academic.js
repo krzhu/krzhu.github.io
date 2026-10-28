@@ -1,5 +1,12 @@
 (() => {
   'use strict';
+  const defaultPortraits = Array.from(document.querySelectorAll('img.member-placeholder'));
+  if (defaultPortraits.length) {
+    // Pick once per page load so every default portrait uses the same cat.
+    const filename = Math.random() < 0.5 ? 'coda-cat-typing.png' : 'coda-cat-coffee.png';
+    const source = new URL(filename, defaultPortraits[0].src).href;
+    defaultPortraits.forEach((portrait) => { portrait.src = source; });
+  }
   const button = document.querySelector('.menu-toggle');
   const nav = document.querySelector('#primary-navigation');
   if (button && nav) {
