@@ -182,6 +182,7 @@
   {
     "id": "jinhong-huang",
     "name": "Jinhong Huang",
+    "name_zh": "黄锦鸿",
     "status": "current",
     "role": "Ph.D. student",
     "program": "Ph.D.",
@@ -189,8 +190,18 @@
     "previous": "B.S., Fuzhou Uni.",
     "joint": "With Prof. Xuan Zeng",
     "url": "/people/jinhong-huang/",
-    "photo": "/images/people/coda-cat-typing.png",
-    "photo_is_placeholder": true,
+    "photo": "/images/people/jinhong-huang.jpg",
+    "photo_is_placeholder": false,
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/ElectroWarriors"
+      },
+      {
+        "label": "ORCID",
+        "url": "https://orcid.org/0009-0009-6151-1449"
+      }
+    ],
     "bio": "Recent work includes chiplet placement and neural parasitic modeling for power-delivery networks."
   },
   {
