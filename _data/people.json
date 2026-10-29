@@ -548,10 +548,49 @@
     "previous": "B.S., Shanghai Jiao Tong University",
     "joint": "",
     "url": "/people/yichen-long/",
-    "photo": "/images/people/coda-cat-typing.png",
-    "photo_is_placeholder": true,
+    "photo": "/images/people/yichen-long.jpg",
+    "photo_is_placeholder": false,
+    "photo_position": "50% 15%",
     "name_zh": "龙羿辰",
-    "program_note": "Fudan University–Zhangjiang Laboratory Joint Training Program"
+    "program_note": "Fudan University–Zhangjiang Laboratory Joint Training Program",
+    "email_display": "longyc26 AT m.fudan.edu.cn",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://yichen-long.github.io/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/Yichen-Long"
+      },
+      {
+        "label": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=bTxQB9MAAAAJ&hl=en"
+      }
+    ],
+    "bio": "Research interests include 3D integrated circuits and LLM-driven circuit design.",
+    "education": [
+      "Ph.D. studies, Fudan University, since 2026",
+      "B.S. in Microelectronics, Shanghai Jiao Tong University, 2022–2026"
+    ],
+    "extra_publications": [
+      {
+        "title": "HEALSound: Healthcare Education and Labeling for Cardiopulmonary Sounds",
+        "authors": "Yichen Long, Changyan Chen, Huajie Huang, Xuya Jiang, Qing Zhang, Yuhang Zhang, Jian Zhao, Rui Pan, and Yongfu Li",
+        "venue": "IEEE International Symposium on Circuits and Systems (ISCAS), 2025",
+        "url": "https://ieeexplore.ieee.org/document/11043827/",
+        "year": 2025
+      }
+    ],
+    "highlights": [
+      {
+        "text": "First Prize, National Finals, 9th China College IC Competition, 2025 — team leader"
+      },
+      {
+        "text": "World Winner, IEEE CASS Student Design Competition, 2024 — team member",
+        "url": "https://ieee-cas.org/post/announcement/announcing-2024-student-design-competition-winners"
+      }
+    ]
   },
   {
     "id": "xunlei-jiang",
