@@ -5,7 +5,7 @@ permalink: /research/
 nav_section: research
 ---
 
-We study how learning, optimization, and physical models can work together in chip design. Our work connects algorithms, circuits, and physical implementation, across digital, analog, and RF systems.
+We study algorithms for chip design and computing systems, bringing together learning, optimization, and physical models. Across digital, analog, and RF systems, we look at how algorithmic choices shape circuits and their physical implementation.
 
 <section class="research-area" id="learning">
   <figure>
@@ -14,7 +14,7 @@ We study how learning, optimization, and physical models can work together in ch
   </figure>
   <div>
     <h2>Learning and optimization for design</h2>
-    <p>We combine learning and mathematical optimization for high-level and logic synthesis. Program and circuit structure, together with feedback from synthesis and physical design tools, help guide the search through large design spaces.</p>
+    <p>We combine learning and mathematical optimization for high-level and logic synthesis. To guide the search through large design spaces, we use the structure of programs and circuits, along with feedback from synthesis and physical design tools.</p>
     <ul class="work-list">
       <li><a href="{{ '/publications/' | relative_url }}#lens-hls">LENS-HLS</a> <span>— LLM-guided exploration for high-level synthesis · TRETS 2026 / FPT Journal Track</span></li>
       <li><a href="{{ '/publications/' | relative_url }}#encylogic">EncyLogic</a> <span>— logic synthesis as sequence generation · ICCAD 2026</span></li>
@@ -31,7 +31,7 @@ We study how learning, optimization, and physical models can work together in ch
   </figure>
   <div>
     <h2>Co-design across abstraction layers</h2>
-    <p>Decisions in logic, dataflow, and packaging shape what physical design can achieve. We connect these decisions through physically aware synthesis, dataflow-aware computing-in-memory layout, and chiplet placement that incorporates manufacturing constraints.</p>
+    <p>We study how choices in logic, dataflow, and packaging affect the resulting design. We bring physical-design feedback into synthesis, account for dataflow when generating computing-in-memory layouts, and include manufacturing constraints in chiplet placement.</p>
     <ul class="work-list">
       <li><a href="{{ '/publications/' | relative_url }}#phyls">PhyLS</a> <span>— AI-driven physically aware synthesis · FCS 2026</span></li>
       <li><a href="https://ieeexplore.ieee.org/document/11154029/">DAMIL-DCIM+</a> <span>— dataflow-aware digital CIM layout synthesis · TCAD 2025</span></li>
@@ -47,8 +47,8 @@ We study how learning, optimization, and physical models can work together in ch
     <figcaption>An RF matching-network geometry designed by PeRIFi.</figcaption>
   </figure>
   <div>
-    <h2>Analog, RF, and physics-informed design</h2>
-    <p>Analog and RF design brings circuit behavior, device choices, and geometry into the same problem. We develop methods for circuit sizing and layout synthesis, physics-informed models for RF inverse design, and open tools and benchmarks for studying these problems.</p>
+    <h2>Analog and RF design</h2>
+    <p>We study analog and RF design by considering circuit behavior, device choices, and geometry together. Our work includes circuit sizing, layout synthesis, and physics-informed models for RF inverse design. We also develop open tools and benchmarks to make these problems easier to study and compare.</p>
     <ul class="work-list">
       <li><a href="{{ '/publications/' | relative_url }}#perifi">PeRIFi</a> <span>— physics-infused RF inverse design · DAC 2026</span></li>
       <li><a href="https://github.com/CODA-Team/AnalogGym">AnalogGym</a> <span>— circuit synthesis benchmarks · ICCAD 2024</span></li>

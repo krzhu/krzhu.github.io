@@ -12,7 +12,7 @@ redirect_from:
 
 Welcome to CODA lab at Fudan University. We study design automation and computing systems, bringing together AI, optimization, and physical modeling.
 
-Our [research]({{ '/research/' | relative_url }}) develops new methods for designing chips and explores how applications, architectures, and semiconductor technologies can be optimized together. We are interested in the interplay between algorithms and hardware, and in cross-layer co-optimization that improves the efficiency of AI and other computing workloads.
+In our [research]({{ '/research/' | relative_url }}), we develop methods for chip design and study how applications, architectures, and semiconductor technologies can be optimized together. We look at how algorithms and hardware shape each other, with the aim of making AI and other computing workloads more efficient.
 
 We are part of the [College of Integrated Circuits & Micro-Nano Electronics](https://icmne.fudan.edu.cn/) and the [State Key Laboratory of Integrated Chips and Systems](https://sklics.fudan.edu.cn/) at Fudan.
 

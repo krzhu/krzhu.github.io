@@ -7,7 +7,7 @@ english_url: /research/
 nav_section: research
 ---
 
-我们研究学习、优化与物理模型如何共同用于芯片设计，将算法、电路和物理实现联系起来，覆盖数字、模拟与射频系统。
+我们研究芯片设计与计算系统中的算法问题，关注学习方法、数学优化与物理模型如何相互配合。我们的工作从算法和电路延伸到物理实现，涉及数字、模拟与射频系统。
 
 <section class="research-area" id="learning">
   <figure>
@@ -15,8 +15,8 @@ nav_section: research
     <figcaption>PigMap2 中的布线需求估计。</figcaption>
   </figure>
   <div>
-    <h2>面向设计的学习与优化</h2>
-    <p>我们将学习方法与数学优化相结合，研究高层次综合和逻辑综合。程序与电路结构，以及综合和物理设计工具的反馈，帮助我们在大规模设计空间中开展搜索。</p>
+    <h2>芯片设计中的学习与优化</h2>
+    <p>我们结合学习方法与数学优化，研究高层次综合和逻辑综合。面对庞大的设计空间，我们利用程序和电路的结构，以及综合和物理设计工具给出的反馈，寻找更好的设计方案。</p>
     <ul class="work-list">
       <li><a href="{{ '/zh/publications/' | relative_url }}#lens-hls">LENS-HLS</a> <span>— 大语言模型引导的高层次综合设计空间探索 · TRETS 2026 / FPT Journal Track</span></li>
       <li><a href="{{ '/zh/publications/' | relative_url }}#encylogic">EncyLogic</a> <span>— 将逻辑综合建模为序列生成 · ICCAD 2026</span></li>
@@ -33,7 +33,7 @@ nav_section: research
   </figure>
   <div>
     <h2>跨层协同设计</h2>
-    <p>逻辑、数据流和封装层面的决策，共同决定物理设计能够达到的性能。我们通过物理感知综合、数据流感知的存内计算版图，以及考虑制造约束的芯粒布局，将这些决策联系起来。</p>
+    <p>我们关注逻辑、数据流和封装层面的选择如何影响最终设计。在综合中引入物理设计反馈，在生成存内计算版图时考虑数据流，在芯粒布局中纳入制造约束，是我们连接这些设计层次的几种方式。</p>
     <ul class="work-list">
       <li><a href="{{ '/zh/publications/' | relative_url }}#phyls">PhyLS</a> <span>— AI 驱动的物理感知综合 · FCS 2026</span></li>
       <li><a href="https://ieeexplore.ieee.org/document/11154029/">DAMIL-DCIM+</a> <span>— 数据流感知的数字存内计算版图综合 · TCAD 2025</span></li>
@@ -49,8 +49,8 @@ nav_section: research
     <figcaption>PeRIFi 设计的射频匹配网络几何结构。</figcaption>
   </figure>
   <div>
-    <h2>模拟、射频与物理信息引导的设计</h2>
-    <p>模拟与射频设计需要同时考虑电路行为、器件选择和几何结构。我们研究电路尺寸优化与版图综合、面向射频逆向设计的物理信息模型，并开发用于研究这些问题的开源工具和基准测试。</p>
+    <h2>模拟与射频设计</h2>
+    <p>我们把电路行为、器件选择与几何结构放在一起考虑，研究模拟与射频电路的设计方法。具体工作包括电路尺寸优化、版图综合，以及融合物理信息的射频逆向设计模型。我们也开发开源工具与测试基准，方便大家研究这些问题、比较不同方法。</p>
     <ul class="work-list">
       <li><a href="{{ '/zh/publications/' | relative_url }}#perifi">PeRIFi</a> <span>— 融合物理信息的射频逆向设计 · DAC 2026</span></li>
       <li><a href="https://github.com/CODA-Team/AnalogGym">AnalogGym</a> <span>— 电路综合基准测试 · ICCAD 2024</span></li>
