@@ -261,3 +261,18 @@ th { font-weight: 500; }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { scroll-behavior: auto !important; transition: none !important; }
 }
+
+/* The English site remains the default; both languages share the same layout. */
+.language-switch { flex: 0 0 auto; color: var(--blue); font-size: 13px; white-space: nowrap; }
+html[lang="zh-CN"] body { font-family: "PingFang SC", "Microsoft YaHei", "Noto Sans CJK SC", sans-serif; font-weight: 400; line-height: 1.85; }
+html[lang="zh-CN"] .publication-title, html[lang="zh-CN"] .publication-authors, html[lang="zh-CN"] .publication-venue { font-family: Poppins, "Helvetica Neue", Arial, sans-serif; line-height: 1.65; }
+@media (min-width: 761px) and (max-width: 980px) {
+  .primary-navigation a { padding-inline: 8px; font-size: 13px; }
+  .header-inner { gap: 12px; }
+}
+@media (max-width: 760px) {
+  .site-identity { order: 0; margin-right: auto; }
+  .language-switch { order: 1; }
+  .menu-toggle { order: 2; }
+  .primary-navigation { order: 3; }
+}

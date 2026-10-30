@@ -1,0 +1,10 @@
+{
+  "/blog/placement-across-reticle-boundaries/": {
+    "title": "连接计算任务与工艺选择",
+    "description": "从数据流、电源网络到跨光罩布局，以计算任务为起点理解系统–工艺协同优化。"
+  },
+  "/blog/when-algorithmic-exploration-becomes-cheap/": {
+    "title": "当算法探索变得便宜",
+    "description": "八项 AI 智能体 EDA 研究实验与 8,420 篇论文的分析，带来哪些关于算法研究的观察？"
+  }
+}

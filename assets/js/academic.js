@@ -1,5 +1,17 @@
 (() => {
   'use strict';
+  const isChinese = document.documentElement.lang === 'zh-CN';
+  const languageSwitch = document.querySelector('[data-language-switch]');
+  const syncLanguageSwitch = () => {
+    if (!languageSwitch) return;
+    const target = new URL(languageSwitch.href);
+    target.search = window.location.search;
+    target.hash = window.location.hash;
+    languageSwitch.href = target.href;
+  };
+  syncLanguageSwitch();
+  window.addEventListener('hashchange', syncLanguageSwitch);
+  window.addEventListener('popstate', syncLanguageSwitch);
   const defaultPortraits = Array.from(document.querySelectorAll('img.member-placeholder'));
   if (defaultPortraits.length) {
     // One choice per page: 75% typing, 5% for each of the five leisure scenes.
@@ -91,7 +103,9 @@
         button.querySelector('[data-topic-count]').textContent = topicCounts.get(button.dataset.topic);
       });
       groups.forEach((group) => { group.hidden = !group.querySelector('[data-publication]:not([hidden])'); });
-      count.textContent = visible === papers.length ? `${visible} publications` : `${visible} of ${papers.length} publications`;
+      count.textContent = isChinese
+        ? (visible === papers.length ? `共 ${visible} 篇` : `显示 ${visible} 篇，共 ${papers.length} 篇`)
+        : (visible === papers.length ? `${visible} publications` : `${visible} of ${papers.length} publications`);
       count.hidden = false;
       empty.hidden = visible !== 0;
       if (updateURL) {
@@ -101,6 +115,7 @@
         });
         url.hash = '';
         window.history.replaceState(null, '', url);
+        syncLanguageSwitch();
       }
     };
     const reset = () => {
@@ -119,6 +134,7 @@
         const url = new URL(window.location.href);
         ['q', 'type', 'year', 'topic'].forEach((key) => url.searchParams.delete(key));
         window.history.replaceState(null, '', url);
+        syncLanguageSwitch();
       }
       if (target) requestAnimationFrame(() => target.scrollIntoView({ block: 'start' }));
     };
@@ -146,7 +162,7 @@
     wrapper.setAttribute('role', 'region');
     let heading = table.previousElementSibling;
     while (heading && !/^H[1-6]$/.test(heading.tagName)) heading = heading.previousElementSibling;
-    wrapper.setAttribute('aria-label', (heading ? heading.textContent.trim() : 'Data') + ' table; scroll horizontally on small screens');
+    wrapper.setAttribute('aria-label', (heading ? heading.textContent.trim() : (isChinese ? '数据' : 'Data')) + (isChinese ? '表格；小屏幕可横向滚动' : ' table; scroll horizontally on small screens'));
     table.before(wrapper);
     wrapper.appendChild(table);
   });

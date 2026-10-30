@@ -1,11 +1,15 @@
+{% include locale.html %}
 <!doctype html>
-<html lang="en">
+<html lang="{% if lang == 'zh' %}zh-CN{% else %}en{% endif %}">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  {% assign page_description = page.description | default: page.excerpt | default: site.description | strip_html | strip_newlines %}
-  <title>{% unless page.home %}{{ page.title | escape }} · {% endunless %}CODA lab · Fudan University</title>
+  {% assign page_description = page.description | default: page.excerpt | default: ui.description | strip_html | strip_newlines %}
+  <title>{% unless page.home %}{{ page.title | escape }} · {% endunless %}{{ ui.site_name }}</title>
   <meta name="description" content="{{ page_description | escape }}">
+  <link rel="alternate" hreflang="en" href="{{ english_url | absolute_url }}">
+  <link rel="alternate" hreflang="zh-CN" href="{{ chinese_url | absolute_url }}">
+  <link rel="alternate" hreflang="x-default" href="{{ english_url | absolute_url }}">
   <meta name="theme-color" content="#e2eaf3">
   <link rel="canonical" href="{{ page.url | replace: 'index.html', '' | absolute_url }}">
   <meta property="og:type" content="website">
@@ -23,26 +27,27 @@
   {% include analytics.html %}
 </head>
 <body class="{% if page.home %}home-page{% else %}interior-page{% endif %} {{ page.page_class }}">
-  <a class="skip-link" href="#main-content">Skip to content</a>
+  <a class="skip-link" href="#main-content">{{ ui.skip }}</a>
   <header class="site-header">
     <div class="header-inner">
-      <a class="site-identity" href="{{ '/' | relative_url }}" aria-label="CODA lab home">
+      <a class="site-identity" href="{{ '/' | prepend: locale_prefix | relative_url }}" aria-label="{{ ui.home_label }}">
         <img src="{{ '/images/coda-logo-v2.png' | relative_url }}" width="210" height="70" alt="CODA lab">
       </a>
-      <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="primary-navigation" hidden>Menu</button>
-      <nav class="primary-navigation" id="primary-navigation" aria-label="Main navigation">
+      <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="primary-navigation" hidden>{{ ui.menu }}</button>
+      <nav class="primary-navigation" id="primary-navigation" aria-label="{{ ui.main_nav }}">
         {% for link in site.data.navigation.main %}
-        <a href="{{ link.url | relative_url }}"{% if page.url == link.url or page.nav_section == link.key %} aria-current="page"{% endif %}>{{ link.title }}</a>
+        <a href="{{ link.url | prepend: locale_prefix | relative_url }}"{% if english_url == link.url or page.nav_section == link.key %} aria-current="page"{% endif %}>{{ ui.nav[link.key] }}</a>
         {% endfor %}
       </nav>
+      <a class="language-switch" data-language-switch href="{% if lang == 'zh' %}{{ english_url | relative_url }}{% else %}{{ chinese_url | relative_url }}{% endif %}" lang="{% if lang == 'zh' %}en{% else %}zh-CN{% endif %}" hreflang="{% if lang == 'zh' %}en{% else %}zh-CN{% endif %}" aria-label="{% if lang == 'zh' %}Switch to English{% else %}切换到中文{% endif %}">{% if lang == 'zh' %}English{% else %}中文{% endif %}</a>
     </div>
   </header>
   {{ content }}
   <footer class="site-footer">
-    <span>CODA lab · Fudan University</span>
-    <nav aria-label="More information">
-      <a href="{{ '/teaching/' | relative_url }}">Teaching</a>
-      <a href="{{ '/resource/' | relative_url }}">Resources</a>
+    <span>{{ ui.site_name }}</span>
+    <nav aria-label="{{ ui.more_info }}">
+      <a href="{{ '/teaching/' | prepend: locale_prefix | relative_url }}">{{ ui.teaching }}</a>
+      <a href="{{ '/resource/' | prepend: locale_prefix | relative_url }}">{{ ui.resources }}</a>
       <a href="https://github.com/CODA-Team">GitHub</a>
     </nav>
   </footer>

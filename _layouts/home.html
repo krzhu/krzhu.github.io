@@ -1,10 +1,11 @@
 ---
 layout: academic
 ---
+{% include locale.html %}
 <main id="main-content" class="site-container home-main">
-  <h1 class="visually-hidden">CODA lab at Fudan University</h1>
+  <h1 class="visually-hidden">{{ ui.home_title }}</h1>
   <figure class="home-hero">
-    <img src="{{ '/images/fudan-die-hero.png' | relative_url }}" width="1672" height="941" fetchpriority="high" alt="A silicon die held between two fingers, with magnolia blossoms and the Fudan laboratory entrance softly blurred behind it.">
+    <img src="{{ '/images/fudan-die-hero.png' | relative_url }}" width="1672" height="941" fetchpriority="high" alt="{{ ui.hero_alt }}">
   </figure>
   <div class="home-introduction">{{ content }}</div>
   {% include news.html home=true limit=6 %}

@@ -31,6 +31,23 @@ JEKYLL_ENV=production bundle exec jekyll build --safe
 
 GitHub Pages publishes the root of `main`. The domain is configured in `CNAME` and `_config.yml`. Analytics is enabled only for production builds.
 
+## Languages
+
+English is the default at `/` and the source of truth. Chinese pages live under
+`_pages/zh/` and use `/zh/` URLs. Each Chinese page declares `lang: zh` and an
+`english_url` pointing to its English counterpart. The header switches between
+matching pages and preserves publication filters and anchors.
+
+Shared labels are in `_data/i18n.json`. Chinese profile, news, and blog metadata
+are keyed by their existing IDs or URLs in `_data/people_zh.json`,
+`_data/news_zh.json`, and `_data/blog_zh.json`; untranslated new entries fall back
+to English. Update both languages when changing editorial content.
+
+Publication titles, authors, venues, and topic assignments are maintained only
+in `_data/publications.json` and stay in English in both versions. Translate
+publication notes (such as corresponding authorship) in
+`_data/publication_notes_zh.json`, without duplicating the publication list.
+
 ## News
 
 Each news entry has a stable `id`, an editorial `order` (higher first), a

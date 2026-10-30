@@ -1,3 +1,4 @@
+{%- include locale.html -%}
 {%- assign profile_member = include.member -%}
 {%- capture rendered_profile_links -%}
   {%- for profile in profile_member.links -%}
@@ -5,8 +6,9 @@
     {%- assign profile_label = profile.label -%}
     {%- assign show_profile = true -%}
     {%- case profile_kind -%}
-      {%- when 'website' -%}{%- assign profile_label = 'Personal website' -%}
-      {%- when 'github', 'orcid', 'google scholar' -%}
+      {%- when 'website' -%}{%- assign profile_label = ui.website -%}
+      {%- when 'google scholar' -%}{%- assign profile_label = ui.scholar -%}
+      {%- when 'github', 'orcid' -%}
       {%- else -%}
         {%- if include.compact -%}{%- assign show_profile = false -%}{%- endif -%}
     {%- endcase -%}
@@ -19,7 +21,7 @@
   {%- endfor -%}
 {%- endcapture -%}
 {%- if rendered_profile_links != empty -%}
-<nav class="profile-links {% if include.compact %}member-links{% else %}person-links{% endif %}" aria-label="{{ profile_member.name | escape }}'s external profiles">
+<nav class="profile-links {% if include.compact %}member-links{% else %}person-links{% endif %}" aria-label="{{ profile_member.name | escape }} · {{ ui.external_profiles }}">
   {{ rendered_profile_links }}
 </nav>
 {%- endif -%}

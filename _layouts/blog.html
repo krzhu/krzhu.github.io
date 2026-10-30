@@ -1,12 +1,13 @@
 ---
 layout: academic
 ---
+{% include locale.html %}
 <main id="main-content" class="site-container interior-main blog-article">
-  <a class="back-to-blog" href="{{ '/blog/' | relative_url }}">← Blog</a>
+  <a class="back-to-blog" href="{{ '/blog/' | prepend: locale_prefix | relative_url }}">← {{ ui.blog }}</a>
   <article>
     <header class="blog-header">
       <h1>{{ page.title }}</h1>
-      <p class="blog-meta">{{ page.author }} · <time datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date: '%B %-d, %Y' }}</time></p>
+      <p class="blog-meta">{{ page.author }} · <time datetime="{{ page.date | date: '%Y-%m-%d' }}">{% if lang == 'zh' %}{{ page.date | date: '%Y年%-m月%-d日' }}{% else %}{{ page.date | date: '%B %-d, %Y' }}{% endif %}</time></p>
     </header>
     <div class="prose blog-body">{{ content }}</div>
   </article>

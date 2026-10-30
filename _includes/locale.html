@@ -1,0 +1,6 @@
+{%- assign lang = page.lang | default: 'en' -%}
+{%- assign ui = site.data.i18n[lang] -%}
+{%- assign locale_prefix = '' -%}
+{%- if lang == 'zh' -%}{%- assign locale_prefix = '/zh' -%}{%- endif -%}
+{%- assign english_url = page.english_url | default: page.url -%}
+{%- assign chinese_url = '/zh' | append: english_url -%}

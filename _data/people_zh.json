@@ -1,0 +1,495 @@
+{
+  "cunqing-lan": {
+    "display_name": "Cunqing Lan",
+    "role": "博士生",
+    "program": "硕博连读",
+    "membership": "2023年秋季加入课题组",
+    "previous": "硕士，复旦大学",
+    "bio": "研究物理感知逻辑综合与工艺映射。",
+    "experience": [
+      {
+        "position": "实习生",
+        "organization": "淬思科技",
+        "url": "https://www.traceic.com/"
+      }
+    ],
+    "highlights": [
+      {
+        "text": "MLCAD 2025 ReSynthAI 竞赛第一名（共27支队伍）"
+      },
+      {
+        "text": "CCF-DAC 2025 Demo 竞赛优秀 Demo 奖——PhyLS"
+      }
+    ]
+  },
+  "zijian-jiang": {
+    "display_name": "Zijian Jiang",
+    "role": "博士生",
+    "program": "硕博连读",
+    "membership": "2023年秋季加入课题组",
+    "previous": "硕士，复旦大学",
+    "bio": "近期研究包括基于学习的逻辑综合与物理感知综合序列。"
+  },
+  "yujie-yan": {
+    "display_name": "Yujie Yan（严宇杰）",
+    "role": "博士生",
+    "program": "博士",
+    "membership": "2024年秋季加入课题组",
+    "previous": "本科，华中科技大学",
+    "bio": "研究高层次综合、编译器与基于学习的设计自动化。",
+    "education": [
+      "复旦大学博士研究生，2021年至今",
+      "华中科技大学工学学士，2021"
+    ],
+    "experience": [
+      "爱丁堡大学访问博士生，2026年4月至今，合作导师：Jianyi Cheng",
+      "合见工软算法实习生，2024年7月–2026年1月",
+      "复旦微电子软件／HLS 实习生，2023年6月–2024年6月",
+      "复旦微电子 EDA 软件实习生，2021年夏季"
+    ],
+    "highlights": [
+      {
+        "text": "CSC 资助博士生访学，爱丁堡大学，2026"
+      },
+      {
+        "text": "UCLA–AMD 高层次综合芯片设计机器学习竞赛全球第二名",
+        "url": "https://www.kaggle.com/competitions/machine-learning-contest-for-high-level-synthesis/overview"
+      },
+      {
+        "text": "全国大学生集成电路创新创业大赛全国优秀奖"
+      },
+      {
+        "text": "MCM/ICM 美国大学生数学建模竞赛荣誉奖"
+      },
+      {
+        "text": "复旦大学学业奖学金：一等奖一次、二等奖两次"
+      },
+      {
+        "text": "复旦大学优秀学生"
+      },
+      {
+        "text": "华中科技大学优秀毕业生，2021"
+      }
+    ]
+  },
+  "chuyu-wang": {
+    "display_name": "Chuyu Wang",
+    "role": "博士生",
+    "program": "博士",
+    "membership": "2024年秋季加入课题组",
+    "previous": "本科，复旦大学",
+    "joint": "与Xuan Zeng（曾璇）教授联合指导",
+    "bio": "近期研究包括数据流感知的存内计算版图与时序驱动全局布线。",
+    "experience": [
+      {
+        "position": "实习生",
+        "organization": "字节跳动",
+        "url": "https://www.bytedance.com/en/"
+      }
+    ],
+    "highlights": [
+      {
+        "text": "ISPD 2025 性能驱动全局布线竞赛第三名（共46支队伍）",
+        "url": "https://www.ispd.cc/contests/25/index.html"
+      }
+    ]
+  },
+  "liwen-jiang": {
+    "display_name": "Liwen Jiang（姜力文）",
+    "role": "工程博士生",
+    "program": "工程博士",
+    "membership": "2024年秋季加入课题组",
+    "previous": "本科，华侨大学",
+    "joint": "与Zhiang Wang（王志昂）教授联合指导",
+    "bio": "研究超大规模集成电路物理设计与布局。",
+    "education": [
+      "复旦大学工程博士研究生，2024年至今",
+      "华侨大学工学学士，2024"
+    ],
+    "experience": [
+      "字节跳动实习生",
+      "合见工软算法实习生，2025"
+    ]
+  },
+  "jinhong-huang": {
+    "display_name": "Jinhong Huang（黄锦鸿）",
+    "role": "博士生",
+    "program": "博士",
+    "membership": "2024年秋季加入课题组",
+    "previous": "本科，福州大学",
+    "joint": "与Xuan Zeng（曾璇）教授联合指导",
+    "bio": "近期研究包括芯粒布局与电源网络的神经网络寄生参数建模。"
+  },
+  "zecheng-xu": {
+    "display_name": "Zecheng Xu",
+    "role": "工程博士生",
+    "program": "工程博士",
+    "membership": "2024年秋季加入课题组",
+    "previous": "本科，复旦大学",
+    "joint": "与 Yumao Wu 教授联合指导",
+    "bio": "近期研究包括时序驱动布线与电路版图自动化。",
+    "experience": [
+      {
+        "position": "实习生",
+        "organization": "华大九天",
+        "url": "https://www.empyrean.com.cn/"
+      }
+    ],
+    "highlights": [
+      {
+        "text": "ISPD 2025 性能驱动全局布线竞赛第三名（共46支队伍）",
+        "url": "https://www.ispd.cc/contests/25/index.html"
+      }
+    ]
+  },
+  "xinglong-yan": {
+    "display_name": "Xinglong Yan",
+    "role": "硕士生",
+    "program": "硕士",
+    "membership": "2024年秋季加入课题组",
+    "previous": "本科，同济大学",
+    "bio": "近期研究包括数字存内计算电路的数据流感知版图自动化。",
+    "experience": [
+      {
+        "position": "实习生",
+        "organization": "Analog Devices（ADI）",
+        "url": "https://www.analog.com/en/index.html"
+      }
+    ]
+  },
+  "guanhua-chen": {
+    "display_name": "Guanhua Chen",
+    "role": "博士生",
+    "program": "博士",
+    "membership": "2025年春季加入课题组",
+    "previous": "本科，山东大学",
+    "joint": "与Changhao Yan（严昌浩）教授联合指导",
+    "bio": "研究高层次综合设计空间探索与电路布局。",
+    "experience": [
+      {
+        "position": "创始团队工程实习生",
+        "organization": "淬思科技",
+        "url": "https://www.traceic.com/"
+      }
+    ]
+  },
+  "xinyi-yang": {
+    "display_name": "Xinyi Yang（杨昕怡）",
+    "role": "博士生",
+    "program": "博士",
+    "membership": "2025年秋季加入课题组",
+    "previous": "本科，复旦大学",
+    "experience": [
+      {
+        "position": "实习生",
+        "organization": "培风图南半导体",
+        "url": "https://www.pftn-semi.com/"
+      }
+    ],
+    "highlights": [
+      {
+        "text": "中国研究生创“芯”大赛·EDA 精英挑战赛全国三等奖，2024"
+      }
+    ]
+  },
+  "boxiang-song": {
+    "display_name": "Boxiang Song",
+    "role": "博士生",
+    "program": "博士",
+    "membership": "2025年秋季加入课题组",
+    "previous": "本科，武汉大学",
+    "bio": "近期研究包括时序驱动全局布线与电源网络建模。",
+    "highlights": [
+      {
+        "text": "ISPD 2025 性能驱动全局布线竞赛第三名（共46支队伍）",
+        "url": "https://www.ispd.cc/contests/25/index.html"
+      },
+      {
+        "text": "openDACS 开源 EDA 与芯片大赛优秀奖，2025"
+      }
+    ]
+  },
+  "benchao-zhu": {
+    "display_name": "Benchao Zhu（朱奔超）",
+    "role": "博士生",
+    "program": "博士",
+    "membership": "2025年秋季加入课题组",
+    "previous": "硕士，复旦大学",
+    "bio": "研究物理设计，包括详细布局与多比特触发器综合。",
+    "highlights": [
+      {
+        "text": "ISPD 2023 竞赛第一名，FDUEDA 队成员",
+        "url": "https://www.ispd.cc/contests/23/index.html"
+      }
+    ]
+  },
+  "yu-deng": {
+    "display_name": "Yu Deng（邓驭）",
+    "role": "学术型硕士生",
+    "program": "学术型硕士",
+    "membership": "2025年秋季加入课题组",
+    "previous": "本科，复旦大学",
+    "highlights": [
+      {
+        "text": "中国研究生创“芯”大赛·EDA 精英挑战赛全国三等奖，2024"
+      }
+    ]
+  },
+  "zhouyang-wu": {
+    "display_name": "Zhouyang Wu（伍洲扬）",
+    "role": "博士生",
+    "program": "博士",
+    "membership": "2025年秋季加入课题组",
+    "previous": "本科，复旦大学",
+    "joint": "与Xuan Zeng（曾璇）教授联合指导",
+    "bio": "近期研究包括利用贝叶斯优化进行版图感知标准单元综合。",
+    "experience": [
+      {
+        "position": "实习生",
+        "organization": "淬思科技",
+        "url": "https://www.traceic.com/"
+      }
+    ]
+  },
+  "shuang-li": {
+    "display_name": "Shuang Li（李爽）",
+    "role": "硕士生",
+    "program": "硕士",
+    "membership": "2025年秋季加入课题组",
+    "previous": "本科，复旦大学",
+    "experience": [
+      {
+        "position": "实习生",
+        "organization": "沐曦",
+        "url": "https://www.metax-tech.com/"
+      }
+    ]
+  },
+  "xin-huang": {
+    "display_name": "Xin Huang",
+    "role": "博士生",
+    "program": "博士",
+    "membership": "2025年秋季加入课题组",
+    "previous": "本科，上海交通大学",
+    "joint": "与Changhao Yan（严昌浩）教授联合指导",
+    "experience": [
+      {
+        "position": "实习生",
+        "organization": "CUMEC",
+        "url": "https://www.cumec.cn/"
+      }
+    ]
+  },
+  "pujun-su": {
+    "display_name": "Pujun Su",
+    "role": "硕士生",
+    "program": "硕士",
+    "membership": "2025年秋季加入课题组",
+    "previous": "本科，中国海洋大学",
+    "joint": "与 Danqing Wang 教授联合指导",
+    "experience": [
+      {
+        "position": "实习生",
+        "organization": "CUMEC",
+        "url": "https://www.cumec.cn/"
+      }
+    ],
+    "highlights": [
+      {
+        "text": "中国研究生创“芯”大赛·EDA 精英挑战赛全国三等奖，2025"
+      }
+    ]
+  },
+  "chengkai-zhu": {
+    "display_name": "Chengkai Zhu",
+    "role": "工程博士生",
+    "program": "工程博士",
+    "membership": "2025年秋季加入课题组",
+    "previous": "本科，南京邮电大学",
+    "joint": "主要导师：Changhao Yan（严昌浩）教授",
+    "bio": "研究 2.5D 芯粒系统的电源网络优化与物理设计。",
+    "education": [
+      "复旦大学工程博士研究生，2025年至今",
+      "南京邮电大学学士"
+    ],
+    "highlights": [
+      {
+        "text": "华大九天2026年 PyAether 生态活动卓越成果奖——CNE-PDN",
+        "url": "/zh/news/#pyaether-cne-pdn-award-2026"
+      }
+    ],
+    "projects": [
+      {
+        "label": "CNE-PDN",
+        "url": "https://github.com/ckzhu-research/CNE-PDN",
+        "description": "面向 2.5D 集成电路的电源网络几何与 TSV 布局联合优化。"
+      }
+    ]
+  },
+  "yaojia-wang": {
+    "display_name": "Yaojia Wang（王瑶珈）",
+    "role": "博士生",
+    "program": "博士",
+    "membership": "2026年秋季加入课题组",
+    "previous": "本科，复旦大学",
+    "highlights": [
+      {
+        "text": "IWLS 2026 最佳学生论文候选——Frontier-Based Joint Covering for Dual-Output LUT Mapping"
+      }
+    ]
+  },
+  "xiaoyu-hao": {
+    "display_name": "Xiaoyu Hao",
+    "role": "博士生",
+    "program": "博士",
+    "membership": "2026年秋季加入课题组",
+    "previous": "本科，东南大学"
+  },
+  "yichen-long": {
+    "display_name": "Yichen Long（龙羿辰）",
+    "role": "博士生",
+    "program": "博士",
+    "membership": "2026年秋季加入课题组",
+    "previous": "本科，上海交通大学",
+    "bio": "研究兴趣包括三维集成电路与大语言模型驱动的电路设计。",
+    "education": [
+      "复旦大学博士研究生，2026年至今",
+      "上海交通大学微电子学学士，2022–2026"
+    ],
+    "program_note": "复旦大学–张江实验室联合培养项目",
+    "highlights": [
+      {
+        "text": "第九届全国大学生集成电路创新创业大赛全国总决赛一等奖，2025，队长"
+      },
+      {
+        "text": "IEEE CASS 学生设计竞赛全球冠军，2024，团队成员",
+        "url": "https://ieee-cas.org/post/announcement/announcing-2024-student-design-competition-winners"
+      }
+    ]
+  },
+  "xunlei-jiang": {
+    "display_name": "Xunlei Jiang（姜迅雷）",
+    "role": "硕士生",
+    "program": "硕士",
+    "membership": "2026年秋季加入课题组",
+    "previous": "本科，复旦大学",
+    "highlights": [
+      {
+        "text": "中国研究生创“芯”大赛·EDA 精英挑战赛全国三等奖，2024"
+      }
+    ]
+  },
+  "shuyi-zhang": {
+    "display_name": "Shuyi Zhang（张书以）",
+    "role": "硕士生",
+    "education": [
+      "复旦大学硕士研究生",
+      "南京信息工程大学电子科学与技术学士，2021"
+    ],
+    "program_note": "复旦大学–上海创芯学院（SISI）联合培养项目",
+    "experience": [
+      {
+        "position": "技术支持／现场应用工程师",
+        "organization": "泰克（中国）",
+        "period": "2022年12月–2024年1月"
+      },
+      {
+        "position": "项目管理",
+        "organization": "立讯精密",
+        "period": "2022年5月–12月"
+      },
+      {
+        "position": "质量工程师",
+        "organization": "立讯精密",
+        "period": "2021年7月–2022年4月"
+      }
+    ]
+  },
+  "keren-zhu": {
+    "display_name": "Keren Zhu（朱可人）",
+    "role": "助理教授",
+    "bio": "复旦大学集成电路与微纳电子学院助理教授。研究兴趣包括设计自动化、优化方法与 AI 辅助芯片设计。",
+    "education": [
+      "德克萨斯大学奥斯汀分校，电气与计算机工程博士",
+      "威斯康星大学麦迪逊分校，电气工程学士，最高荣誉毕业"
+    ],
+    "experience": [
+      "香港中文大学计算机科学与工程学系研究助理教授，2023–2024",
+      "德克萨斯大学奥斯汀分校电气与计算机工程系博士后研究员，2022年8月–2023年2月，合作导师：David Z. Pan"
+    ],
+    "highlights": [
+      {
+        "text": "世界顶尖科学家奖“青年科学家奖”提名奖，2026"
+      },
+      {
+        "text": "《麻省理工科技评论》亚太区“35岁以下科技创新35人”，2025"
+      },
+      {
+        "text": "ISEDA 2025 最佳论文奖"
+      }
+    ]
+  },
+  "hongyang-pan": {
+    "display_name": "Hongyang Pan（潘鸿洋）",
+    "role": "淬思科技创始人、首席执行官",
+    "program": "博士",
+    "membership": "2023–2026",
+    "previous": "硕士，宁波大学, 2023",
+    "joint": "与Fan Yang（杨帆）教授联合指导",
+    "bio": "淬思科技创始人、首席执行官。研究兴趣包括逻辑综合、物理感知综合与 SAT 求解。",
+    "education": [
+      "复旦大学博士，2026",
+      "宁波大学硕士，2023",
+      "宁波大学学士，2019"
+    ],
+    "highlights": [
+      {
+        "text": "IWLS 2026 最佳学生论文候选——Frontier-Based Joint Covering for Dual-Output LUT Mapping"
+      },
+      {
+        "text": "复旦大学“卓越杯”创新创业大赛二等奖，2026"
+      },
+      {
+        "text": "MLCAD 2025 ReSynthAI 竞赛第一名（共27支队伍）"
+      },
+      {
+        "text": "CCF-DAC 2025 Demo 竞赛优秀 Demo 奖——PhyLS"
+      }
+    ],
+    "projects": [
+      {
+        "label": "PhyLS",
+        "url": "https://github.com/panhomyoung/phyLS",
+        "description": "物理感知逻辑综合平台。"
+      }
+    ]
+  },
+  "xiaoyu-zhong": {
+    "display_name": "Xiaoyu Zhong",
+    "role": "NVIDIA 设计工程师",
+    "program": "学术型硕士",
+    "membership": "2023–2026",
+    "joint": "与Fan Yang（杨帆）教授联合指导",
+    "bio": "NVIDIA 设计工程师。在复旦大学读研期间研究电路尺寸设计的优化方法。",
+    "education": [
+      "复旦大学学术型硕士，2026"
+    ],
+    "highlights": [
+      {
+        "text": "ISEDA 2025 最佳论文奖——PZTA: Accelerating Analog Circuit Sizing With A Transferable Circuit Theory-Inspired Pole-Zero Transient Assertion System",
+        "url": "/zh/publications/#paper-C44"
+      }
+    ]
+  },
+  "siwen-wang": {
+    "display_name": "Siwen Wang",
+    "role": "NVIDIA 设计工程师",
+    "program": "硕士",
+    "membership": "2023–2026",
+    "joint": "与Xuan Zeng（曾璇）教授联合指导",
+    "bio": "NVIDIA 设计工程师。在复旦大学读研期间研究物理信息引导的射频设计与寄生参数建模。",
+    "education": [
+      "复旦大学硕士，2026"
+    ]
+  }
+}
