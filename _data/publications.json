@@ -80,6 +80,31 @@
     ]
   },
   {
+    "id": "J22",
+    "topics": ["ai", "synthesis"],
+    "title": "HOLMES 2.0: Holistic Optimization and Learning-based Multi-model Exploration System for High-Level Synthesis",
+    "authors": "Yujie Yan, Guanhua Chen, Ruiyu Lyu, Huizhen Kuang, Lingli Wang, and Keren Zhu†",
+    "author_names": [
+      "Yujie Yan",
+      "Guanhua Chen",
+      "Ruiyu Lyu",
+      "Huizhen Kuang",
+      "Lingli Wang",
+      "Keren Zhu"
+    ],
+    "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026.",
+    "year": 2026,
+    "type": "Journal",
+    "notes": [
+      "Accepted",
+      "† Corresponding author"
+    ],
+    "anchors": [
+      "holmes-2",
+      "journal-papers"
+    ]
+  },
+  {
     "id": "J21",
     "topics": [
       "physical",
@@ -131,8 +156,7 @@
       "† Corresponding author"
     ],
     "anchors": [
-      "lens-hls",
-      "journal-papers"
+      "lens-hls"
     ]
   },
   {
