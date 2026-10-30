@@ -33,7 +33,6 @@
       <a class="site-identity" href="{{ '/' | prepend: locale_prefix | relative_url }}" aria-label="{{ ui.home_label }}">
         <img src="{{ '/images/coda-logo-v2.png' | relative_url }}" width="210" height="70" alt="CODA lab">
       </a>
-      <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="primary-navigation" hidden>{{ ui.menu }}</button>
       <nav class="primary-navigation" id="primary-navigation" aria-label="{{ ui.main_nav }}">
         {% for link in site.data.navigation.main %}
         <a href="{{ link.url | prepend: locale_prefix | relative_url }}"{% if english_url == link.url or page.nav_section == link.key %} aria-current="page"{% endif %}>{{ ui.nav[link.key] }}</a>

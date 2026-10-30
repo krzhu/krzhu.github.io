@@ -29,31 +29,6 @@
     const source = new URL(filename, defaultPortraits[0].src).href;
     defaultPortraits.forEach((portrait) => { portrait.src = source; });
   }
-  const button = document.querySelector('.menu-toggle');
-  const nav = document.querySelector('#primary-navigation');
-  if (button && nav) {
-    document.documentElement.classList.add('nav-ready');
-    const mobile = window.matchMedia('(max-width: 760px)');
-    const closeMenu = () => {
-      nav.classList.remove('is-open');
-      button.setAttribute('aria-expanded', 'false');
-    };
-    const syncMenu = () => { button.hidden = !mobile.matches; closeMenu(); };
-    button.addEventListener('click', () => {
-      const open = button.getAttribute('aria-expanded') !== 'true';
-      button.setAttribute('aria-expanded', String(open));
-      nav.classList.toggle('is-open', open);
-    });
-    document.addEventListener('keydown', (event) => {
-      if (event.key === 'Escape' && button.getAttribute('aria-expanded') === 'true') { closeMenu(); button.focus(); }
-    });
-    document.addEventListener('click', (event) => {
-      if (!nav.contains(event.target) && !button.contains(event.target)) closeMenu();
-    });
-    nav.addEventListener('click', (event) => { if (event.target.closest('a')) closeMenu(); });
-    mobile.addEventListener('change', syncMenu);
-    syncMenu();
-  }
   const filters = document.querySelector('#publication-filters');
   if (filters) {
     const query = filters.querySelector('[name="q"]');
