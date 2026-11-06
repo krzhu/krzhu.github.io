@@ -517,8 +517,8 @@
     "previous": "B.S., Fudan University",
     "joint": "",
     "url": "/people/yaojia-wang/",
-    "photo": "/images/people/coda-cat-typing.png",
-    "photo_is_placeholder": true,
+    "photo": "/images/people/yaojia-wang.jpg",
+    "photo_is_placeholder": false,
     "highlights": [
       {
         "text": "Best Student Paper Candidate, IWLS 2026 — Frontier-Based Joint Covering for Dual-Output LUT Mapping"
