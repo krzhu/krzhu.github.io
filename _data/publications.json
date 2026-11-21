@@ -582,6 +582,48 @@
     ]
   },
   {
+    "id": "C70",
+    "topics": ["physical"],
+    "title": "CoMPO: Contextual Move Pricing for Differentiable Physical Optimization",
+    "authors": "Cunqing Lan, Zhiang Wang†, and Keren Zhu†",
+    "author_names": [
+      "Cunqing Lan",
+      "Zhiang Wang",
+      "Keren Zhu"
+    ],
+    "venue": "IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Dresden, Germany, Mar. 22-24, 2027.",
+    "year": 2027,
+    "type": "Conference",
+    "notes": [
+      "† Corresponding authors",
+      "Accepted"
+    ],
+    "anchors": [
+      "compo"
+    ]
+  },
+  {
+    "id": "C69",
+    "topics": ["physical"],
+    "title": "Optimum-Preserving Coarsening for Balanced Hypergraph Bipartitioning",
+    "authors": "Yu Deng, Xinyi Yang, and Keren Zhu†",
+    "author_names": [
+      "Yu Deng",
+      "Xinyi Yang",
+      "Keren Zhu"
+    ],
+    "venue": "IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Dresden, Germany, Mar. 22-24, 2027.",
+    "year": 2027,
+    "type": "Conference",
+    "notes": [
+      "† Corresponding author",
+      "Accepted"
+    ],
+    "anchors": [
+      "optimum-preserving-coarsening"
+    ]
+  },
+  {
     "id": "C68",
     "topics": [
       "modeling",
