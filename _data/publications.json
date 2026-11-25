@@ -80,6 +80,69 @@
     ]
   },
   {
+    "id": "J24",
+    "topics": [
+      "physical",
+      "packaging"
+    ],
+    "title": "RAPID-DTC: A Routability and Power Supply Integrity-aware Framework for Chiplet and Deep Trench Capacitor Array Placement",
+    "authors": "Jinhong Huang, Yunhui Li, Hanwen Guo, Chengkai Zhu, Boxiang Song, Bo Jiao, Yuman Zeng, Keren Zhu†, Changhao Yan, Chixiao Chen, Xuan Zeng†, and Keyu Duan",
+    "author_names": [
+      "Jinhong Huang",
+      "Yunhui Li",
+      "Hanwen Guo",
+      "Chengkai Zhu",
+      "Boxiang Song",
+      "Bo Jiao",
+      "Yuman Zeng",
+      "Keren Zhu",
+      "Changhao Yan",
+      "Chixiao Chen",
+      "Xuan Zeng",
+      "Keyu Duan"
+    ],
+    "venue": "ACM Transactions on Design Automation of Electronic Systems (TODAES), 2026.",
+    "year": 2026,
+    "type": "Journal",
+    "notes": [
+      "Accepted",
+      "† Corresponding authors"
+    ],
+    "anchors": [
+      "rapid-dtc"
+    ]
+  },
+  {
+    "id": "J23",
+    "topics": [
+      "ai",
+      "computing"
+    ],
+    "title": "Async-SRBO: Disagreement-Driven Asynchronous Self-Review Bayesian Optimization for Microarchitecture Design Space Exploration",
+    "authors": "Yiyang Zhao, Xuyang Zhao, Zheng Wu, Tianning Gao, Keren Zhu, Zhaori Bi†, Changhao Yan†, Dian Zhou, and Xuan Zeng†",
+    "author_names": [
+      "Yiyang Zhao",
+      "Xuyang Zhao",
+      "Zheng Wu",
+      "Tianning Gao",
+      "Keren Zhu",
+      "Zhaori Bi",
+      "Changhao Yan",
+      "Dian Zhou",
+      "Xuan Zeng"
+    ],
+    "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026.",
+    "year": 2026,
+    "type": "Journal",
+    "notes": [
+      "Accepted",
+      "† Corresponding authors"
+    ],
+    "anchors": [
+      "async-srbo"
+    ]
+  },
+  {
     "id": "J22",
     "topics": ["ai", "synthesis"],
     "title": "HOLMES 2.0: Holistic Optimization and Learning-based Multi-model Exploration System for High-Level Synthesis",
